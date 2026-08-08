@@ -20,6 +20,14 @@ else
 fi
 
 echo "→ 传输到 $HOST:$DEST …"
-tar -C "$SRC" -czf - . | ssh "$HOST" "sudo mkdir -p '$DEST' && sudo tar -C '$DEST' -xzf -"
+# 解到临时目录再整体换过去：旧的哈希资源不会残留，切换期间站点也不会出现空目录
+tar -C "$SRC" -czf - . | ssh "$HOST" "
+  set -e
+  sudo rm -rf '$DEST.new' '$DEST.old'
+  sudo mkdir -p '$DEST.new' '$DEST'
+  sudo tar -C '$DEST.new' -xzf -
+  sudo mv '$DEST' '$DEST.old' && sudo mv '$DEST.new' '$DEST'
+  sudo rm -rf '$DEST.old'
+"
 
 echo "✔ 完成。首次部署请在远程机器按 deploy/yangtze.nginx.conf 配置 nginx 并 reload。"
