@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+import { Suspense, lazy, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { RiverMap } from './components/RiverMap'
 import { DetailPanel } from './components/DetailPanel'
 import { TimelineBar } from './components/TimelineBar'
@@ -11,7 +11,12 @@ import { eventIntensity, posToYear, yearToPos } from './data/timeScale'
 import { UI, useLang, type Lang } from './i18n'
 import type { EventCategory, L10n, RiverEvent } from './data/types'
 
-export type ViewMode = 'explore' | 'timeline'
+export type ViewMode = 'explore' | 'timeline' | 'graph'
+
+// 图谱视图连同 d3-force 一起单独打包：不打开这个 tab 就不会下载
+const GraphView = lazy(() =>
+  import('./components/GraphView').then((m) => ({ default: m.GraphView })),
+)
 
 export const CATEGORY_COLORS: Record<EventCategory, string> = {
   治水史: 'var(--cat-water)',
@@ -123,6 +128,15 @@ export default function App() {
           <button className={mode === 'timeline' ? 'active' : ''} onClick={() => setMode('timeline')}>
             {t(UI.viewTimeline)}
           </button>
+          <button
+            className={mode === 'graph' ? 'active' : ''}
+            onClick={() => {
+              setMode('graph')
+              setPlaying(false)
+            }}
+          >
+            {t(UI.viewGraph)}
+          </button>
         </nav>
         {mode === 'timeline' ? (
           <div className="legend">
@@ -159,7 +173,12 @@ export default function App() {
       </header>
 
       <main className="canvas-wrap">
-        {isMobile ? (
+        {mode === 'graph' ? (
+          <Suspense fallback={<div className="graph-status">{t(UI.kgLoading)}</div>}>
+            <GraphView onOpenSite={(id) => selectLocation(id)} />
+            <div className="hint">{t(UI.kgHint)}</div>
+          </Suspense>
+        ) : isMobile ? (
           mode === 'explore' ? (
             <MobileJourney onSelect={selectLocation} />
           ) : (

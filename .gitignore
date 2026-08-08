@@ -1,3 +1,6 @@
 node_modules/
 dist/
 *.tsbuildinfo
+
+# KG 构建脚本的 SPARQL 缓存（kg.json 已提交，缓存不必进仓库）
+tools/kg/.cache/
