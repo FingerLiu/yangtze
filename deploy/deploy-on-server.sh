@@ -3,13 +3,12 @@
 # 机器上只需要 git 和 nginx，不需要 node/npm。
 #
 # 首次部署:
-#   git clone -b claude/yangtze-river-mindmap-site-m4w2yu \
-#       https://github.com/hyper-instrument/ace-superpowers.git ~/yangtze-site
-#   sudo ~/yangtze-site/yangtze/deploy/deploy-on-server.sh
+#   git clone git@github.com:FingerLiu/yangtze.git ~/yangtze
+#   sudo ~/yangtze/deploy/deploy-on-server.sh
 #   # 再按 yangtze.nginx.conf 里的说明加 nginx 配置并 reload（只需做一次）
 #
 # 之后更新:
-#   git -C ~/yangtze-site pull && sudo ~/yangtze-site/yangtze/deploy/deploy-on-server.sh
+#   git -C ~/yangtze pull && sudo ~/yangtze/deploy/deploy-on-server.sh
 set -euo pipefail
 
 DEST="${1:-/srv/yangtze}"

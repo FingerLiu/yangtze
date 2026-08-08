@@ -36,31 +36,35 @@ npm run preview  # 预览构建产物
 
 ## 部署（不影响机器上其他服务）
 
-仓库自带**构建成品** `yangtze/release/`，部署机上只需要 git + nginx（不需要 node）。脚本与 nginx 配置片段在 `yangtze/deploy/`：
+线上地址：**https://yangtze.xunxiang.store**（部署机 `xiang` = 8.147.63.101，站点目录 `/srv/yangtze`）。
 
-**在部署机（如 xiang）上，首次部署三步：**
+仓库自带**构建成品** `release/`，部署机上只需要 git + nginx（不需要 node）。脚本与 nginx 配置片段在 `deploy/`。
 
-```bash
-git clone -b claude/yangtze-river-mindmap-site-m4w2yu \
-    https://github.com/hyper-instrument/ace-superpowers.git ~/yangtze-site
-sudo ~/yangtze-site/yangtze/deploy/deploy-on-server.sh        # 发布到 /srv/yangtze
-# 按 ~/yangtze-site/yangtze/deploy/yangtze.nginx.conf 里的说明二选一配置 nginx，然后:
-sudo nginx -t && sudo systemctl reload nginx
-```
-
-**之后每次更新只需：**
+**从你自己的电脑更新（当前使用的方式）：**
 
 ```bash
-git -C ~/yangtze-site pull && sudo ~/yangtze-site/yangtze/deploy/deploy-on-server.sh
+git -C ~/Projects/yangtze pull
+deploy/deploy-from-local.sh root@xiang          # 打包 release/ 推到 /srv/yangtze
 ```
 
-**或者从你自己的电脑一条命令推过去**（需要能 ssh 到部署机）：
+静态文件更新不需要 reload nginx。
+
+**或者在部署机上直接拉取：**
 
 ```bash
-yangtze/deploy/deploy-from-local.sh user@xiang
+git clone git@github.com:FingerLiu/yangtze.git ~/yangtze
+sudo ~/yangtze/deploy/deploy-on-server.sh       # 发布到 /srv/yangtze
+# 之后更新:
+git -C ~/yangtze pull && sudo ~/yangtze/deploy/deploy-on-server.sh
 ```
 
-nginx 两种接入方式（见 `deploy/yangtze.nginx.conf`）：子路径 `location /yangtze/`（挂在现有站点下）或独立端口 8391 的 server 块，均只增不改，`reload` 不中断现有服务。桌面端与手机端是同一个响应式站点，部署一次即可。
+**nginx 与证书**（首次已配好，仅供重建参考）：vhost 在 `/etc/nginx/sites-available/yangtze.xunxiang.store`（软链到 `sites-enabled`），443 提供静态站 + SPA fallback + assets 长缓存，80 保留 `/.well-known/acme-challenge/` 并 301 跳 HTTPS。证书用 certbot **webroot** 方式签发，不会改写 nginx 配置：
+
+```bash
+sudo certbot certonly --webroot -w /var/www/certbot -d yangtze.xunxiang.store
+```
+
+`certbot.timer` 自动续期。`deploy/yangtze.nginx.conf` 里另存了两种不依赖域名的接入方式（现有站点的子路径 `/yangtze/`，或独立端口 8391），均只增不改，`reload` 不中断现有服务。桌面端与手机端是同一个响应式站点，部署一次即可。
 
 ## 数据来源
 
