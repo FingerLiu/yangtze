@@ -6,12 +6,12 @@
 
 ## 两个视图
 
-- **脑图视图**：真实地理地图（Natural Earth 中国及周边边界 + 真实经纬度的长江干流、主要支流、洞庭/鄱阳/太湖与京杭大运河，d3-geo 墨卡托投影，数据全部打包、离线可用），18 个沿江节点。点击节点弹出详情抽屉，按 自然 / 历史 / 人文 分 tab 展示"看点"与"意义"。支持滚轮缩放、拖拽平移。
-- **时间轴视图**：底部时间轴覆盖公元前 3400 年至今，采用分段线性比例尺（远古压缩、近现代拉伸）。拖动滑块或点击事件刻度，对应历史事件（治水史 / 工程史 / 文明史 / 战争史四类）在江上对应位置亮起；也可点击"沿时间航行"自动播放。
+- **脑图视图**：真实地理地图（Natural Earth 中国及周边边界 + 真实经纬度的长江干流、主要支流、洞庭/鄱阳/太湖与京杭大运河，d3-geo 墨卡托投影，数据全部打包、离线可用），18 个沿江节点。点击节点弹出详情抽屉：顶部实景首图（带作者与许可署名），按 自然 / 历史 / 人文 分 tab 展示"看点""意义"与成段的"细说"，底部是延伸阅读外链和该地的时间轴事件——事件可就地展开，看到它自己的正文、配图与外链。支持滚轮缩放、拖拽平移。
+- **时间轴视图**：底部时间轴覆盖公元前 3400 年至今，采用分段线性比例尺（远古压缩、近现代拉伸）。拖动滑块或点击事件刻度，对应历史事件（治水史 / 工程史 / 文明史 / 战争史四类）在江上对应位置亮起；也可点击"沿时间航行"自动播放。江上浮出的事件气泡可以直接点击，打开该地详情并展开这条事件。
 
 ## 技术
 
-- Vite + React 18 + TypeScript，纯静态 SPA，无后端、无运行时外部资源（可离线使用，不依赖在线地图瓦片）。
+- Vite + React 18 + TypeScript，纯静态 SPA，无后端、无运行时外部请求（地图与照片全部打包，不依赖在线地图瓦片或外部图床；卡片里的「延伸阅读」是外链，仅在用户点击时才跳转出去）。
 - d3-geo + world-atlas/topojson（真实地图投影与边界）、d3-shape（河道曲线）、d3-scale（分段时间比例尺）、d3-zoom（平移缩放）。
 - 原生 CSS 暖色纸张风主题（休闲风格），无 UI 组件库。
 
@@ -71,3 +71,5 @@ sudo certbot certonly --webroot -w /var/www/certbot -d yangtze.xunxiang.store
 - 国界/海岸线：[world-atlas](https://www.npmjs.com/package/world-atlas)（Natural Earth 50m，公有领域）
 - 地形底图：[Natural Earth Cross-blended Hypsometric Tints with Shaded Relief and Water](https://www.naturalearthdata.com/downloads/50m-raster-data/50m-cross-blend-hypso/)（公有领域），裁剪长江流域窗口打包为 `src/assets/terrain.jpg`
 - 河流走向、湖泊轮廓：按真实经纬度手工整理（展示精度）
+- 地点与事件配图：[Wikimedia Commons](https://commons.wikimedia.org/)，只收公有领域 / CC0 / CC BY / CC BY-SA 的图片（不收 NC 与 ND —— 我们要裁剪），统一裁为 1200×800 WebP 打包在 `src/assets/photos/`。作者、许可、Commons 文件页链接与「有裁剪」标示都在卡片上随图显示，登记在 `src/data/photos.ts`
+- 正文与延伸阅读：`src/data/stories.ts`，逐条依据中/英/日维基百科及各机构官方页面撰写。遇到来源互相矛盾（如三峡总长的 193 km 与 193 mi、鄱阳湖随水位剧变的面积、赤壁战场的七处候选地）时，正文里写明分歧或按来源标注测量条件，不私自择一

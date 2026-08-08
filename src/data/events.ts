@@ -1,6 +1,7 @@
-import type { RiverEvent } from './types'
+import type { Photo, RiverEvent } from './types'
 import { l } from '../i18n'
 import { EVENT_STORIES } from './stories'
+import { EVENT_PHOTOS } from './photos'
 
 // 长文与延伸阅读在 stories.ts，按 id 合并（见文件末尾）
 const baseEvents: RiverEvent[] = [
@@ -226,8 +227,16 @@ const baseEvents: RiverEvent[] = [
   },
 ]
 
+const EV_PHOTOS = EVENT_PHOTOS as Record<string, Photo | undefined>
+
 export const events: RiverEvent[] = baseEvents.map((ev) => {
   const extra = EVENT_STORIES[ev.id]
-  if (!extra) return ev
-  return { ...ev, story: extra.story, links: extra.links ?? ev.links }
+  const photo = EV_PHOTOS[ev.id]
+  if (!extra && !photo) return ev
+  return {
+    ...ev,
+    story: extra?.story ?? ev.story,
+    photo: photo ?? ev.photo,
+    links: extra?.links ?? ev.links,
+  }
 })

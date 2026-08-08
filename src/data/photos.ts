@@ -21,6 +21,12 @@ import shanghai from '../assets/photos/shanghai.webp'
 import tuotuohe from '../assets/photos/tuotuohe.webp'
 import wuhan from '../assets/photos/wuhan.webp'
 import yichangJingzhou from '../assets/photos/yichang-jingzhou.webp'
+import evGezhouba from '../assets/photos/ev-gezhouba.webp'
+import evLiangzhu from '../assets/photos/ev-liangzhu.webp'
+import evLibai from '../assets/photos/ev-libai.webp'
+import evSanxiaDam from '../assets/photos/ev-sanxia-dam.webp'
+import evShanghaiPort from '../assets/photos/ev-shanghai-port.webp'
+import evWuhanBridge from '../assets/photos/ev-wuhan-bridge.webp'
 
 const W = 1200
 const H = 800
@@ -334,6 +340,116 @@ export const PHOTOS = {
       author: 'Lloyd Tudor',
       license: 'CC BY-SA 4.0',
       sourceUrl: 'https://commons.wikimedia.org/wiki/File:The_skyline_of_Pudong_from_the_Huangpu_river.jpg',
+      licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0',
+      modified: true,
+    },
+  },
+} satisfies Record<string, Photo>
+
+/** 事件配图：键名与 events.ts 的 id 对应 */
+export const EVENT_PHOTOS = {
+  liangzhu: {
+    src: evLiangzhu,
+    width: W,
+    height: H,
+    alt: l('良渚文化玉琮', 'A jade cong of the Liangzhu culture', '良渚文化の玉琮'),
+    caption: l(
+      '玉琮：外方内圆，良渚礼制中最核心的器物之一',
+      'Square without, round within — among the central ritual objects of Liangzhu',
+      '外は方、内は円。良渚の礼制を象徴する器のひとつ',
+    ),
+    credit: {
+      author: 'Gary Lee Todd, Ph.D.',
+      license: 'CC0',
+      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Liangzhu_Culture_Jade_Cong_07.jpg',
+      licenseUrl: 'http://creativecommons.org/publicdomain/zero/1.0/deed.en',
+      modified: true,
+    },
+  },
+  libai: {
+    src: evLibai,
+    width: W,
+    height: H,
+    alt: l('李白画像与题诗', 'A painting of Li Bai with poetry inscribed', '詩を賛した李白の画像'),
+    caption: l(
+      '后人笔下的李白像，画上题着他的诗',
+      'Li Bai as later painters imagined him, his verses inscribed alongside',
+      '後世の画家が描いた李白。傍らに彼の詩が書き添えられています',
+    ),
+    credit: {
+      author: '佚名 / Unknown',
+      license: 'Public domain',
+      sourceUrl: 'https://commons.wikimedia.org/wiki/File:A_Painting_of_Li_Bai_with_his_poetry.jpg',
+      modified: true,
+    },
+  },
+  'shanghai-port': {
+    src: evShanghaiPort,
+    width: W,
+    height: H,
+    alt: l('旧时外滩沿江全景', 'A panorama of the old Bund along the river', 'かつての外灘の川沿いパノラマ'),
+    caption: l(
+      '开埠之后的外滩：江岸线上排开的洋行与码头',
+      'The Bund after the port opened — trading houses and wharves lining the shore',
+      '開港後の外灘。岸に並ぶ商館と埠頭',
+    ),
+    credit: {
+      author: '上海王开照相馆',
+      license: 'Public domain',
+      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Panorama_of_The_Bund,_Shanghai.jpg',
+      modified: true,
+    },
+  },
+  'wuhan-bridge': {
+    src: evWuhanBridge,
+    width: W,
+    height: H,
+    alt: l('武汉长江大桥的桥身与桥墩', 'The deck and piers of the Wuhan Yangtze River Bridge', '武漢長江大橋の橋体と橋脚'),
+    caption: l(
+      '武汉长江大桥：公路铁路两用，1957 年通车',
+      'Road above, rail below — the bridge opened in 1957',
+      '上は道路、下は鉄道。1957 年に開通しました',
+    ),
+    credit: {
+      author: 'KongFu Wang',
+      license: 'CC BY-SA 2.0',
+      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Wuhan_Yangtze_River_Bridge.jpg',
+      licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0',
+      modified: true,
+    },
+  },
+  gezhouba: {
+    src: evGezhouba,
+    width: W,
+    height: H,
+    alt: l('葛洲坝的船闸与坝体', 'The locks and dam structure at Gezhouba', '葛洲壩の閘門とダム本体'),
+    caption: l(
+      '葛洲坝船闸：长江干流上第一座大坝，也是三峡的预演',
+      'The first dam on the Yangtze main stem — and a rehearsal for the Three Gorges',
+      '長江本流初のダムであり、三峡へのリハーサルでもありました',
+    ),
+    credit: {
+      author: 'User:Vmenkov',
+      license: 'CC BY-SA 3.0',
+      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Gezhouba-Dam-locks-from-upstream-4805.jpg',
+      licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0',
+      modified: true,
+    },
+  },
+  'sanxia-dam': {
+    src: evSanxiaDam,
+    width: W,
+    height: H,
+    alt: l('三峡大坝坝体与泄洪设施', 'The Three Gorges Dam and its spillway structures', '三峡ダムの堤体と放流設備'),
+    caption: l(
+      '三峡大坝：防洪、发电与航运同时压在这一道坝上',
+      'Flood control, power and navigation all rest on this one wall',
+      '治水・発電・水運のすべてが、この一枚の壁に託されています',
+    ),
+    credit: {
+      author: 'Fredlyfish4',
+      license: 'CC BY-SA 4.0',
+      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Three_Gorges_Dam_October_2016.jpg',
       licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0',
       modified: true,
     },
