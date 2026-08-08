@@ -67,7 +67,8 @@ const LAKE_PATHS = lakes.map((l) => closedLine(l.ring.map(project))! + 'Z')
 interface Props {
   mode: ViewMode
   selectedId: string | null
-  onSelect: (id: string | null) => void
+  /** eventId 用于让详情抽屉打开时直接展开对应事件 */
+  onSelect: (id: string | null, eventId?: string) => void
   activeEvents: ActiveEvent[]
 }
 
@@ -135,9 +136,9 @@ export function RiverMap({ mode, selectedId, onSelect, activeEvents }: Props) {
           preserveAspectRatio="none"
         />
         {/* 暖色薄纱：让地形与纸张主题融合 */}
-        <rect x={terrainTL[0]} y={terrainTL[1]} width={terrainBR[0] - terrainTL[0]} height={terrainBR[1] - terrainTL[1]} fill="rgba(243, 236, 219, 0.22)" />
+        <rect x={terrainTL[0]} y={terrainTL[1]} width={terrainBR[0] - terrainTL[0]} height={terrainBR[1] - terrainTL[1]} fill="rgba(243, 236, 219, 0.12)" />
         {/* 中国以外区域罩一层纸色弱化，突出中国境内地形 */}
-        <path d={NEIGHBORS_PATH} fill="rgba(236, 228, 207, 0.55)" stroke="var(--border-line)" strokeWidth={1} />
+        <path d={NEIGHBORS_PATH} fill="rgba(236, 228, 207, 0.42)" stroke="var(--border-line)" strokeWidth={1} />
         <path d={CHINA_PATH} fill="none" stroke="var(--coast-line)" strokeWidth={1.2} opacity={0.7} />
 
         {/* 湖泊 */}
@@ -237,20 +238,40 @@ export function RiverMap({ mode, selectedId, onSelect, activeEvents }: Props) {
             const color = CATEGORY_COLORS[actives[0].event.category]
             const cardW = 240
             const cardX = p[0] + cardW + 30 > 1600 ? p[0] - cardW - 24 : p[0] + 24
-            const cardH = 30 + actives.length * 62
+            const cardH = actives.length * 70 + 24
             const cardY = Math.max(10, p[1] - cardH / 2 - 10)
             return (
+              // 整层保持穿透：脉冲圈会放大到 r=34 盖住节点，foreignObject 也有大片空白，
+              // 只有卡片本身重新接收事件（见下面的 pointerEvents: 'auto'）
               <g key={`ev-${loc.id}`} pointerEvents="none">
                 <circle className="pulse" cx={p[0]} cy={p[1]} r={10} fill="none" stroke={color} strokeWidth={2.5} />
                 <circle className="pulse p2" cx={p[0]} cy={p[1]} r={10} fill="none" stroke={color} strokeWidth={2.5} />
-                <circle cx={p[0]} cy={p[1]} r={7} fill={color} opacity={0.5 + 0.5 * actives[0].intensity} />
-                <foreignObject x={cardX} y={cardY} width={cardW} height={cardH + 30} style={{ overflow: 'visible' }}>
+                <circle cx={p[0]} cy={p[1]} r={7} fill={color} opacity={0.65 + 0.35 * actives[0].intensity} />
+                <foreignObject x={cardX} y={cardY} width={cardW} height={cardH} style={{ overflow: 'visible' }}>
                   <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
                     {actives.map(({ event, intensity }) => (
                       <div
                         key={event.id}
                         className="event-card"
-                        style={{ borderLeftColor: CATEGORY_COLORS[event.category], opacity: 0.35 + 0.65 * intensity }}
+                        style={{
+                          borderLeftColor: CATEGORY_COLORS[event.category],
+                          opacity: 0.6 + 0.4 * intensity,
+                          pointerEvents: 'auto',
+                        }}
+                        role="button"
+                        tabIndex={0}
+                        // 只拦 click，不要拦 mousedown —— d3-zoom 挂在 <svg> 上靠冒泡工作，
+                        // 拦下按压事件会让「从卡片上起手拖动地图」失效
+                        onClick={(e) => {
+                          e.stopPropagation()
+                          onSelect(loc.id, event.id)
+                        }}
+                        onKeyDown={(e) => {
+                          if (e.key === 'Enter' || e.key === ' ') {
+                            e.preventDefault()
+                            onSelect(loc.id, event.id)
+                          }
+                        }}
                       >
                         <b>{t(event.title)}</b>
                         <span className="meta">

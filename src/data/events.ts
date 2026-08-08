@@ -1,7 +1,9 @@
 import type { RiverEvent } from './types'
 import { l } from '../i18n'
+import { EVENT_STORIES } from './stories'
 
-export const events: RiverEvent[] = [
+// 长文与延伸阅读在 stories.ts，按 id 合并（见文件末尾）
+const baseEvents: RiverEvent[] = [
   {
     id: 'liangzhu',
     year: -3300,
@@ -223,3 +225,9 @@ export const events: RiverEvent[] = [
     ),
   },
 ]
+
+export const events: RiverEvent[] = baseEvents.map((ev) => {
+  const extra = EVENT_STORIES[ev.id]
+  if (!extra) return ev
+  return { ...ev, story: extra.story, links: extra.links ?? ev.links }
+})

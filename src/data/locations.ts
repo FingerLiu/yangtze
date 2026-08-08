@@ -1,7 +1,11 @@
-import type { RiverLocation } from './types'
+import type { FacetKey, Photo, RiverLocation } from './types'
 import { l } from '../i18n'
+import { PHOTOS } from './photos'
+import { LOCATION_STORIES } from './stories'
 
-export const locations: RiverLocation[] = [
+// 这里放结构与短句；长文和延伸阅读在 stories.ts、首图在 photos.ts，
+// 都按 id 关联，在文件末尾合并成最终导出的 locations。
+const baseLocations: RiverLocation[] = [
   {
     id: 'tuotuohe',
     name: l('沱沱河 · 玉树', 'Tuotuo River · Yushu', '沱沱河 ・ 玉樹'),
@@ -856,3 +860,20 @@ export const locations: RiverLocation[] = [
     },
   },
 ]
+
+const HEROES = PHOTOS as Record<string, Photo | undefined>
+
+export const locations: RiverLocation[] = baseLocations.map((loc) => {
+  const extra = LOCATION_STORIES[loc.id]
+  const hero = HEROES[loc.id]
+  if (!extra && !hero) return loc
+  const facets = { ...loc.facets }
+  if (extra) {
+    for (const key of Object.keys(extra.facets) as FacetKey[]) {
+      const facet = facets[key]
+      const story = extra.facets[key]
+      if (facet && story) facets[key] = { ...facet, story }
+    }
+  }
+  return { ...loc, facets, hero: hero ?? loc.hero, links: extra?.links ?? loc.links }
+})

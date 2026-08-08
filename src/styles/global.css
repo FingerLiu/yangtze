@@ -221,7 +221,7 @@ body {
 }
 
 .node.dim {
-  opacity: 0.3;
+  opacity: 0.55;
 }
 
 @keyframes pulse {
@@ -254,6 +254,15 @@ body {
   font-size: 12px;
   line-height: 1.55;
   box-shadow: 0 6px 22px rgba(90, 70, 40, 0.22);
+  cursor: pointer;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, opacity 0.18s ease;
+}
+
+.event-card:hover,
+.event-card:focus-visible {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 26px rgba(90, 70, 40, 0.3);
+  opacity: 1 !important;
 }
 
 .event-card b {
@@ -468,7 +477,8 @@ body {
   margin-bottom: 10px;
 }
 
-.loc-events button {
+/* 只作用于事件行本身：展开后的正文里还有跳转按钮和外链，不能被这条规则波及 */
+.loc-events .ev-row {
   display: flex;
   gap: 10px;
   align-items: baseline;
@@ -484,7 +494,7 @@ body {
   cursor: pointer;
 }
 
-.loc-events button:hover {
+.loc-events .ev-row:hover {
   background: rgba(120, 100, 70, 0.08);
 }
 
@@ -492,6 +502,167 @@ body {
   color: var(--text-dim);
   font-size: 12px;
   min-width: 92px;
+}
+
+/* ---------- 详情：图片 / 正文 / 外链 / 事件手风琴 ---------- */
+
+.photo-figure {
+  margin: 14px 0 18px;
+}
+
+.photo-figure img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: 10px;
+  background: rgba(120, 100, 70, 0.06);
+  border: 1px solid rgba(120, 100, 70, 0.12);
+  display: block;
+}
+
+/* 首图通栏：抵消 .drawer-body 的 18px / 26px 内边距 */
+.hero-figure {
+  margin: -18px -26px 18px;
+}
+
+.hero-figure img {
+  border-radius: 0;
+  border: 0;
+  border-bottom: 1px solid var(--panel-border);
+}
+
+.hero-figure figcaption,
+.hero-figure .photo-credit {
+  padding-inline: 26px;
+}
+
+.photo-caption {
+  font-size: 12.5px;
+  line-height: 1.7;
+  color: var(--text-dim);
+  margin-top: 7px;
+}
+
+.photo-credit {
+  font-size: 11px;
+  letter-spacing: 0.3px;
+  color: var(--text-dim);
+  opacity: 0.75;
+  margin-top: 3px;
+}
+
+.photo-credit a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose {
+  margin-top: 4px;
+}
+
+/* 不用 text-indent: 2em —— 首行缩进是中文排版习惯，en / ja 下不成立 */
+.prose p {
+  font-size: 14px;
+  line-height: 1.95;
+  margin-bottom: 11px;
+  color: var(--text);
+}
+
+.prose p.lede {
+  font-size: 15px;
+  line-height: 2;
+}
+
+.prose p:last-child {
+  margin-bottom: 0;
+}
+
+.ref-links {
+  margin-top: 22px;
+  border-top: 1px dashed rgba(120, 100, 70, 0.25);
+  padding-top: 14px;
+}
+
+.ref-links a {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 6px 4px;
+  border-radius: 8px;
+  font-size: 13.5px;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.ref-links a:hover {
+  background: rgba(120, 100, 70, 0.08);
+  color: var(--accent);
+}
+
+.ref-links .src {
+  font-size: 11.5px;
+  color: var(--text-dim);
+}
+
+.ref-links .lang-badge {
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: var(--text-dim);
+  border: 1px solid var(--panel-border);
+  border-radius: 4px;
+  padding: 0 4px;
+}
+
+.ev-item {
+  border-left: 3px solid transparent;
+  border-radius: 8px;
+  margin-bottom: 2px;
+}
+
+.ev-item.open {
+  background: rgba(120, 100, 70, 0.05);
+}
+
+.ev-row .ttl {
+  flex: 1;
+}
+
+.ev-row .chev {
+  color: var(--text-dim);
+  transition: transform 0.2s ease;
+}
+
+.ev-item.open .ev-row .chev {
+  transform: rotate(90deg);
+}
+
+.ev-detail {
+  padding: 2px 10px 14px;
+}
+
+.ev-desc {
+  font-size: 13.5px;
+  line-height: 1.85;
+  color: var(--text);
+  margin-bottom: 10px;
+}
+
+.ev-jump {
+  margin-top: 12px;
+  font-size: 12.5px;
+  color: var(--accent);
+  background: none;
+  border: 1px solid var(--panel-border);
+  border-radius: 999px;
+  padding: 5px 14px;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.ev-jump:hover {
+  background: rgba(120, 100, 70, 0.08);
 }
 
 /* ---------- 时间轴 ---------- */
@@ -638,6 +809,12 @@ body {
 
 /* ---------- 响应式 ---------- */
 @media (max-width: 760px) {
+  /* 横屏手机上首图会把整屏吃掉，限高 */
+  .hero-figure img {
+    max-height: 44vh;
+    object-fit: cover;
+  }
+
   .topbar {
     flex-wrap: wrap;
     gap: 10px;

@@ -1,9 +1,28 @@
 import { createContext, useContext, useEffect, useState, type ReactNode } from 'react'
-import type { L10n } from '../data/types'
+import type { L10n, Lang, LocalizedHref } from '../data/types'
 
-export type Lang = 'zh' | 'en' | 'ja'
+export type { Lang }
 
 export const l = (zh: string, en: string, ja: string): L10n => ({ zh, en, ja })
+
+/** 外链缺当前语言版本时的回退顺序 */
+const HREF_FALLBACK: Record<Lang, Lang[]> = {
+  zh: ['zh', 'en', 'ja'],
+  en: ['en', 'zh', 'ja'],
+  ja: ['ja', 'en', 'zh'],
+}
+
+/**
+ * 取外链地址，并返回它实际所属的语言 —— 落到别的语种时要在界面上标出来，
+ * 不能让中文读者以为点开的是中文页面。三个语种都没有则返回 null。
+ */
+export function resolveHref(href: LocalizedHref, lang: Lang): { url: string; lang: Lang } | null {
+  for (const k of HREF_FALLBACK[lang]) {
+    const url = href[k]
+    if (url) return { url, lang: k }
+  }
+  return null
+}
 
 /** 界面文案 */
 export const UI = {
@@ -64,6 +83,11 @@ export const UI = {
   ),
   tibetPlateau: l('青 藏 高 原', 'TIBETAN  PLATEAU', 'チベット高原'),
   eastSea: l('东 海', 'EAST CHINA SEA', '東シナ海'),
+  story: l('细 说', 'IN DEPTH', 'くわしく'),
+  furtherRead: l('延伸阅读', 'FURTHER READING', 'さらに読む'),
+  photoBy: l('图', 'Photo', '写真'),
+  photoEdited: l('（有裁剪）', '(cropped)', '（トリミング）'),
+  viewOnTimeline: l('在时间轴中查看', 'View on timeline', '年表で見る'),
 } satisfies Record<string, L10n>
 
 interface LangState {

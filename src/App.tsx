@@ -41,6 +41,7 @@ export interface ActiveEvent {
 export default function App() {
   const [mode, setMode] = useState<ViewMode>('explore')
   const [selectedId, setSelectedId] = useState<string | null>(null)
+  const [focusEventId, setFocusEventId] = useState<string | null>(null)
   const [year, setYear] = useState(-256)
   const [playing, setPlaying] = useState(false)
   const rafRef = useRef(0)
@@ -80,12 +81,19 @@ export default function App() {
     return () => cancelAnimationFrame(rafRef.current)
   }, [playing])
 
+  /** 选中地点；带 eventId 时，抽屉打开后直接展开那条事件 */
+  const selectLocation = useCallback((id: string | null, eventId?: string) => {
+    setSelectedId(id)
+    setFocusEventId(eventId ?? null)
+  }, [])
+
   const jumpToEvent = useCallback(
     (event: RiverEvent) => {
       setPlaying(false)
       setMode('timeline')
       setYear(event.year)
       setSelectedId(null)
+      setFocusEventId(null)
       if (isMobile) {
         setTimeout(() => {
           document.getElementById(`ev-${event.id}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' })
@@ -153,13 +161,13 @@ export default function App() {
       <main className="canvas-wrap">
         {isMobile ? (
           mode === 'explore' ? (
-            <MobileJourney onSelect={setSelectedId} />
+            <MobileJourney onSelect={selectLocation} />
           ) : (
-            <MobileTimeline onSelectLocation={setSelectedId} />
+            <MobileTimeline onSelectLocation={selectLocation} />
           )
         ) : (
           <>
-            <RiverMap mode={mode} selectedId={selectedId} onSelect={setSelectedId} activeEvents={activeEvents} />
+            <RiverMap mode={mode} selectedId={selectedId} onSelect={selectLocation} activeEvents={activeEvents} />
             <div className="hint">{mode === 'explore' ? t(UI.hintExplore) : t(UI.hintTimeline)}</div>
           </>
         )}
@@ -178,7 +186,12 @@ export default function App() {
         />
       )}
 
-      <DetailPanel location={selected} onClose={() => setSelectedId(null)} onJumpToEvent={jumpToEvent} />
+      <DetailPanel
+        location={selected}
+        focusEventId={focusEventId}
+        onClose={() => selectLocation(null)}
+        onJumpToEvent={jumpToEvent}
+      />
     </div>
   )
 }

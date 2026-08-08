@@ -9,7 +9,7 @@ const locName = new Map(locations.map((loc) => [loc.id, loc.name]))
 const sorted = [...events].sort((a, b) => a.year - b.year)
 
 interface Props {
-  onSelectLocation: (id: string) => void
+  onSelectLocation: (id: string, eventId?: string) => void
 }
 
 export function MobileTimeline({ onSelectLocation }: Props) {
@@ -41,7 +41,7 @@ export function MobileTimeline({ onSelectLocation }: Props) {
                 </div>
                 <h4>{t(e.title)}</h4>
                 <p>{t(e.description)}</p>
-                <button className="mtl-loc" onClick={() => onSelectLocation(e.locationId)}>
+                <button className="mtl-loc" onClick={() => onSelectLocation(e.locationId, e.id)}>
                   📍 {t(locName.get(e.locationId)!)}
                 </button>
               </article>
