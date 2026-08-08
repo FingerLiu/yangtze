@@ -22,7 +22,9 @@ function PhotoFigure({ photo, variant }: { photo: Photo; variant?: 'hero' | 'inl
         width={photo.width}
         height={photo.height}
         alt={t(photo.alt)}
-        loading="lazy"
+        // 首图在抽屉打开的瞬间就在可视区内，lazy 只会让人先看到一块空白；
+        // 正文与事件里的配图在下方，仍然懒加载
+        loading={variant === 'hero' ? 'eager' : 'lazy'}
         decoding="async"
       />
       {photo.caption && <figcaption className="photo-caption">{t(photo.caption)}</figcaption>}
