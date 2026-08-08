@@ -33,7 +33,7 @@ export const UI = {
     'From snow peaks to the sea — one river, half of China’s story',
     '雪山から海へ ・ 一本の川に、中国史の半分',
   ),
-  viewMap: l('脑图视图', 'River Map', 'マップ'),
+  viewMap: l('河流地图', 'River Map', 'マップ'),
   viewTimeline: l('时间轴视图', 'Timeline', '年表'),
   nature: l('自然', 'Nature', '自然'),
   history: l('历史', 'History', '歴史'),
