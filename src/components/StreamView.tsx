@@ -134,7 +134,6 @@ export function StreamView({ onOpenSite }: { onOpenSite: (siteId: string) => voi
             } as CSSProperties}
             onClick={() => setSelected(item)}
           >
-            <i />
             {t(item.title)}
           </button>
         ))}

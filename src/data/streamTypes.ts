@@ -37,13 +37,17 @@ export const CAT_LABELS: Record<StreamCat, L10n> = {
   visual: l('影像', 'On Screen', '映像'),
 }
 
+/**
+ * 弹幕是纯文字，靠颜色区分类别 —— 所以这套色必须在米色纸底上够深。
+ * 地图那套变量（如 --lake-edge #8fb4c4）用作文字太浅，这里另配一套。
+ */
 export const CAT_COLORS: Record<StreamCat, string> = {
-  landform: 'var(--nature)',
-  ecology: 'var(--cat-water)',
-  discovery: 'var(--cat-civ)',
-  academic: 'var(--cat-eng)',
-  ethnic: 'var(--culture)',
-  heritage: 'var(--history)',
-  trend: 'var(--node-active)',
-  visual: 'var(--lake-edge)',
+  landform: '#3f6b4c',
+  ecology: '#2f6a94',
+  discovery: '#8a6516',
+  academic: '#5f4f88',
+  ethnic: '#a06a20',
+  heritage: '#9c4630',
+  trend: '#b3552c',
+  visual: '#436f86',
 }

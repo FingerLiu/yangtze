@@ -1342,42 +1342,38 @@ body {
   animation-name: drift;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-  display: flex;
-  align-items: center;
-  gap: 8px;
   white-space: nowrap;
-  border: 1px solid rgba(120, 100, 70, 0.14);
-  background: rgba(253, 250, 242, 0.82);
-  color: var(--text);
-  font-family: 'Kaiti SC', 'STKaiti', 'Songti SC', serif;
-  /* 真弹幕是纯文字不带底的；这里保留一点纸片感，但圆角收到近乎方正 */
-  border-radius: 5px;
+  /* 原生弹幕就是一行纯文字：无底色、无边框、无圆角，靠描边保证叠上去也读得清 */
+  border: 0;
+  background: none;
+  box-shadow: none;
+  border-radius: 0;
+  color: var(--chip);
+  font-family: inherit;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  padding: 3px 8px;
   cursor: pointer;
-  box-shadow: 0 1px 5px rgba(90, 70, 40, 0.07);
+  text-shadow:
+    0 0 3px var(--bg),
+    0 0 3px var(--bg),
+    0 0 6px var(--bg),
+    0 1px 1px rgba(255, 253, 246, 0.9);
   will-change: transform;
 }
 
-.stream-item i {
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: var(--chip);
-  flex-shrink: 0;
-}
-
-.stream-item:hover {
-  border-color: var(--chip);
-  background: var(--panel);
-  box-shadow: 0 4px 16px rgba(90, 70, 40, 0.2);
+.stream-item:hover,
+.stream-item:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 4px;
   animation-play-state: paused;
 }
 
-/* 权重决定字号：越值得看见的越大 */
-.stream-item.w1 { font-size: 14px; padding: 5px 14px; }
-.stream-item.w2 { font-size: 15.5px; padding: 6px 15px; }
-.stream-item.w3 { font-size: 17px; padding: 7px 17px; }
-.stream-item.w4 { font-size: 19px; padding: 8px 19px; }
-.stream-item.w5 { font-size: 21.5px; padding: 9px 21px; letter-spacing: 1px; }
+.stream-item.w1 { font-size: 15px; }
+.stream-item.w2 { font-size: 17px; }
+.stream-item.w3 { font-size: 19.5px; }
+.stream-item.w4 { font-size: 22px; }
+.stream-item.w5 { font-size: 25px; letter-spacing: 1.5px; }
 
 .stream-card {
   position: absolute;
