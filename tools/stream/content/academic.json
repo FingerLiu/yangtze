@@ -1,0 +1,463 @@
+{
+ "items": [
+  {
+   "id": "sanxingdui-six-pits",
+   "cat": "discovery",
+   "title": {
+    "zh": "三星堆六坑重启发掘",
+    "en": "Six New Pits at Sanxingdui",
+    "ja": "三星堆、六つの新坑"
+   },
+   "text": {
+    "zh": "2020至2022年，三号至八号祭祀坑发掘完毕。碳十四测年显示，三、四、六、八号坑有95.4%的概率埋于公元前1201至前1012年。五、六号坑是否已晚至西周早期，学界尚有分歧。",
+    "en": "Pits 3 to 8 were excavated between 2020 and 2022. Radiocarbon dating gives Pits 3, 4, 6 and 8 a 95.4% probability of burial between 1201 and 1012 BC. Whether Pits 5 and 6 run as late as the early Western Zhou is still argued over.",
+    "ja": "2020年から2022年にかけ、三号から八号までの祭祀坑が掘り上げられた。炭素14年代測定は、三・四・六・八号坑が紀元前1201年から前1012年の間に埋められた確率を95.4%とする。五・六号坑が西周初期まで下るかは、なお定説がない。"
+   },
+   "weight": 5,
+   "year": 2022,
+   "siteId": "sanxingdui",
+   "links": [
+    {
+     "label": {
+      "zh": "《Antiquity》论文",
+      "en": "Paper in Antiquity",
+      "ja": "Antiquity 掲載論文"
+     },
+     "href": {
+      "en": "https://www.cambridge.org/core/journals/antiquity/article/new-discoveries-at-the-sanxingdui-bronze-age-site-in-southwest-china/D96494368471CF7CBA817690CDCA5A75"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.cambridge.org/core/journals/antiquity/article/new-discoveries-at-the-sanxingdui-bronze-age-site-in-southwest-china/D96494368471CF7CBA817690CDCA5A75",
+    "https://www.globaltimes.cn/page/202509/1344612.shtml"
+   ]
+  },
+  {
+   "id": "sanxingdui-cross-pit-refit",
+   "cat": "discovery",
+   "title": {
+    "zh": "碎片跨坑合体",
+    "en": "Fragments Reunited Across Pits",
+    "ja": "坑を越えて継がれた像"
+   },
+   "text": {
+    "zh": "铜罍座倒立鸟足顶尊神像通高2.53米，由二号坑的鸟足人像、三号坑的爬龙器盖和八号坑的3件残件拼成。分埋异坑的碎片竟能严丝合缝，说明诸坑几乎同时掩埋。",
+    "en": "The 2.53-metre bronze figure standing inverted on bird's feet was pieced together from five fragments: one from Pit 2, one from Pit 3, three from Pit 8. That parts buried in separate pits still lock together implies the pits were filled at nearly the same moment.",
+    "ja": "高さ2.53メートルの銅罍座倒立鳥足神像は、二号坑の鳥足人像、三号坑の龍形蓋、八号坑の三点、計五片から復元された。別々の坑に埋もれた破片が寸分違わず噛み合う——諸坑はほぼ同時に埋められたのだ。"
+   },
+   "weight": 5,
+   "year": 2022,
+   "siteId": "sanxingdui",
+   "links": [],
+   "sources": [
+    "https://sichuan.scol.com.cn/ggxw/202301/58789291.html",
+    "http://www.news.cn/politics/2023-06/10/c_1129684544.htm",
+    "https://www.wccdaily.com.cn/shtml/hxdsb/20230104/188621.shtml"
+   ]
+  },
+  {
+   "id": "sanxingdui-silk-fibroin",
+   "cat": "discovery",
+   "title": {
+    "zh": "灰烬中检出丝素蛋白",
+    "en": "Silk Protein in the Ashes",
+    "ja": "灰の中の絹たんぱく"
+   },
+   "text": {
+    "zh": "2021年起，考古队用酶联免疫、显微红外等方法，在多座坑的黑色灰烬与木匣残迹中检出丝素蛋白，并见斜纹丝织物痕迹。三千多年前的古蜀人，已用丝绸裹住送入火中的礼器。",
+    "en": "From 2021, immunoassay and infrared microscopy found silk fibroin in the black ash of several pits and in the residue of a wooden casket; twill weave survives in the traces. Three thousand years ago the Shu wrapped their offerings in silk before burning them.",
+    "ja": "2021年以降、酵素免疫測定や顕微赤外分光により、複数の坑の黒い灰と木箱の残滓から絹のフィブロインが検出され、綾織りの痕跡も確かめられた。三千数百年前の古蜀の人々は、火に入れる祭器を絹で包んでいた。"
+   },
+   "weight": 4,
+   "year": 2021,
+   "siteId": "sanxingdui",
+   "links": [],
+   "sources": [
+    "https://sichuan.scol.com.cn/ggxw/202105/58166477.html",
+    "http://www.news.cn/2023-08/05/c_1129787830.htm",
+    "https://sichuan.scol.com.cn/ggxw/202210/58753741.html"
+   ]
+  },
+  {
+   "id": "yunxian2-homo-longi",
+   "cat": "academic",
+   "title": {
+    "zh": "郧县2号头骨的归属",
+    "en": "Where Yunxian 2 Belongs",
+    "ja": "鄖県2号頭骨の座"
+   },
+   "text": {
+    "zh": "2025年9月《科学》刊出湖北郧县2号头骨的数字复原：脑容量逾1100毫升，形态被归入亚洲的「龙人」支系——丹尼索瓦人所属的一支。人类几大支系的分化时间，因此被大幅上推。",
+    "en": "In September 2025 Science published a digital reconstruction of the Yunxian 2 cranium from Hubei: a braincase of more than 1,100 cc, placed in the Asian Homo longi clade to which the Denisovans belong. The split between the major human lineages moves far earlier.",
+    "ja": "2025年9月、『Science』が湖北・鄖県2号頭骨のデジタル復元を発表した。脳容量は1100立方センチを超え、デニソワ人を含むアジアの「龍人」系統に位置づけられた。人類の主要な系統が分かれた時期は、大きくさかのぼることになる。"
+   },
+   "weight": 5,
+   "year": 2025,
+   "links": [
+    {
+     "label": {
+      "zh": "《Science》论文",
+      "en": "Paper in Science",
+      "ja": "Science 掲載論文"
+     },
+     "href": {
+      "en": "https://www.science.org/doi/10.1126/science.ado9202"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.science.org/doi/10.1126/science.ado9202",
+    "https://english.cas.cn/newsroom/research_news/life/202509/t20250924_1055290.shtml"
+   ]
+  },
+  {
+   "id": "yunxian-177ma-redating",
+   "cat": "academic",
+   "title": {
+    "zh": "年代前推六十万年",
+    "en": "Six Hundred Thousand Years Older",
+    "ja": "六十万年さかのぼる"
+   },
+   "text": {
+    "zh": "2026年《科学进展》以铝-26与铍-10埋藏测年，把郧县头骨所在地层定在距今177万年±8万年，比旧估计早约六十万年，成为东亚原位出土最早的直立人化石。此说尚需更多验证。",
+    "en": "In 2026 Science Advances applied aluminium-26 and beryllium-10 burial dating to the Yunxian deposits and returned 1.77 ± 0.08 million years — some 600,000 years older than earlier estimates, and the oldest Homo erectus found in situ in East Asia. The result awaits wider testing.",
+    "ja": "2026年、『Science Advances』はアルミニウム26とベリリウム10による埋没年代測定を鄖県の堆積層に適用し、177万±8万年前という値を得た。従来推定より約60万年古く、東アジアで原位置出土した最古の原人化石となる。検証はこれからだ。"
+   },
+   "weight": 4,
+   "year": 2026,
+   "links": [
+    {
+     "label": {
+      "zh": "《Science Advances》论文",
+      "en": "Paper in Science Advances",
+      "ja": "Science Advances 掲載論文"
+     },
+     "href": {
+      "en": "https://www.science.org/doi/10.1126/sciadv.ady2270"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.science.org/doi/10.1126/sciadv.ady2270",
+    "https://pubmed.ncbi.nlm.nih.gov/41706848/",
+    "https://archaeology.org/news/2026/02/23/new-dates-obtained-for-homo-erectus-fossils-in-east-asia/"
+   ]
+  },
+  {
+   "id": "pilo-acheulean",
+   "cat": "discovery",
+   "title": {
+    "zh": "高原上的阿舍利手斧",
+    "en": "Handaxes on the Plateau",
+    "ja": "高原のアシュール型石斧"
+   },
+   "text": {
+    "zh": "四川稻城皮洛遗址位于青藏高原东南缘，海拔约3750米，出土石制品近万件，内含近100件阿舍利手斧与薄刃斧。这是世界海拔最高的阿舍利遗存，「莫维斯线」由此松动。",
+    "en": "The Pilo site at Daocheng, Sichuan, sits on the south-eastern rim of the Tibetan Plateau at about 3,750 metres. Nearly ten thousand stone artefacts came out of it, among them some hundred Acheulean handaxes and cleavers — the highest such assemblage on earth, and a blow to the Movius Line.",
+    "ja": "四川省稲城の皮洛遺跡は、チベット高原南東縁の標高およそ3750メートルにある。石器は一万点近く、うち百点ほどがアシュール型のハンドアックスと薄刃斧。世界で最も高所のアシュール遺存であり、「モヴィウス線」を揺るがした。"
+   },
+   "weight": 4,
+   "year": 2021,
+   "siteId": "jinshajiang",
+   "links": [],
+   "sources": [
+    "http://www.cdb.ac.cn/kxcb_1/kpwz/202110/t20211013_6221676.html",
+    "https://www.jiemian.com/article/6645752.html",
+    "https://www.news.cn/local/20251225/6da4be6dea594487a28f26b01f28425c/c.html"
+   ]
+  },
+  {
+   "id": "rice-hundred-thousand-years",
+   "cat": "academic",
+   "title": {
+    "zh": "稻的十万年",
+    "en": "A Hundred Thousand Years of Rice",
+    "ja": "稲の十万年"
+   },
+   "text": {
+    "zh": "2024年5月《科学》据浙江上山、荷花山两遗址的植硅体，排出一条长链：野生稻十万年前已在此生长，约两万四千年前被采集，一万三千年前进入栽培，一万一千年前完成驯化。",
+    "en": "In May 2024 Science read the phytoliths of Shangshan and Hehuashan in Zhejiang into a single chain: wild rice growing here 100,000 years ago, gathered by about 24,000 years ago, cultivated before domestication by 13,000, fully domesticated by 11,000.",
+    "ja": "2024年5月の『Science』は、浙江の上山・荷花山両遺跡のプラントオパールから一本の鎖を引き出した。十万年前には野生稲が生え、約二万四千年前に採集が始まり、一万三千年前に栽培へ移り、一万一千年前に栽培化を終える。"
+   },
+   "weight": 5,
+   "year": 2024,
+   "siteId": "jiangnan",
+   "links": [
+    {
+     "label": {
+      "zh": "《Science》论文",
+      "en": "Paper in Science",
+      "ja": "Science 掲載論文"
+     },
+     "href": {
+      "en": "https://www.science.org/doi/10.1126/science.ade4487"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.science.org/doi/10.1126/science.ade4487",
+    "https://pubmed.ncbi.nlm.nih.gov/38781358/",
+    "https://phys.org/news/2024-05-wild-domesticated-scientists-reveal-years.html"
+   ]
+  },
+  {
+   "id": "qujialing-earliest-dam",
+   "cat": "discovery",
+   "title": {
+    "zh": "五千一百年前的坝",
+    "en": "A Dam of 5,100 Years",
+    "ja": "五千百年前のダム"
+   },
+   "text": {
+    "zh": "湖北屈家岭遗址的熊家岭水坝，早期坝距今5100至4900年，是目前中国确认年代最早的水利设施。夯土中掺入禾本科根茎，并见「草裹泥」之法——治水已从躲避转为调度。",
+    "en": "At Qujialing in Hubei, the earlier phase of the Xiongjialing dam dates to 5,100–4,900 years ago, the oldest confirmed waterworks in China. Grass stems were mixed into the rammed earth, mud wrapped in straw bundles — flood defence had become water management.",
+    "ja": "湖北・屈家嶺遺跡の熊家嶺ダムは、前期の堤体が今から5100〜4900年前にさかのぼり、中国で確認された最古の水利施設である。版築にイネ科の茎を混ぜ、泥を草で包んで積む。水は避けるものから、配るものになった。"
+   },
+   "weight": 4,
+   "year": 2023,
+   "siteId": "yichang-jingzhou",
+   "links": [],
+   "sources": [
+    "http://www.hb.xinhuanet.com/20231204/c0ace5cf5f6947f38ba1042f34742e92/c.html",
+    "https://cn.chinadaily.com.cn/a/202312/05/WS656e6581a310d5acd8771939.html"
+   ]
+  },
+  {
+   "id": "jijiaocheng-rice-and-hall",
+   "cat": "discovery",
+   "title": {
+    "zh": "22吨稻谷",
+    "en": "Twenty-Two Tonnes of Husk",
+    "ja": "二十二トンの籾殻"
+   },
+   "text": {
+    "zh": "湖南澧县鸡叫城的谷糠堆积，折合稻谷约两万两千公斤。同址距今约4700年的F63木构建筑，主体长42米、宽10米，连外廊逾630平方米，用的是楠木与香樟。",
+    "en": "The husk deposit at Jijiaocheng in Lixian, Hunan, works out to some 22,000 kilograms of rice. On the same ground stands F63, a timber hall of about 4,700 years ago: 42 metres by 10, over 630 square metres with its verandah, framed in nanmu and camphor.",
+    "ja": "湖南省澧県・鶏叫城の籾殻の堆積は、米にしておよそ二万二千キロにあたる。同じ遺跡には約4700年前の木造建築F63が残る。主体は長さ42メートル、幅10メートル、回廊を含めて630平方メートル余り、材はナンムーとクスノキ。"
+   },
+   "weight": 4,
+   "year": 2021,
+   "siteId": "dongting",
+   "links": [],
+   "sources": [
+    "https://hunan.voc.com.cn/news/202204/23598772.html",
+    "https://news.qq.com/rain/a/20220616A05E0J00",
+    "http://www.silkroads.org.cn/portal.php?mod=view&aid=56827"
+   ]
+  },
+  {
+   "id": "liangzhu-collapse-stalagmite",
+   "cat": "academic",
+   "title": {
+    "zh": "石笋记下那场雨",
+    "en": "The Rain the Stalagmites Kept",
+    "ja": "石筍が記した雨"
+   },
+   "text": {
+    "zh": "2021年11月《科学进展》据洞穴石笋的铀钍测年指出，距今4345至4324年间降水骤增。洪水漫过良渚的坝与渠，城废人散——这是气候改写文明的最早案例之一。",
+    "en": "In November 2021 Science Advances read uranium-thorium dates from cave stalagmites: between 4,345 and 4,324 years ago the rainfall spiked. Floods overran Liangzhu's dams and channels and the city emptied — among the earliest cases of climate unmaking a civilisation.",
+    "ja": "2021年11月の『Science Advances』は、洞窟の石筍のウラン・トリウム年代から、4345〜4324年前に降水が急増したことを示した。洪水は良渚のダムと水路を越え、都市は捨てられる。気候が文明を終わらせた、最も早い例のひとつだ。"
+   },
+   "weight": 4,
+   "year": 2021,
+   "siteId": "jiangnan",
+   "links": [],
+   "sources": [
+    "https://www.uibk.ac.at/en/newsroom/2021/collapse-of-ancient-liangzhu-culture-caused-by-climate-change/",
+    "https://phys.org/news/2021-11-collapse-ancient-liangzhu-culture-climate.html"
+   ]
+  },
+  {
+   "id": "liangzhu-three-tier-dams",
+   "cat": "discovery",
+   "title": {
+    "zh": "水坝多出一级",
+    "en": "A Third Tier of Dams",
+    "ja": "ダムは三段だった"
+   },
+   "text": {
+    "zh": "2024年11月公布：大遮山谷口新查出十六条高坝，良渚外围水利由两级变为高、中、低三级，塘山长堤原是这套系统的一环。古城周边已知遗址逾三百五十处。",
+    "en": "Announced in November 2024: sixteen more high dams at the valley mouths of Dazheshan. Liangzhu's outer waterworks turn out to have three tiers rather than two, with the long Tangshan levee part of the same design. Over 350 sites are now known around the walled city.",
+    "ja": "2024年11月の発表——大遮山の谷口に十六条の高ダムが新たに確認された。良渚外囲の水利は二段ではなく高・中・低の三段で、塘山の長堤もその一部だった。城の周囲に知られる遺跡は三百五十を超える。"
+   },
+   "weight": 4,
+   "year": 2024,
+   "siteId": "jiangnan",
+   "links": [],
+   "sources": [
+    "https://culture.gmw.cn/2024-11/27/content_37702788.htm",
+    "https://www.chinanews.com.cn/cul/2025/10-16/10499522.shtml"
+   ]
+  },
+  {
+   "id": "yunmeng-zhengjiahu-gu",
+   "cat": "discovery",
+   "title": {
+    "zh": "1枚木觚七百字",
+    "en": "Seven Hundred Characters on One Stick",
+    "ja": "木觚1枚に七百字"
+   },
+   "text": {
+    "zh": "湖北云梦郑家湖M274出土战国晚期木觚，长34厘米，圆木剖半削出七个棱面，正反各七行、秦隶约七百字，载谋士筡游说秦王「寝兵立义」之辞，是所见年代最早、篇幅最长的觚。",
+    "en": "From tomb M274 at Zhengjiahu, Yunmeng, Hubei: a wooden gu of the late Warring States, 34 centimetres long, a log split and pared into seven facets. Seven columns a side, some 700 characters in Qin clerical script — an envoy urging the king of Qin to lay down arms.",
+    "ja": "湖北省雲夢・鄭家湖M274から出た戦国末の木觚。長さ34センチ、丸太を縦に割り七つの稜面に削り出す。表裏それぞれ七行、秦隷でおよそ七百字。策士が秦王に「兵を寝め義を立てよ」と説く辞——現存最古にして最長の觚である。"
+   },
+   "weight": 4,
+   "year": 2021,
+   "siteId": "wuhan",
+   "links": [],
+   "sources": [
+    "https://www.chinanews.com.cn/cul/2022/05-27/9764653.shtml",
+    "https://news.gmw.cn/2022-04/29/content_35698755.htm",
+    "https://news.qq.com/rain/a/20220803A04H0800"
+   ]
+  },
+  {
+   "id": "wangjiazui-chu-slips",
+   "cat": "discovery",
+   "title": {
+    "zh": "楚简里的「孔子曰」",
+    "en": "Confucius Said, on Chu Slips",
+    "ja": "楚簡の「孔子曰く」"
+   },
+   "text": {
+    "zh": "荆州王家咀798号楚墓出土竹简三千二百余枚，可缀约七百支完简。内容分三类：《诗经·国风》、类《论语》的《孔子曰》，以及疑似先秦乐谱——若能坐实，将是考古所见最早的乐谱。",
+    "en": "Tomb M798 at Wangjiazui, Jingzhou, yielded over 3,200 bamboo slips, restorable to some 700 whole ones. Three kinds of text: airs from the Book of Songs, a Confucius Said akin to the Analects, and what may be pre-Qin musical notation — if confirmed, the earliest ever excavated.",
+    "ja": "荊州・王家咀798号楚墓から竹簡三千二百余枚が出土し、約700枚の完簡に復元できた。内容は三種——『詩経』国風、『論語』に似た「孔子曰」、そして先秦の楽譜とみられる簡。確定すれば、出土例として最古の楽譜となる。"
+   },
+   "weight": 4,
+   "year": 2022,
+   "siteId": "yichang-jingzhou",
+   "links": [],
+   "sources": [
+    "https://www.sohu.com/a/551684665_121124392",
+    "https://www.sohu.com/a/693362115_121124392",
+    "http://www.jingzhouqu.gov.cn/xwzx/jzqx/202307/t20230717_848220.shtml"
+   ]
+  },
+  {
+   "id": "yangtze-estuary-no2-ship",
+   "cat": "discovery",
+   "title": {
+    "zh": "长江口二号出水",
+    "en": "Raising Yangtze Estuary No. 2",
+    "ja": "長江口二号、浮上"
+   },
+   "text": {
+    "zh": "2022年11月，二十二根弧形梁托起8800吨沉箱，把一艘清同治年间的木帆船整体抬出水面。船长38.1米，三十一舱。一只绿釉杯底书「同治年制」，为断代落了定。",
+    "en": "In November 2022 twenty-two arched steel beams lifted an 8,800-tonne caisson, raising a Qing-dynasty wooden sailing ship whole. She measures 38.1 metres and holds 31 compartments. A green-glazed cup marked made in the Tongzhi reign settled her date.",
+    "ja": "2022年11月、二十二本の弧形梁が八千八百トンのケーソンを持ち上げ、清・同治年間の木造帆船を丸ごと水面へ引き出した。全長38.1メートル、船倉は三十一。緑釉の杯の底にある「同治年製」の銘が、年代を確定させた。"
+   },
+   "weight": 5,
+   "year": 2022,
+   "siteId": "shanghai",
+   "links": [],
+   "sources": [
+    "https://whlyj.sh.gov.cn/wlyw/20221122/bd54a4f753404b6c9886c53cb48fc84a.html",
+    "https://news.cgtn.com/news/2022-11-21/Ancient-wooden-shipwreck-from-Qing-Dynasty-salvaged-in-Shanghai-1f8vZ7rxgOs/index.html",
+    "https://m.gmw.cn/2024-09/29/content_1303859775.htm"
+   ]
+  },
+  {
+   "id": "baligang-ancient-dna",
+   "cat": "academic",
+   "title": {
+    "zh": "五千年的父系村落",
+    "en": "A Patrilineal Village, Five Millennia On",
+    "ja": "五千年の父系集落"
+   },
+   "text": {
+    "zh": "2025年9月《自然·通讯》测出长江中游北缘八里岗遗址58例古基因组，跨度约6100至2500年前。男性中Oβ-F46一支占八成有余，父系社群早已成形；约4200年前，南方人群大量涌入。",
+    "en": "In September 2025 Nature Communications reported 58 ancient genomes from Baligang, on the northern rim of the middle Yangtze basin, spanning roughly 6,100 to 2,500 years ago. A single Y-lineage, Oβ-F46, accounts for 82% of the men. Around 4,200 BP, southern populations poured in.",
+    "ja": "2025年9月の『Nature Communications』は、長江中流域北縁の八里崗遺跡から58例の古ゲノムを報告した。年代はおよそ6100〜2500年前。男性の82%が単一のY系統Oβ-F46に属し、五千年前にはすでに父系集団だった。4200年前ごろ、南方の人々が大量に流入する。"
+   },
+   "weight": 4,
+   "year": 2025,
+   "links": [
+    {
+     "label": {
+      "zh": "《Nature Communications》论文",
+      "en": "Paper in Nature Communications",
+      "ja": "Nature Communications 掲載論文"
+     },
+     "href": {
+      "en": "https://www.nature.com/articles/s41467-025-63743-1"
+     }
+    }
+   ],
+   "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12484831/",
+    "https://www.nature.com/articles/s41467-025-63743-1"
+   ]
+  },
+  {
+   "id": "nanjing-changgan-city",
+   "cat": "discovery",
+   "title": {
+    "zh": "南京多出六百年",
+    "en": "Nanjing Gains Six Centuries",
+    "ja": "南京に六百年が加わる"
+   },
+   "text": {
+    "zh": "2023年底确认，南京西街遗址下埋着1座商周之际的「长干古城」：台地、环壕、城墙、水井与猪祭坑俱全，距今三千余年。南京的建城史，由此上推六百多年。",
+    "en": "Confirmed at the end of 2023: beneath the Xijie site in Nanjing lies Changgan, a walled settlement of the Shang–Zhou transition — platform, moats, wall, wells and pits of sacrificed pigs, over three thousand years old. Nanjing's founding moves back more than six centuries.",
+    "ja": "2023年末に確認された——南京・西街遺跡の下に、商周交替期の城「長干古城」が眠っていた。台地、環濠、城壁、井戸、豚を供えた坑。三千年余り前のもので、南京の築城史は六百年以上さかのぼることになった。"
+   },
+   "weight": 4,
+   "year": 2023,
+   "siteId": "nanjing",
+   "links": [],
+   "sources": [
+    "https://m.gmw.cn/2023-12/20/content_1303606564.htm",
+    "https://www.nanjing.gov.cn/njxx/202312/t20231220_4125564.html",
+    "http://paper.people.com.cn/rmrbhwb/html/2024-01/15/content_26037101.htm"
+   ]
+  },
+  {
+   "id": "baiheliang-nilometer",
+   "cat": "academic",
+   "title": {
+    "zh": "白鹤梁与尼罗尺",
+    "en": "Baiheliang and the Nilometer",
+    "ja": "白鶴梁とナイロメーター"
+   },
+   "text": {
+    "zh": "涪陵白鹤梁的石鱼题刻，记下长江一千两百年的枯水位；埃及罗达岛的尼罗尺，量的是尼罗河汛期的高水。两者正联合申报世界遗产——一记枯，一记涨。",
+    "en": "The carved stone fish of Baiheliang at Fuling record twelve centuries of the Yangtze's low-water marks; the Nilometer on Egypt's Roda Island measures the Nile's floods. The two are being nominated jointly for World Heritage — one keeps the drought, the other the rise.",
+    "ja": "涪陵・白鶴梁の石魚の題刻は、長江の渇水位を千二百年分書き留めてきた。エジプト・ローダ島のナイロメーターが測るのは、ナイルの増水である。両者は今、共同で世界遺産を申請している。一方は引く水を、一方は満ちる水を。"
+   },
+   "weight": 3,
+   "year": 2025,
+   "siteId": "chongqing",
+   "links": [],
+   "sources": [
+    "https://www.cqrb.cn/wenlv/shangyou/2024-05-21/1938481_pc.html",
+    "http://paper.people.com.cn/rmrb/html/2024-08/12/nw.D110000renmrb_20240812_1-03.htm",
+    "https://www.news.cn/politics/leaders/20251114/23b0d83a65c840aba62a1f142b8e6bc0/c.html"
+   ]
+  },
+  {
+   "id": "longgupo-wushan-debate",
+   "cat": "academic",
+   "title": {
+    "zh": "巫山人是人是猿",
+    "en": "Ape or Human at Longgupo",
+    "ja": "巫山人は人か猿か"
+   },
+   "text": {
+    "zh": "2023年8月，重庆巫山龙骨坡遗址时隔十余年重启发掘，为该址第五次发掘。1985年出土的下颌残段被命名为「巫山人」，但材料太少，究竟属直立人还是古猿，学界至今没有共识。",
+    "en": "In August 2023 digging resumed at Longgupo in Wushan, Chongqing, after more than a decade — the site's fifth campaign. A jaw fragment found in 1985 was named Wushan Man, but the material is thin, and whether it is Homo erectus or an ape remains unresolved.",
+    "ja": "2023年8月、重慶・巫山の龍骨坡遺跡で十数年ぶりに発掘が再開された。同遺跡では五回目にあたる。1985年に出土した下顎の破片は「巫山人」と名づけられたが、資料が乏しく、原人か古猿かは今なお決着していない。"
+   },
+   "weight": 3,
+   "year": 2023,
+   "siteId": "sanxia",
+   "links": [],
+   "sources": [
+    "https://www.cas.cn/cm/202308/t20230817_4964117.shtml",
+    "https://epaper.cqrb.cn/cqrb/2023-08/20/002/content_rb_320897.htm"
+   ]
+  }
+ ]
+}

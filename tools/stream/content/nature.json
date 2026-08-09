@@ -1,0 +1,573 @@
+{
+ "items": [
+  {
+   "id": "sanxia-incision",
+   "cat": "landform",
+   "title": {
+    "zh": "三峡是何时切开的",
+    "en": "When the gorges were cut",
+    "ja": "三峡はいつ刻まれたか"
+   },
+   "text": {
+    "zh": "三峡不是水冲出的裂缝，而是江先在此，山后来隆起。河流剖面反演与低温热年代学把下切起点定在早中新世，约二千一百万年前；上新世以来，速率明显放缓。",
+    "en": "The Three Gorges are not a crack the water tore open: the river was here first, and the mountains rose across it. Inversion of river profiles and low-temperature thermochronology date the start of downcutting to the early Miocene, about 21 million years ago. Since the Pliocene the pace has markedly slowed.",
+    "ja": "三峡は水が裂いた傷ではない。川が先にあり、山が後から隆起した。河川縦断面の逆解析と低温熱年代学は、下刻の開始を約二千百万年前、前期中新世に置く。鮮新世以降、その速度は目に見えて緩んでいる。"
+   },
+   "weight": 5,
+   "year": 2021,
+   "siteId": "sanxia",
+   "links": [
+    {
+     "label": {
+      "zh": "研究原文（JGR: Earth Surface）",
+      "en": "The study (JGR: Earth Surface)",
+      "ja": "論文（JGR: Earth Surface）"
+     },
+     "href": {
+      "en": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JF005767"
+     }
+    }
+   ],
+   "sources": [
+    "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JF005767",
+    "https://gfzpublic.gfz.de/rest/items/item_5006796_3/component/file_5006942/content",
+    "http://www.adearth.ac.cn/CN/10.11867/j.issn.1001-8166.2024.005"
+   ]
+  },
+  {
+   "id": "first-bend-burial",
+   "cat": "landform",
+   "title": {
+    "zh": "长江第一湾的年龄",
+    "en": "Dating the First Bend",
+    "ja": "長江第一湾の年齢"
+   },
+   "text": {
+    "zh": "峡壁洞穴里的砾石埋了多久，用铍10、铝26、氖213种宇宙成因核素一起推算。答案是：金沙江在一千八百万至九百万年前下切了约1公里，此后忽然慢了下来。",
+    "en": "How long has the gravel in the caves along the gorge walls lain buried? Three cosmogenic nuclides — beryllium-10, aluminium-26 and neon-21 — answer together: the Jinsha cut roughly one kilometre down between 18 and 9 million years ago, then abruptly slowed.",
+    "ja": "峡谷の壁に開いた洞窟の礫は、どれほど埋もれていたのか。ベリリウム10、アルミニウム26、ネオン21——三つの宇宙線生成核種が同じ答えを出す。金沙江は千八百万年前から九百万年前にかけて約一キロを刻み、その後ふいに速度を落とした。"
+   },
+   "weight": 4,
+   "year": 2016,
+   "siteId": "jinshajiang",
+   "links": [
+    {
+     "label": {
+      "zh": "研究原文（GRL）",
+      "en": "The study (GRL)",
+      "ja": "論文（GRL）"
+     },
+     "href": {
+      "en": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL066780"
+     }
+    }
+   ],
+   "sources": [
+    "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL066780",
+    "https://scholarworks.uvm.edu/casfac/18/"
+   ]
+  },
+  {
+   "id": "jinsha-capture",
+   "cat": "landform",
+   "title": {
+    "zh": "差点流向南海的江",
+    "en": "The river that nearly went south",
+    "ja": "南シナ海へ向かうはずだった川"
+   },
+   "text": {
+    "zh": "古金沙江可能一路南下，经红河注入南海。石鼓那个急转弯是袭夺留下的伤口——碎屑锆石显示，约一百二十万年前，江汉盆地与长江三角洲突然涌进大量青藏高原的砂。",
+    "en": "The old Jinsha may once have run south, down the Red River to the sea off Vietnam. The hairpin at Shigu is the scar of a capture: detrital zircons show Tibetan sand flooding into the Jianghan Basin and the Yangtze delta around 1.2 million years ago.",
+    "ja": "かつての金沙江は南へ下り、紅河を経て南シナ海へ注いでいたらしい。石鼓の急な折れ曲がりは、河川争奪が残した傷跡である。砕屑性ジルコンは、約百二十万年前に江漢盆地と長江デルタへチベット高原の砂が一気に届いたことを語る。"
+   },
+   "weight": 4,
+   "year": 2021,
+   "siteId": "jinshajiang",
+   "links": [
+    {
+     "label": {
+      "zh": "研究原文（GRL）",
+      "en": "The study (GRL)",
+      "ja": "論文（GRL）"
+     },
+     "href": {
+      "en": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094563"
+     }
+    }
+   ],
+   "sources": [
+    "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094563",
+    "http://www.adearth.ac.cn/article/2017/1001-8166-32-5-488.html",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0169555X23003082"
+   ]
+  },
+  {
+   "id": "hutiaoxia-depth",
+   "cat": "landform",
+   "title": {
+    "zh": "3700米的落差",
+    "en": "A drop of 3,700 metres",
+    "ja": "三千七百メートルの落差"
+   },
+   "text": {
+    "zh": "玉龙雪山5596米，哈巴雪山5396米，江面只在1800米上下。谷底到山顶高差约3790米；最窄处江宽仅三十余米，水就从那里挤过去。",
+    "en": "Jade Dragon Snow Mountain stands at 5,596 m, Haba at 5,396 m, and the river runs at barely 1,800 m between them. Floor to summit is about 3,790 m. At the narrowest point the water squeezes through a channel just over thirty metres wide.",
+    "ja": "玉龍雪山は5596メートル、哈巴雪山は5396メートル。その間を流れる川面は、わずか1800メートル前後にすぎない。谷底から頂まで約3790メートル。最も狭い場所では、川幅は三十数メートルしかない。"
+   },
+   "weight": 4,
+   "siteId": "hutiaoxia",
+   "links": [],
+   "sources": [
+    "https://zh.wikipedia.org/zh-hans/%E8%99%8E%E8%B7%B3%E5%B3%A1",
+    "https://lcj.yn.gov.cn/html/2020/lijiang_0630/56908.html",
+    "https://www.dili360.com/index.php/cng/article/p5350c3d7d452845.htm"
+   ]
+  },
+  {
+   "id": "ganre-hegu",
+   "cat": "landform",
+   "title": {
+    "zh": "河谷底部的旱土",
+    "en": "Drought at the bottom of a river valley",
+    "ja": "川底にひろがる乾いた土"
+   },
+   "text": {
+    "zh": "季风翻过雨屏后下沉增温，把谷底烤干。元谋年降水约615毫米，年蒸发量却近3600毫米，是降水的近六倍。江水在脚下奔流，坡上却是仙人掌和裸露的红土。",
+    "en": "Monsoon air spills over the rain barrier, sinks, warms, and bakes the valley floor dry. Yuanmou takes in about 615 mm of rain a year and evaporates close to 3,600 — nearly six times as much. The river races past below; the slopes above hold cactus and bare red earth.",
+    "ja": "モンスーンが雨屏を越えて下降し、昇温して谷底を焼く。元謀の年降水量は約615ミリ、年蒸発量は3600ミリ近く——降水のおよそ六倍だ。足元を大河が走り、斜面にはサボテンと剥き出しの赤土が残る。"
+   },
+   "weight": 3,
+   "siteId": "panxi",
+   "links": [],
+   "sources": [
+    "https://html.rhhz.net/linyekexue/html/20030403.htm",
+    "https://html.rhhz.net/linyekexue/html/2017-11-20.htm",
+    "http://xnldxb.ns.swfu.edu.cn/cn/article/pdf/preview/10.11929/j.swfu.202003080.pdf"
+   ]
+  },
+  {
+   "id": "tongtianhe-braided",
+   "cat": "landform",
+   "title": {
+    "zh": "散乱如辫的少年江",
+    "en": "The river before it learns a channel",
+    "ja": "まだ流路を決めかねている川"
+   },
+   "text": {
+    "zh": "在囊极巴陇，辫状河道宽度超过3公里；沱沱河大桥上游可达二至5公里。汛期冲开新汊、淤死旧汊，沙洲一年一换。气候变暖带来更多径流与泥沙，辫状还在加剧。",
+    "en": "At Nangqênbalong the braided channel spreads more than three kilometres wide; upstream of the Tuotuo River bridge it reaches two to five. Each flood season opens new arms and silts up old ones, so the sandbars are rearranged annually. Warming brings more water and more sediment, and the braiding keeps intensifying.",
+    "ja": "囊極巴隴では網状流路の幅が三キロを超え、沱沱河大橋の上流では二〜五キロに達する。増水期ごとに新しい分流が開き、古い分流が埋まり、砂州は一年で並び替わる。温暖化がもたらす流量と土砂の増加によって、網状化はなお強まっている。"
+   },
+   "weight": 4,
+   "year": 2023,
+   "siteId": "tongtianhe",
+   "links": [
+    {
+     "label": {
+      "zh": "新华社·江源科考",
+      "en": "Xinhua: the source-region expedition",
+      "ja": "新華社・江源学術調査"
+     },
+     "href": {
+      "zh": "http://www.news.cn/local/2023-08/11/c_1129799464.htm"
+     }
+    }
+   ],
+   "sources": [
+    "http://www.news.cn/local/2023-08/11/c_1129799464.htm",
+    "https://sti.xizang.gov.cn/kjfw/qzkk/202409/t20240912_436040.html"
+   ]
+  },
+  {
+   "id": "zhengyuan-dispute",
+   "cat": "landform",
+   "title": {
+    "zh": "正源之争没有结论",
+    "en": "Which stream is the source",
+    "ja": "正源の争いは終わらない"
+   },
+   "text": {
+    "zh": "1978年，长江委定沱沱河为正源。2008年科考队用卫星重测：当曲长360.34公里，比沱沱河的348.63公里多出近12公里。次年专家评审认可当曲，教科书却照旧。",
+    "en": "In 1978 the Yangtze River Commission named the Tuotuo the true source. A 2008 expedition re-measured it by satellite: the Dam Qu runs 360.34 km against the Tuotuo's 348.63 — nearly twelve kilometres longer. An expert panel endorsed the Dam Qu the following year. The textbooks have not changed.",
+    "ja": "1978年、長江水利委員会は沱沱河を正源と定めた。2008年、学術調査隊が衛星測位で測り直すと、当曲は360・三四キロ、沱沱河の348・六三キロを約十二キロ上回った。翌年、専門家委員会は当曲を認める。だが教科書は今も書き換わっていない。"
+   },
+   "weight": 3,
+   "year": 2009,
+   "siteId": "tuotuohe",
+   "links": [
+    {
+     "label": {
+      "zh": "澎湃新闻·长江正源之争",
+      "en": "The Paper: the source dispute",
+      "ja": "澎湃新聞・正源をめぐる論争"
+     },
+     "href": {
+      "zh": "https://www.thepaper.cn/newsDetail_forward_1697819"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.thepaper.cn/newsDetail_forward_1697819",
+    "https://zh.wikipedia.org/zh-hans/%E9%95%BF%E6%B1%9F%E6%BA%90"
+   ]
+  },
+  {
+   "id": "jingjiang-cutoff",
+   "cat": "landform",
+   "title": {
+    "zh": "九曲回肠被拉直",
+    "en": "Straightening the intestines",
+    "ja": "九曲の腸を伸ばす"
+   },
+   "text": {
+    "zh": "下荆江直线距离80公里，河道却绕了十六个大弯，走足240公里。1966至1972年，中洲子、上车湾人工裁弯，沙滩子自然裁弯，河长缩短78公里，沙市洪水位降了半米。",
+    "en": "The lower Jingjiang wound through sixteen great bends, covering 240 km to cross 80 as the crow flies. Between 1966 and 1972 engineers cut through at Zhongzhouzi and Shangchewan; Shatanzi cut itself. The river lost 78 km, and the flood stage at Shashi fell half a metre.",
+    "ja": "下荊江は十六の大きな蛇行を描き、直線距離八十キロの区間を240キロかけて流れていた。1966年から七二年、中洲子と上車湾で人工的に短絡され、沙灘子は自然に切れた。河長は七十八キロ縮み、沙市の洪水位は〇・五メートル下がった。"
+   },
+   "weight": 4,
+   "year": 1972,
+   "siteId": "yichang-jingzhou",
+   "links": [],
+   "sources": [
+    "https://zh.wikipedia.org/zh-hans/%E4%B8%8B%E8%8D%86%E6%B1%9F%E8%A3%81%E5%BC%AF%E5%B7%A5%E7%A8%8B"
+   ]
+  },
+  {
+   "id": "qingshui-scour",
+   "cat": "landform",
+   "title": {
+    "zh": "清水下泄，河床变深",
+    "en": "Hungry water eats the bed",
+    "ja": "澄んだ水が河床を削る"
+   },
+   "text": {
+    "zh": "水库拦住泥沙，放出的水便饿了，只好啃河床。2002年10月至2014年10月，坝下410公里河段深泓平均下切约1.5米；上荆江在十二年间被刷走4.11亿立方米。",
+    "en": "A reservoir holds back sediment, so the water it releases comes out hungry and eats the bed instead. Between October 2002 and October 2014 the thalweg over 410 km below the dam dropped about 1.5 m on average; the upper Jingjiang alone lost 411 million cubic metres in twelve years.",
+    "ja": "ダムが土砂を止めれば、流れ出す水は「飢えて」河床を削りはじめる。2002年10月から2014年10月まで、ダム下流410キロ区間の最深河床は平均約一・五メートル低下した。上荊江だけで十二年に四・一一億立方メートルが失われている。"
+   },
+   "weight": 4,
+   "year": 2017,
+   "siteId": "yichang-jingzhou",
+   "links": [
+    {
+     "label": {
+      "zh": "研究原文（地理学报）",
+      "en": "The study (Acta Geographica Sinica)",
+      "ja": "論文（地理学報）"
+     },
+     "href": {
+      "zh": "https://www.geog.com.cn/article/2017/0375-5444/0375-5444-72-5-776.shtml"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.geog.com.cn/article/2017/0375-5444/0375-5444-72-5-776.shtml",
+    "https://www.jlakes.org/html/2021/3/20210315.html"
+   ]
+  },
+  {
+   "id": "poyang-swing",
+   "cat": "landform",
+   "title": {
+    "zh": "鄱阳湖见底那一年",
+    "en": "The year Poyang showed its floor",
+    "ja": "鄱陽湖が底を見せた年"
+   },
+   "text": {
+    "zh": "2022年9月6日，鄱阳湖提前115天跌破8米极枯水位，水面缩到291平方公里；11月7日星子站退至6.67米，破了2004年的纪录。而丰水年最高水位时，它可以铺开4741平方公里。",
+    "en": "On 6 September 2022 Poyang dropped below its eight-metre extreme-low mark 115 days ahead of schedule, its surface shrunk to 291 km². By 7 November the Xingzi gauge read 6.67 m, breaking the record set in 2004. At its highest recorded stage, the same lake spreads across 4,741 km².",
+    "ja": "2022年9月6日、鄱陽湖は平年より115日早く極枯水位の八メートルを割り、水面は291平方キロまで縮んだ。11月7日には星子観測所で六・六七メートルを記録し、2004年の記録を更新する。既往最高水位のとき、この同じ湖は4741平方キロに広がる。"
+   },
+   "weight": 5,
+   "year": 2022,
+   "siteId": "poyang",
+   "links": [
+    {
+     "label": {
+      "zh": "江西省水利厅·鄱阳湖丰枯",
+      "en": "China Daily: Poyang at a tenth of its size",
+      "ja": "China Daily: 平常の一割まで縮んだ鄱陽湖"
+     },
+     "href": {
+      "zh": "https://slt.jiangxi.gov.cn/jxsslt/kxyd/pc/content/content_1855431117731467264.html",
+      "en": "https://www.chinadaily.com.cn/a/202209/07/WS63184dada310fd2b29e767ad.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.thepaper.cn/newsDetail_forward_20628382",
+    "https://www.chinadaily.com.cn/a/202209/07/WS63184dada310fd2b29e767ad.html",
+    "https://slt.jiangxi.gov.cn/jxsslt/kxyd/pc/content/content_1855431117731467264.html",
+    "https://www.mdpi.com/2072-4292/15/21/5125"
+   ]
+  },
+  {
+   "id": "jiangtun-1426",
+   "cat": "ecology",
+   "title": {
+    "zh": "1426头微笑",
+    "en": "Fourteen hundred and twenty-six smiles",
+    "ja": "千四百二十六の微笑み"
+   },
+   "text": {
+    "zh": "2025年科考数到长江江豚1426头，比2022年的1249头多出177头，比历史低位多414头。它是长江里仅存的淡水鲸豚，也是第一个止跌回升的旗舰物种。",
+    "en": "The 2025 survey counted 1,426 Yangtze finless porpoises — 177 more than the 1,249 of 2022, and 414 above the historic low. It is the last freshwater cetacean left in the river, and the first of its flagship species to stop falling and begin to climb.",
+    "ja": "2025年の調査で、長江スナメリは1426頭を数えた。2022年の1249頭より177頭多く、過去最少期より414頭多い。長江に残された唯一の淡水鯨類であり、減少に歯止めがかかった最初の象徴種でもある。"
+   },
+   "weight": 5,
+   "year": 2025,
+   "siteId": "wuhan",
+   "links": [
+    {
+     "label": {
+      "zh": "光明网·1426头",
+      "en": "WWF: first recorded increase",
+      "ja": "WWF: 初めての増加"
+     },
+     "href": {
+      "zh": "https://tech.gmw.cn/2026-01/30/content_38570670.htm",
+      "en": "https://wwf.panda.org/wwf_news/?7885466%2FHope-for-critically-endangered-Yangtze-finless-porpoise-as-population-increases-for-first-time="
+     }
+    }
+   ],
+   "sources": [
+    "https://tech.gmw.cn/2026-01/30/content_38570670.htm",
+    "https://www.wuhan.gov.cn/sy/whyw/202601/t20260131_2722829.shtml",
+    "https://www.chinadaily.com.cn/a/202408/13/WS66baae67a3104e74fddb9a63.html"
+   ]
+  },
+  {
+   "id": "baixun-extinct",
+   "cat": "ecology",
+   "title": {
+    "zh": "白鲟没有留下影像",
+    "en": "No photograph of the last one",
+    "ja": "映像を残さなかった魚"
+   },
+   "text": {
+    "zh": "2022年7月21日，世界自然保护联盟正式宣布白鲟灭绝。这种能长到7米的淡水巨鱼，最后一次被确认活着是2003年。同一批评估还把野生长江鲟列为野外灭绝。",
+    "en": "On 21 July 2022 the IUCN declared the Chinese paddlefish extinct. A freshwater giant that could reach seven metres, it was last confirmed alive in 2003. The same assessment listed the wild Yangtze sturgeon as Extinct in the Wild.",
+    "ja": "2022年7月21日、国際自然保護連合はハシナガチョウザメの絶滅を宣言した。体長七メートルにも達した淡水の巨魚で、生きた姿の確実な最後の確認は2003年である。同じ評価で、野生のヨウスコウチョウザメも野生絶滅とされた。"
+   },
+   "weight": 5,
+   "year": 2022,
+   "siteId": "yichang-jingzhou",
+   "links": [
+    {
+     "label": {
+      "zh": "IUCN 红色名录评估",
+      "en": "IUCN Red List assessment",
+      "ja": "IUCN レッドリスト評価"
+     },
+     "href": {
+      "en": "https://www.iucnredlist.org/species/pdf/146104283"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.iucnredlist.org/species/pdf/146104283",
+    "http://www.ecns.cn/news/society/2022-07-22/detail-ihcakxsi6139159.shtml",
+    "https://www.globaltimes.cn/page/202207/1271156.shtml"
+   ]
+  },
+  {
+   "id": "changjiangxun-spawn",
+   "cat": "ecology",
+   "title": {
+    "zh": "野外灭绝者又产卵",
+    "en": "Extinct in the wild, spawning again",
+    "ja": "野生絶滅の魚が産卵した"
+   },
+   "text": {
+    "zh": "2025年4月，二十尾人工繁育的长江鲟被放进赤水河，随后在赤水大鱼坝江段自然产卵并孵化。对一个已被宣布野外灭绝的物种来说，这是二十多年来第一次在天然水域完成繁殖。",
+    "en": "In April 2025 twenty captive-bred Yangtze sturgeon were released into the Chishui River, and later spawned and hatched on their own at Dayuba. For a species officially listed as Extinct in the Wild, it was the first natural reproduction in open water in more than two decades.",
+    "ja": "2025年4月、人工繁殖されたヨウスコウチョウザメ二十尾が赤水河に放流され、やがて大魚壩の河段で自然に産卵し、孵化した。野生絶滅と宣告された種が天然の水域で繁殖を果たしたのは、二十数年ぶりのことである。"
+   },
+   "weight": 5,
+   "year": 2025,
+   "links": [
+    {
+     "label": {
+      "zh": "中国科学院·首次野外繁殖",
+      "en": "CAS: first wild reproduction",
+      "ja": "中国科学院: 初の野外繁殖"
+     },
+     "href": {
+      "en": "https://english.cas.cn/newsroom/cas_media/202506/t20250617_1045714.shtml"
+     }
+    }
+   ],
+   "sources": [
+    "https://english.cas.cn/newsroom/cas_media/202506/t20250617_1045714.shtml",
+    "https://english.news.cn/20250616/ee88655f199e4359bae408c6b30349ae/c.html",
+    "https://www.chinadaily.com.cn/a/202506/19/WS6853636ea310a04af22c7252.html"
+   ]
+  },
+  {
+   "id": "chishui-fish",
+   "cat": "ecology",
+   "title": {
+    "zh": "赤水河的豹纹回来了",
+    "en": "The leopard pattern returns",
+    "ja": "赤水河に豹紋が戻る"
+   },
+   "text": {
+    "zh": "赤水河比干流早四年禁渔。从2006到2017年，连续十二年监测不到的金沙鲈鲤，2026年在古蔺江段被重新拍到；全流域鱼类由2017年的109种增至2025年的149种。",
+    "en": "The Chishui closed to fishing four years ahead of the main river. The leopard-spotted Jinsha barbel, absent from surveys for twelve straight years from 2006 to 2017, was recorded again at Gulin in 2026. Fish species in the basin rose from 109 in 2017 to 149 in 2025.",
+    "ja": "赤水河は本流より四年早く禁漁に入った。2006年から2017年まで十二年間まったく確認されなかった豹紋のジンシャバルブスが、2026年、古藺の河段で再び記録された。流域の魚類は2017年の109種から2025年には149種へ増えている。"
+   },
+   "weight": 4,
+   "year": 2026,
+   "links": [
+    {
+     "label": {
+      "zh": "光明网·金沙鲈鲤重返赤水河",
+      "en": "Guangming: the barbel returns",
+      "ja": "光明網: 赤水河に戻った魚"
+     },
+     "href": {
+      "zh": "https://politics.gmw.cn/2026-07/31/content_38921481.htm"
+     }
+    }
+   ],
+   "sources": [
+    "https://politics.gmw.cn/2026-07/31/content_38921481.htm",
+    "https://news.dahe.cn/2026/07-31/2115928.html"
+   ]
+  },
+  {
+   "id": "yanzhiyu-larvae",
+   "cat": "ecology",
+   "title": {
+    "zh": "三十年来第一窝鱼苗",
+    "en": "The first fry in thirty years",
+    "ja": "三十年ぶりの稚魚"
+   },
+   "text": {
+    "zh": "2021至2024年，长江流域累计监测到土著鱼类344种，比禁渔前多36种，并近三十年来首次发现胭脂鱼的自然繁殖鱼苗。同一份公报也写着：中华鲟连续八年未监测到自然繁殖。",
+    "en": "Between 2021 and 2024 the basin recorded 344 native fish species, 36 more than before the ban, and for the first time in nearly thirty years, wild-spawned larvae of the Chinese sucker. The same bulletin notes something else: the Chinese sturgeon has now gone eight consecutive years without a single recorded natural spawning.",
+    "ja": "2021年から二四年、長江流域では在来魚類344種が確認された。禁漁前より三十六種多い。三十年ぶりに胭脂魚の自然繁殖仔魚も見つかった。同じ公報はこうも記す——シナチョウザメは八年連続で自然繁殖が確認されていない、と。"
+   },
+   "weight": 4,
+   "year": 2024,
+   "links": [
+    {
+     "label": {
+      "zh": "长江流域水生生物资源公报（2024年）",
+      "en": "State Council: 2024 aquatic resources bulletin",
+      "ja": "国務院: 2024年水生生物資源公報"
+     },
+     "href": {
+      "zh": "https://www.gov.cn/lianbo/bumen/202507/content_7034724.htm"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.gov.cn/lianbo/bumen/202507/content_7034724.htm",
+    "https://www.gov.cn/lianbo/bumen/202507/content_7034422.htm",
+    "https://www.news.cn/politics/20250511/69e03394fa3146f8b8aa8fd1f585f241/c.html"
+   ]
+  },
+  {
+   "id": "guan-dongting",
+   "cat": "ecology",
+   "title": {
+    "zh": "鳤又回到洞庭湖",
+    "en": "A fish written off returns",
+    "ja": "消えた魚が洞庭湖へ戻る"
+   },
+   "text": {
+    "zh": "鳤曾二十多年不见踪影，1度被认为区域性灭绝。2024年，湖南在四十二个监测点位一年内记录到七十多尾野生鳤，科研人员还在宜昌与监利江段找到了成规模的产卵场。",
+    "en": "Ochetobius elongatus went missing for more than twenty years and was written off as regionally extinct. In 2024 Hunan recorded over seventy wild individuals across 42 monitoring sites in a single year, and researchers located spawning grounds of real size in the Yichang and Jianli reaches.",
+    "ja": "鳤（Ochetobius elongatus）は二十年以上も姿を消し、地域絶滅とみなされた時期もあった。2024年、湖南省は四十二か所の観測点で一年に七十尾余りの野生個体を記録し、宜昌と監利の河段では相当な規模の産卵場も確認された。"
+   },
+   "weight": 3,
+   "year": 2024,
+   "siteId": "dongting",
+   "links": [
+    {
+     "label": {
+      "zh": "新华社·长江禁渔五年观察",
+      "en": "Xinhua: five years of the fishing ban",
+      "ja": "新華社: 禁漁五年の観察"
+     },
+     "href": {
+      "zh": "https://www.news.cn/politics/20250511/69e03394fa3146f8b8aa8fd1f585f241/c.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.news.cn/politics/20250511/69e03394fa3146f8b8aa8fd1f585f241/c.html",
+    "https://www.gov.cn/lianbo/bumen/202507/content_7034724.htm"
+   ]
+  },
+  {
+   "id": "dongtan-heritage",
+   "cat": "ecology",
+   "title": {
+    "zh": "东滩成了世界遗产",
+    "en": "The mudflat becomes World Heritage",
+    "ja": "干潟が世界遺産になる"
+   },
+   "text": {
+    "zh": "2024年7月26日，崇明东滩随中国黄（渤）海候鸟栖息地第二期列入《世界遗产名录》，上海由此有了第一处世界自然遗产。此前十余年，约25平方公里互花米草被清除，水鸟从每年十万只次增至四十万只次。",
+    "en": "On 26 July 2024 Chongming Dongtan was inscribed on the World Heritage List as part of the second phase of China's Yellow Sea–Bohai Gulf migratory bird sanctuaries — Shanghai's first natural World Heritage site. Over the preceding decade some 25 km² of invasive cordgrass was cleared, and annual waterbird counts rose from around 100,000 to 400,000.",
+    "ja": "2024年7月26日、崇明東灘は「中国黄海・渤海湾の渡り鳥保護区群（第二期）」の一部として世界遺産に登録された。上海で初めての世界自然遺産である。それに先立つ十数年で約二十五平方キロのヒガタアシが除去され、水鳥の延べ数は年間十万羽から四十万羽へ増えた。"
+   },
+   "weight": 4,
+   "year": 2024,
+   "siteId": "shanghai",
+   "links": [
+    {
+     "label": {
+      "zh": "中国政府网·第二期列入世界遗产",
+      "en": "State Council: inscription announcement",
+      "ja": "中国政府網: 世界遺産登録の発表"
+     },
+     "href": {
+      "zh": "https://www.gov.cn/yaowen/liebiao/202407/content_6964619.htm"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.gov.cn/yaowen/liebiao/202407/content_6964619.htm",
+    "https://www.shcm.gov.cn/xwzx/002008/20240729/70d1ec78-a097-4d7a-8b44-222182d62f90.html",
+    "https://zjw.sh.gov.cn/CMFHRE/project15.html",
+    "https://news.hangzhou.com.cn/gnxw/content/2026-05/22/content_9227372.htm"
+   ]
+  },
+  {
+   "id": "baihe-poyang",
+   "cat": "ecology",
+   "title": {
+    "zh": "全球白鹤都来这里",
+    "en": "Almost every Siberian crane",
+    "ja": "世界中のソデグロヅルが来る"
+   },
+   "text": {
+    "zh": "白鹤全球种群估计只有六千至六千五百只，而它们几乎全部到鄱阳湖越冬。2024年12月，仅湖区农田里就数到至少五千八百八十只；余干插旗洲一处，观测到约四千二百一十五只。",
+    "en": "The world's Siberian cranes number an estimated 6,000 to 6,500, and nearly all of them winter on Poyang. In December 2024 at least 5,880 were counted in the lakeside farmland alone; a single site at Chaqizhou in Yugan held about 4,215.",
+    "ja": "ソデグロヅルの世界個体数は6000〜6500羽と見積もられ、そのほぼすべてが鄱陽湖で越冬する。2024年12月、湖畔の農地だけで少なくとも5880羽が数えられた。余干県の插旗洲、たった一か所で約4215羽である。"
+   },
+   "weight": 4,
+   "year": 2024,
+   "siteId": "poyang",
+   "links": [
+    {
+     "label": {
+      "zh": "国家林草局·白鹤投给江西生态的信任票",
+      "en": "China Forestry Administration: the cranes' verdict",
+      "ja": "国家林業草原局: ツルが投じた一票"
+     },
+     "href": {
+      "zh": "https://www.forestry.gov.cn/c/www/dfdt/656403.jhtml"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.forestry.gov.cn/c/www/dfdt/656403.jhtml",
+    "http://www.news.cn/local/20250109/849d78efa8904811b78acf6627850942/c.html"
+   ]
+  }
+ ]
+}

@@ -11,11 +11,11 @@ import { eventIntensity, posToYear, yearToPos } from './data/timeScale'
 import { UI, useLang, type Lang } from './i18n'
 import type { EventCategory, L10n, RiverEvent } from './data/types'
 
-export type ViewMode = 'explore' | 'timeline' | 'graph'
+export type ViewMode = 'explore' | 'timeline' | 'stream'
 
-// 图谱视图连同 d3-force 一起单独打包：不打开这个 tab 就不会下载
-const GraphView = lazy(() =>
-  import('./components/GraphView').then((m) => ({ default: m.GraphView })),
+// 弹幕流单独打包：不打开这个 tab 就不会下载
+const StreamView = lazy(() =>
+  import('./components/StreamView').then((m) => ({ default: m.StreamView })),
 )
 
 export const CATEGORY_COLORS: Record<EventCategory, string> = {
@@ -131,13 +131,13 @@ export default function App() {
             {t(UI.viewTimeline)}
           </button>
           <button
-            className={mode === 'graph' ? 'active' : ''}
+            className={mode === 'stream' ? 'active' : ''}
             onClick={() => {
-              setMode('graph')
+              setMode('stream')
               setPlaying(false)
             }}
           >
-            {t(UI.viewGraph)}
+            {t(UI.viewStream)}
           </button>
         </nav>
         {mode === 'timeline' ? (
@@ -175,10 +175,9 @@ export default function App() {
       </header>
 
       <main className="canvas-wrap">
-        {mode === 'graph' ? (
-          <Suspense fallback={<div className="graph-status">{t(UI.kgLoading)}</div>}>
-            <GraphView onOpenSite={(id) => selectLocation(id)} />
-            <div className="hint">{t(UI.kgHint)}</div>
+        {mode === 'stream' ? (
+          <Suspense fallback={<div className="stream-loading">{t(UI.streamLoading)}</div>}>
+            <StreamView onOpenSite={(id) => selectLocation(id)} />
           </Suspense>
         ) : isMobile && listMode ? (
           mode === 'explore' ? (
@@ -192,7 +191,7 @@ export default function App() {
             <div className="hint">{mode === 'explore' ? t(UI.hintExplore) : t(UI.hintTimeline)}</div>
           </>
         )}
-        {isMobile && mode !== 'graph' && (
+        {isMobile && mode !== 'stream' && (
           <button className="mobile-view-toggle" onClick={() => setListMode((v) => !v)}>
             {listMode ? t(UI.showMap) : t(UI.showList)}
           </button>

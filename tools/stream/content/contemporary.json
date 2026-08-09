@@ -1,0 +1,602 @@
+{
+ "items": [
+  {
+   "id": "yangtze-protection-law-2021",
+   "cat": "trend",
+   "title": {
+    "zh": "长江保护法施行",
+    "en": "A law for one river",
+    "ja": "長江保護法、施行"
+   },
+   "text": {
+    "zh": "2021年3月1日，《长江保护法》施行，这是中国第一部为一条流域单独立的法律。重点水域全面禁捕、限制采砂、污染防治都被写进条文，「生态优先」第一次成为这条江的法定秩序。",
+    "en": "On 1 March 2021 the Yangtze River Protection Law took effect — China's first law written for a single river basin. The fishing ban, sand-mining limits and pollution control were all put into statute, making ecology the river's legal first principle.",
+    "ja": "2021年3月1日、長江保護法が施行された。中国で初めて、一つの流域のために書かれた法律である。全面禁漁、採砂の制限、汚染防止が条文に刻まれ、「生態優先」がこの川の法的な秩序となった。"
+   },
+   "weight": 5,
+   "year": 2021,
+   "links": [
+    {
+     "label": {
+      "zh": "法律全文（英文）",
+      "en": "Full text of the law",
+      "ja": "法律全文（英語）"
+     },
+     "href": {
+      "en": "https://english.mee.gov.cn/Resources/laws/environmental_laws/202104/t20210407_827604.shtml"
+     }
+    }
+   ],
+   "sources": [
+    "https://english.mee.gov.cn/Resources/laws/environmental_laws/202104/t20210407_827604.shtml",
+    "https://faolex.fao.org/docs/pdf/chn200902.pdf"
+   ]
+  },
+  {
+   "id": "ten-year-fishing-ban",
+   "cat": "trend",
+   "title": {
+    "zh": "十年禁渔",
+    "en": "Ten years without nets",
+    "ja": "十年の禁漁"
+   },
+   "text": {
+    "zh": "2021年1月1日起，长江干流与重要支流全面禁捕十年。十一万一千艘渔船上岸，二十三万一千名渔民转产。以一代鱼类繁衍的周期为尺度，这条江第一次被允许长时间地空着。",
+    "en": "From 1 January 2021 fishing was banned for ten years across the Yangtze's main stem and its key tributaries. Some 111,000 boats were retired and 231,000 fishers left the water — a pause measured against the breeding cycle of the fish themselves.",
+    "ja": "2021年1月1日、長江本流と主要支流で十年間の全面禁漁が始まった。十一万一千隻の漁船が陸に上がり、231000人が漁を離れた。魚が世代を重ねる時間を尺度に、この川は初めて長く空けられた。"
+   },
+   "weight": 5,
+   "year": 2021,
+   "links": [
+    {
+     "label": {
+      "zh": "国务院办公厅意见",
+      "en": "State Council guidance",
+      "ja": "国務院弁公庁の意見"
+     },
+     "href": {
+      "zh": "https://www.gov.cn/zhengce/content/202403/content_6940787.htm"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.gov.cn/zhengce/content/202403/content_6940787.htm",
+    "http://society.people.com.cn/n1/2021/0227/c1008-32038265.html",
+    "https://cjyzbgs.moa.gov.cn/jbtbzl/202106/t20210601_6368848.htm"
+   ]
+  },
+  {
+   "id": "poyang-2022-drought",
+   "cat": "trend",
+   "title": {
+    "zh": "鄱阳湖提前入枯",
+    "en": "Poyang's early dry season",
+    "ja": "鄱陽湖、早すぎる渇水"
+   },
+   "text": {
+    "zh": "2022年8月6日，鄱阳湖水位跌到11.99米，比常年提早约100天进入枯水期，是1951年有记录以来最早的一次。到8月底，中国最大的淡水湖只剩下常年面积的约四分之一。",
+    "en": "On 6 August 2022 Poyang Lake fell to 11.99 metres, entering its dry season about a hundred days early — the earliest since records began in 1951. By late August, China's largest freshwater lake had shrunk to roughly a quarter of its usual size.",
+    "ja": "2022年8月6日、鄱陽湖の水位は11.99メートルまで下がり、例年より約百日早く渇水期に入った。1951年の観測開始以来もっとも早い。8月末には、中国最大の淡水湖が平年の四分の一ほどに縮んでいた。"
+   },
+   "weight": 5,
+   "year": 2022,
+   "siteId": "poyang",
+   "links": [
+    {
+     "label": {
+      "zh": "NASA 地球观测站",
+      "en": "NASA Earth Observatory",
+      "ja": "NASA 地球観測所"
+     },
+     "href": {
+      "en": "https://science.nasa.gov/earth/earth-observatory/parched-poyang-lake-150285"
+     }
+    }
+   ],
+   "sources": [
+    "https://science.nasa.gov/earth/earth-observatory/parched-poyang-lake-150285",
+    "https://www.chinadaily.com.cn/a/202209/07/WS63184dada310fd2b29e767ad.html",
+    "https://www.sixthtone.com/news/1010936/chinas-largest-freshwater-lake-sees-record-early-dry-season-"
+   ]
+  },
+  {
+   "id": "sichuan-2022-power-cuts",
+   "cat": "trend",
+   "title": {
+    "zh": "川渝高温与限电",
+    "en": "The summer the turbines slowed",
+    "ja": "川渝の酷暑と停電"
+   },
+   "text": {
+    "zh": "2022年8月，四川二十一个市州中有十九个被要求工业停产、让电于民。全省约八成电力来自水电，而那个月的发电能力同比几乎减半——一场干旱，第一次以停摆的工厂被人看见。",
+    "en": "In August 2022, nineteen of Sichuan's twenty-one prefectures ordered factories to halt so households could keep the lights on. About four-fifths of the province's power is hydro; that month its generating capacity fell by roughly half year on year.",
+    "ja": "2022年8月、四川の二十一市州のうち十九が工場の操業停止を命じ、電力を家庭に回した。同省の電力の約八割は水力である。その月の発電能力は前年比でほぼ半減し、干ばつは止まった工場という姿で現れた。"
+   },
+   "weight": 4,
+   "year": 2022,
+   "siteId": "chongqing",
+   "links": [
+    {
+     "label": {
+      "zh": "CNN 报道",
+      "en": "CNN report",
+      "ja": "CNN の報道"
+     },
+     "href": {
+      "en": "https://www.cnn.com/2022/08/16/economy/sichuan-factories-power-crunch-china-heat-wave-intl-hnk"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.cnn.com/2022/08/16/economy/sichuan-factories-power-crunch-china-heat-wave-intl-hnk",
+    "https://www.climatechangenews.com/2022/08/22/heatwave-hydropower-china-sichuan-tesla/",
+    "https://www.insurancejournal.com/news/international/2022/08/22/681399.htm"
+   ]
+  },
+  {
+   "id": "paddlefish-extinct-2022",
+   "cat": "trend",
+   "title": {
+    "zh": "白鲟被宣布灭绝",
+    "en": "The paddlefish is gone",
+    "ja": "白鱘、絶滅の宣告"
+   },
+   "text": {
+    "zh": "2022年7月，世界自然保护联盟正式把长江白鲟列为灭绝。有记录的最后一尾，是2003年1月在宜宾误捕的3.5米长的雌鱼，放归后再无踪迹。研究推断它约在2005至2010年间消失。",
+    "en": "In July 2022 the IUCN formally listed the Chinese paddlefish as extinct. The last one on record was a 3.52-metre female caught by accident at Yibin in January 2003; after release, nothing was ever seen again. Research places its disappearance between 2005 and 2010.",
+    "ja": "2022年7月、IUCNは長江の白鱘（ハシナガチョウザメ）を絶滅と認定した。記録に残る最後の一尾は、2003年1月に宜賓で誤って捕えられた体長3.52メートルの雌。放流後、2度と姿は確認されていない。絶滅は2005年から2010年の間と推定される。"
+   },
+   "weight": 5,
+   "year": 2022,
+   "siteId": "yichang-jingzhou",
+   "links": [
+    {
+     "label": {
+      "zh": "维基百科：长江白鲟",
+      "en": "Chinese paddlefish",
+      "ja": "Wikipedia: Chinese paddlefish"
+     },
+     "href": {
+      "en": "https://en.wikipedia.org/wiki/Chinese_paddlefish"
+     }
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chinese_paddlefish",
+    "https://www.globaltimes.cn/page/202207/1271156.shtml",
+    "http://www.ecns.cn/news/society/2022-07-22/detail-ihcakxsi6139159.shtml"
+   ]
+  },
+  {
+   "id": "yangtze-sturgeon-wild-spawning",
+   "cat": "trend",
+   "title": {
+    "zh": "长江鲟重回野外产卵",
+    "en": "A sturgeon spawns again",
+    "ja": "長江チョウザメ、野で産む"
+   },
+   "text": {
+    "zh": "长江鲟在2022年同一批评估中被列为「野外灭绝」。三年后的2025年，它在赤水河自然产卵孵化，是二十多年来第一次。赤水河是长江上游唯一干流上没有大坝的大支流。",
+    "en": "The Yangtze sturgeon was listed extinct in the wild in that same 2022 assessment. Three years later, in 2025, it spawned and hatched naturally in the Chishui — the only large upper-Yangtze tributary with no dam on its main stem — for the first time in over two decades.",
+    "ja": "長江チョウザメは2022年の同じ評価で「野生絶滅」とされた。三年後の2025年、赤水河で自然産卵と孵化が確認された。二十数年ぶりのことである。赤水河は、長江上流で本流にダムを持たない唯一の大支流だ。"
+   },
+   "weight": 4,
+   "year": 2025,
+   "links": [
+    {
+     "label": {
+      "zh": "中国科学院（英文）",
+      "en": "Chinese Academy of Sciences",
+      "ja": "中国科学院（英語）"
+     },
+     "href": {
+      "en": "https://english.cas.cn/newsroom/research_news/life/202505/t20250523_1044353.shtml"
+     }
+    }
+   ],
+   "sources": [
+    "https://english.cas.cn/newsroom/research_news/life/202505/t20250523_1044353.shtml",
+    "https://www.globaltimes.cn/page/202207/1271156.shtml",
+    "https://en.wikipedia.org/wiki/Dabry%27s_sturgeon"
+   ]
+  },
+  {
+   "id": "finless-porpoise-1249",
+   "cat": "trend",
+   "title": {
+    "zh": "江豚数量止跌回升",
+    "en": "1,249 porpoises",
+    "ja": "スナメリ、初めて増える"
+   },
+   "text": {
+    "zh": "2022年全流域科考数出1249头长江江豚，比2017年的1012头增加约两成三，是有监测记录以来第一次回升。其中鄱阳湖约492头——一个湖装下了近四成的种群。",
+    "en": "A basin-wide survey in 2022 counted 1,249 Yangtze finless porpoises, up about 23% from 1,012 in 2017 — the first increase ever recorded. Some 492 of them live in Poyang Lake alone, nearly two-fifths of the entire population.",
+    "ja": "2022年の全流域調査で、長江スナメリは1249頭。2017年の1012頭から約23%増え、記録上初めて減少が止まった。うち約492頭は鄱陽湖にいる。一つの湖が、個体群の四割近くを抱えている。"
+   },
+   "weight": 5,
+   "year": 2022,
+   "siteId": "poyang",
+   "links": [
+    {
+     "label": {
+      "zh": "中国科学院报道",
+      "en": "Chinese Academy of Sciences",
+      "ja": "中国科学院の報道"
+     },
+     "href": {
+      "zh": "https://www.cas.cn/cm/202303/t20230303_4877503.shtml"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.cas.cn/cm/202303/t20230303_4877503.shtml",
+    "https://cnews.chinadaily.com.cn/a/202303/01/WS63feaa62a3102ada8b2312df.html",
+    "https://china.cnr.cn/gdgg/20230309/t20230309_526177116.shtml"
+   ]
+  },
+  {
+   "id": "changjiangkou-2-shipwreck",
+   "cat": "trend",
+   "title": {
+    "zh": "长江口二号整体出水",
+    "en": "A wreck lifted whole",
+    "ja": "長江口二号、丸ごと浮上"
+   },
+   "text": {
+    "zh": "2022年11月21日凌晨，二十二组弧形梁把沉船连同周围泥沙一起兜住，8800吨的「考古沉箱」以每小时约4米浮起。船体推测为清代沙船，泥沙里的一切都被原样带走。",
+    "en": "Before dawn on 21 November 2022, twenty-two curved steel beams cradled a wreck together with the silt around it. The 8,800-tonne \"archaeological caisson\" rose at about four metres an hour. The hull is thought to be a Qing-dynasty sand junk; everything in the mud came up with it.",
+    "ja": "2022年11月21日未明、二十二組の弧状の鋼梁が沈船を周囲の泥ごと抱え、八千八百トンの「考古沈箱」が毎時約四メートルで浮上した。船体は清代の沙船と推定される。泥の中身が、そのままの姿で運ばれた。"
+   },
+   "weight": 4,
+   "year": 2022,
+   "siteId": "shanghai",
+   "links": [
+    {
+     "label": {
+      "zh": "中国政府网报道",
+      "en": "China government report",
+      "ja": "中国政府網の報道"
+     },
+     "href": {
+      "zh": "https://www.gov.cn/xinwen/2022-11/21/content_5728044.htm"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.gov.cn/xinwen/2022-11/21/content_5728044.htm",
+    "https://whlyj.sh.gov.cn/wlyw/20221122/80bd6fe916df4e72bf28346c493809f4.html",
+    "https://m.bjnews.com.cn/detail/166899605814342.html"
+   ]
+  },
+  {
+   "id": "three-gorges-2020-flood-peak",
+   "cat": "trend",
+   "title": {
+    "zh": "建库以来最大洪峰",
+    "en": "The largest flood peak yet",
+    "ja": "貯水開始以来の最大洪水"
+   },
+   "text": {
+    "zh": "2020年8月20日，三峡入库洪峰达到每秒75000立方米，是2003年建库以来最大的一次。水库把下泄压到四万九千二百，削峰三成四。1998年那场大水的峰值，是六万三千三百。",
+    "en": "On 20 August 2020 inflow at the Three Gorges peaked at 75,000 cubic metres a second, the largest since the reservoir first filled in 2003. Outflow was held to 49,200 — a 34% shaving. The great flood of 1998 had peaked at 63,300.",
+    "ja": "2020年8月20日、三峡ダムの流入量は毎秒七万五千立方メートルに達し、2003年の貯水開始以来最大となった。放流は四万九千二百に抑えられ、ピークを34%削った。1998年の大洪水の最大値は六万三千三百である。"
+   },
+   "weight": 4,
+   "year": 2020,
+   "siteId": "sanxia",
+   "links": [
+    {
+     "label": {
+      "zh": "水利部通报",
+      "en": "Ministry of Water Resources",
+      "ja": "水利部の発表"
+     },
+     "href": {
+      "zh": "https://www.gov.cn/xinwen/2020-08/20/content_5536275.htm"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.gov.cn/xinwen/2020-08/20/content_5536275.htm",
+    "http://paper.people.com.cn/rmrbhwb/html/2020-09/09/content_2008059.htm",
+    "https://news.sciencenet.cn/htmlnews/2020/8/444373.shtm"
+   ]
+  },
+  {
+   "id": "yangtze-water-quality-class-ii",
+   "cat": "trend",
+   "title": {
+    "zh": "干流水质连续五年",
+    "en": "Five years of Class II",
+    "ja": "本流の水質、五年連続"
+   },
+   "text": {
+    "zh": "《2024中国生态环境状况公报》记着一句话：长江干流连续五年全线水质稳定保持Ⅱ类。Ⅱ类是可以直接作为集中式生活饮用水源地取水的等级——从源头到入海口，整条干流都算在内。",
+    "en": "The 2024 national environment bulletin records one sentence: the Yangtze's main stem has held Class II water quality along its entire length for five straight years. Class II is the grade from which drinking water may be drawn — source to estuary, all of it.",
+    "ja": "『2024中国生態環境状況公報』に一行がある。長江本流は五年連続で全線Ⅱ類の水質を保った、と。Ⅱ類は集中式の飲用水源として取水できる等級である。源流から河口まで、その全てが含まれる。"
+   },
+   "weight": 3,
+   "year": 2024,
+   "links": [
+    {
+     "label": {
+      "zh": "生态环境部公报",
+      "en": "MEE annual bulletin",
+      "ja": "生態環境部の公報"
+     },
+     "href": {
+      "zh": "https://www.mee.gov.cn/ywgz/sthjjcgl/hjzljcypj/202506/t20250605_1120773.shtml"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.mee.gov.cn/ywgz/sthjjcgl/hjzljcypj/202506/t20250605_1120773.shtml",
+    "https://news.qq.com/rain/a/20240830A0421L00"
+   ]
+  },
+  {
+   "id": "huashuo-changjiang-1983",
+   "cat": "visual",
+   "title": {
+    "zh": "《话说长江》1983",
+    "en": "Speaking of the Yangtze, 1983",
+    "ja": "『話説長江』1983"
+   },
+   "text": {
+    "zh": "1983年8月7日，二十五集的《话说长江》在中央电视台首播。它的主旋律最初没有歌词，播完之后才向全国征集填词——后来人人会唱的《长江之歌》，是这样倒着长出来的。",
+    "en": "On 7 August 1983 the twenty-five-part documentary Speaking of the Yangtze premiered on CCTV. Its theme melody had no words at first; lyrics were solicited from the public only after the broadcast. That is how \"Ode to the Yangtze\" grew — backwards.",
+    "ja": "1983年8月7日、全二十五話の記録映画『話説長江』がCCTVで放送を始めた。主題の旋律には当初、歌詞がなかった。放送後に全国から詞を公募し、のちに誰もが歌う「長江之歌」が生まれる。曲が先で、言葉は後だった。"
+   },
+   "weight": 5,
+   "year": 1983,
+   "links": [
+    {
+     "label": {
+      "zh": "维基百科：话说长江",
+      "en": "Wikipedia (Chinese)",
+      "ja": "Wikipedia（中国語）"
+     },
+     "href": {
+      "zh": "https://zh.wikipedia.org/zh-hans/%E8%AF%9D%E8%AF%B4%E9%95%BF%E6%B1%9F"
+     }
+    }
+   ],
+   "sources": [
+    "https://zh.wikipedia.org/zh-hans/%E8%AF%9D%E8%AF%B4%E9%95%BF%E6%B1%9F",
+    "https://baike.baidu.com/item/%E8%AF%9D%E8%AF%B4%E9%95%BF%E6%B1%9F/75395",
+    "https://www.chinawriter.com.cn/2014/2014-12-09/227290.html"
+   ]
+  },
+  {
+   "id": "zaishuo-changjiang-2006",
+   "cat": "visual",
+   "title": {
+    "zh": "《再说长江》2006",
+    "en": "Rediscovering the Yangtze, 2006",
+    "ja": "『再説長江』2006"
+   },
+   "text": {
+    "zh": "2006年7月16日，三十三集的《再说长江》开播，距上一次「话说」隔了二十三年。同一条江被重新走了一遍。镜头里变化最大的其实不是水，是两岸的城。",
+    "en": "On 16 July 2006 the thirty-three-part Rediscovering the Yangtze went on air, twenty-three years after the first series. The same river was travelled again. What had changed most on screen was not the water but the cities on its banks.",
+    "ja": "2006年7月16日、全三十三話の『再説長江』が放送を始めた。前作から二十三年。同じ川をもう1度たどり直したとき、画面でもっとも変わっていたのは、水ではなく両岸の街だった。"
+   },
+   "weight": 4,
+   "year": 2006,
+   "links": [
+    {
+     "label": {
+      "zh": "维基百科：再说长江",
+      "en": "Wikipedia (Chinese)",
+      "ja": "Wikipedia（中国語）"
+     },
+     "href": {
+      "zh": "https://zh.wikipedia.org/zh-hans/%E5%86%8D%E8%AF%B4%E9%95%BF%E6%B1%9F"
+     }
+    }
+   ],
+   "sources": [
+    "https://zh.wikipedia.org/zh-hans/%E5%86%8D%E8%AF%B4%E9%95%BF%E6%B1%9F",
+    "https://baike.baidu.com/item/%E5%86%8D%E8%AF%B4%E9%95%BF%E6%B1%9F/85347"
+   ]
+  },
+  {
+   "id": "still-life-2006",
+   "cat": "visual",
+   "title": {
+    "zh": "《三峡好人》金狮",
+    "en": "Still Life, Golden Lion",
+    "ja": "『長江哀歌』金獅子賞"
+   },
+   "text": {
+    "zh": "贾樟柯的《三峡好人》获2006年威尼斯电影节金狮奖。故事拍在奉节：1座有两千年历史的老城，在摄影机还开着的时候，正被一层一层拆掉，等着水淹上来。",
+    "en": "Jia Zhangke's Still Life took the Golden Lion at Venice in 2006. It was shot in Fengjie, a town two thousand years old that was being dismantled floor by floor while the camera still ran, waiting for the reservoir to reach it.",
+    "ja": "賈樟柯の『長江哀歌（三峡好人）』は2006年ヴェネツィア映画祭の金獅子賞を受けた。舞台は奉節。二千年の歴史をもつ旧市街が、撮影のあいだにも一階ずつ壊され、水が来るのを待っていた。"
+   },
+   "weight": 5,
+   "year": 2006,
+   "siteId": "sanxia",
+   "links": [
+    {
+     "label": {
+      "zh": "维基百科：三峡好人",
+      "en": "Wikipedia: Still Life",
+      "ja": "Wikipedia: Still Life"
+     },
+     "href": {
+      "en": "https://en.wikipedia.org/wiki/Still_Life_(2006_film)"
+     }
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Still_Life_(2006_film)",
+    "https://www.indiewire.com/2006/09/jia-zhang-kes-still-life-takes-golden-lion-at-venice-76115/",
+    "http://www.chinadaily.com.cn/china/2006-09/10/content_685334_7.htm"
+   ]
+  },
+  {
+   "id": "crosscurrent-2016",
+   "cat": "visual",
+   "title": {
+    "zh": "《长江图》银熊奖",
+    "en": "Crosscurrent, Silver Bear",
+    "ja": "『長江図』銀熊賞"
+   },
+   "text": {
+    "zh": "杨超的《长江图》入围2016年柏林电影节主竞赛，摄影师李屏宾凭它拿下杰出艺术贡献银熊奖。一条货船从上海溯流而上，每靠一次岸，时间就往回退一点。",
+    "en": "Yang Chao's Crosscurrent competed at the 2016 Berlinale, where cinematographer Mark Lee Ping-bing won the Silver Bear for Outstanding Artistic Contribution. A cargo boat works upstream from Shanghai, and at every mooring time slips a little further back.",
+    "ja": "楊超の『長江図』は2016年ベルリン映画祭のコンペティションに選ばれ、撮影の李屏賓が芸術貢献賞（銀熊賞）を受けた。貨物船が上海から遡っていく。埠頭に着くたび、時間はわずかずつ後ろへ戻る。"
+   },
+   "weight": 3,
+   "year": 2016,
+   "links": [
+    {
+     "label": {
+      "zh": "维基百科：长江图",
+      "en": "Wikipedia: Crosscurrent",
+      "ja": "Wikipedia: Crosscurrent"
+     },
+     "href": {
+      "en": "https://en.wikipedia.org/wiki/Crosscurrent_(film)"
+     }
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Crosscurrent_(film)",
+    "https://deadline.com/2016/10/crosscurrent-chinese-film-won-silver-bear-for-cinematography-bows-first-trailer-u-s-release-1201841529/"
+   ]
+  },
+  {
+   "id": "kander-yangtze-long-river",
+   "cat": "visual",
+   "title": {
+    "zh": "康德镜头里的长江",
+    "en": "Kander's Long River",
+    "ja": "カンダーの長江"
+   },
+   "text": {
+    "zh": "纳达夫·康德沿长江从入海口一路拍到源头，《长江》系列获2009年皮克泰奖「大地」主题大奖。他写道：住在这条江边的人比整个美国还多——地球上每十八个人里，就有一个。",
+    "en": "Nadav Kander photographed the Yangtze from mouth to source; the series won the 2009 Prix Pictet on the theme of Earth. More people live along these banks, he wrote, than in the whole of the United States — one in every eighteen people on the planet.",
+    "ja": "ナダヴ・カンダーは長江を河口から源流まで撮り、『Yangtze, The Long River』で2009年プリ・ピクテ「大地」賞を受けた。この岸に暮らす人はアメリカ全人口より多い——地球上の18人に1人だと、彼は書いている。"
+   },
+   "weight": 5,
+   "year": 2009,
+   "links": [
+    {
+     "label": {
+      "zh": "皮克泰奖官网",
+      "en": "Prix Pictet",
+      "ja": "プリ・ピクテ公式"
+     },
+     "href": {
+      "en": "https://prix.pictet.com/cycles/earth/nadav-kander"
+     }
+    }
+   ],
+   "sources": [
+    "https://prix.pictet.com/cycles/earth/nadav-kander",
+    "https://en.wikipedia.org/wiki/Prix_Pictet",
+    "https://aestheticamagazine.com/nadav-kander-yangtze-the-long-river/"
+   ]
+  },
+  {
+   "id": "up-the-yangtze-2007",
+   "cat": "visual",
+   "title": {
+    "zh": "《沿江而上》",
+    "en": "Up the Yangtze",
+    "ja": "『Up the Yangtze』"
+   },
+   "text": {
+    "zh": "张侨勇2007年的纪录片《沿江而上》，跟着一个十六岁女孩到三峡游轮上打工。甲板上是外国游客的告别航线，甲板下是她家即将被淹没的江岸。该片获加拿大吉尼奖最佳纪录片。",
+    "en": "Yung Chang's 2007 documentary Up the Yangtze follows a sixteen-year-old girl who takes a job on a Three Gorges cruise ship. Above deck runs a farewell tour for foreign tourists; below it lies the shore her family is about to lose. It won Canada's Genie for best documentary.",
+    "ja": "ユン・チャン監督の2007年のドキュメンタリー『Up the Yangtze』は、三峡のクルーズ船で働き始めた十六歳の少女を追う。甲板の上は外国人観光客の別れの旅、その下には水没を待つ彼女の家の岸がある。カナダのジニー賞最優秀ドキュメンタリー賞。"
+   },
+   "weight": 4,
+   "year": 2007,
+   "siteId": "sanxia",
+   "links": [
+    {
+     "label": {
+      "zh": "加拿大国家电影局",
+      "en": "National Film Board of Canada",
+      "ja": "カナダ国立映画制作庁"
+     },
+     "href": {
+      "en": "https://www.nfb.ca/film/up_the_yangtze/"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.nfb.ca/film/up_the_yangtze/",
+    "https://en.wikipedia.org/wiki/Up_the_Yangtze",
+    "https://zeitgeistfilms.com/film/uptheyangtze"
+   ]
+  },
+  {
+   "id": "zheng-yunfeng-three-gorges",
+   "cat": "visual",
+   "title": {
+    "zh": "抢拍水下的三峡",
+    "en": "Photographing a doomed gorge",
+    "ja": "水没前の三峡を撮る"
+   },
+   "text": {
+    "zh": "1997年5月，摄影家郑云峰请船工打了一条小木船，把住处搬到江面上。七年间他闯过一百五十多个险滩、寻访五十多个移民村镇，留下五万余张照片——拍的都是即将沉入水下的三峡。",
+    "en": "In May 1997 the photographer Zheng Yunfeng had a small wooden boat built and moved his household onto the water. Over seven years he ran more than 150 rapids and visited over fifty resettlement towns, leaving some 50,000 photographs of a Three Gorges about to go under.",
+    "ja": "1997年5月、写真家の鄭雲峰は船大工に小さな木船を造らせ、住まいを江の上へ移した。七年のあいだに百五十を超える早瀬を越え、五十余りの移住村鎮を訪ね、50000枚あまりの写真を残した。すべて、水没を待つ三峡である。"
+   },
+   "weight": 4,
+   "year": 1997,
+   "siteId": "sanxia",
+   "links": [
+    {
+     "label": {
+      "zh": "《环球人物》报道",
+      "en": "People's Daily feature",
+      "ja": "『環球人物』の記事"
+     },
+     "href": {
+      "zh": "http://paper.people.com.cn/hqrw/html/2009-03/10/content_263912.htm"
+     }
+    }
+   ],
+   "sources": [
+    "http://paper.people.com.cn/hqrw/html/2009-03/10/content_263912.htm",
+    "https://news.sina.com.cn/o/2010-12-07/094721595155.shtml",
+    "http://www.jswyw.com/zt/mjmz/202001/t20200120_6481172.shtml"
+   ]
+  },
+  {
+   "id": "landsat-poyang-comparison",
+   "cat": "visual",
+   "title": {
+    "zh": "卫星看见的干涸",
+    "en": "Drought seen from orbit",
+    "ja": "衛星が見た干上がり"
+   },
+   "text": {
+    "zh": "2022年7月10日与8月27日，Landsat 8卫星两次拍下鄱阳湖。同一个取景框里，前一张还是一整片水，后一张只剩树枝状的河道。干旱在地面上难以一眼看全，在轨道上却一目了然。",
+    "en": "Landsat 8 imaged Poyang Lake on 10 July and again on 27 August 2022. In the same frame, the first picture is a sheet of water; the second shows only branching channels. A drought too large to take in from the ground reads at a glance from orbit.",
+    "ja": "2022年7月10日と8月27日、ランドサット8号が鄱陽湖を撮影した。同じ画角で、前者は一面の水、後者は枝分かれした流路だけが残る。地上では全体を見通せない干ばつが、軌道上からは一目でわかる。"
+   },
+   "weight": 3,
+   "year": 2022,
+   "siteId": "poyang",
+   "links": [
+    {
+     "label": {
+      "zh": "NASA 对比影像",
+      "en": "NASA image pair",
+      "ja": "NASA の比較画像"
+     },
+     "href": {
+      "en": "https://science.nasa.gov/earth/earth-observatory/parched-poyang-lake-150285"
+     }
+    }
+   ],
+   "sources": [
+    "https://science.nasa.gov/earth/earth-observatory/parched-poyang-lake-150285"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "items": [
+  {
+   "id": "dongba-script",
+   "cat": "ethnic",
+   "title": {
+    "zh": "东巴文，活着的象形字",
+    "en": "Dongba, a living pictograph",
+    "ja": "生きている象形文字・東巴"
+   },
+   "text": {
+    "zh": "纳西人聚居在金沙江上游一带，约300000人。东巴经用两千余个象形字写成，2003年入选联合国教科文组织世界记忆名录。它是仍在祭祀中使用的象形文字，如今能通读经文的东巴已寥寥无几。",
+    "en": "Some 300,000 Naxi live along the upper Jinsha. Their Dongba scriptures are written in more than two thousand pictographs and entered UNESCO's Memory of the World Register in 2003. The script is still used in ritual, yet only a handful of masters can now read it.",
+    "ja": "金沙江上流に暮らすナシ族は約300000人。二千余りの象形文字で記された東巴経は、2003年にユネスコ「世界の記憶」へ登録された。祭祀の場で今も用いられる文字だが、経を読み解ける東巴は数えるほどしか残っていない。"
+   },
+   "weight": 5,
+   "year": 2003,
+   "siteId": "hutiaoxia",
+   "links": [
+    {
+     "label": {
+      "zh": "世界记忆名录·纳西东巴古籍",
+      "en": "UNESCO Memory of the World entry",
+      "ja": "ユネスコ「世界の記憶」登録項目"
+     },
+     "href": {
+      "en": "https://www.unesco.org/en/memory-world/ancient-naxi-dongba-literature-manuscripts"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.unesco.org/en/memory-world/ancient-naxi-dongba-literature-manuscripts",
+    "https://www.saac.gov.cn/daj/lhgjk/201808/08851f0258e24944b7249efa1f4f19ee.shtml"
+   ]
+  },
+  {
+   "id": "yi-torch-festival",
+   "cat": "heritage",
+   "title": {
+    "zh": "火把节，6月24",
+    "en": "Torch Festival, sixth moon",
+    "ja": "火把節、旧暦6月24日"
+   },
+   "text": {
+    "zh": "农历六月二十四，凉山的彝族点燃松木火把，绕行村寨与田间，之后聚到坝子上歌舞竞技。节日里保留着古老的火崇拜。2006年由凉山彝族自治州申报，列入第一批国家级非物质文化遗产名录。",
+    "en": "On the twenty-fourth day of the sixth lunar month, Yi communities in Liangshan light pine torches and carry them around houses and fields, then gather on open ground to sing, dance and compete. An old reverence for fire runs through it. Nominated by Liangshan Yi Autonomous Prefecture, it joined China's first national ICH list in 2006.",
+    "ja": "旧暦6月24日、涼山のイ族は松明を灯し、家々と畑を巡ってから広場に集い、歌い踊り、力を競う。古い火の信仰が今も息づく祭りである。2006年、涼山イ族自治州の申請により第一次国家級無形文化遺産に登録された。"
+   },
+   "weight": 4,
+   "year": 2006,
+   "siteId": "panxi",
+   "links": [
+    {
+     "label": {
+      "zh": "四川省情网·彝族火把节",
+      "en": "Sichuan provincial gazetteer: Yi Torch Festival",
+      "ja": "四川省情網・イ族火把節"
+     },
+     "href": {
+      "zh": "http://scdfz.sc.gov.cn/scyx/scfy/content_152789"
+     }
+    }
+   ],
+   "sources": [
+    "http://scdfz.sc.gov.cn/scyx/scfy/content_152789",
+    "https://www.cnr.cn/yn/wlxf/20230807/t20230807_526368678.shtml",
+    "https://www.lsz.gov.cn/wcls/lyzx/202407/t20240711_2701719.html"
+   ]
+  },
+  {
+   "id": "yushu-mani-stones",
+   "cat": "ethnic",
+   "title": {
+    "zh": "玉树，用石头堆成的经",
+    "en": "Yushu, scripture piled in stone",
+    "ja": "玉樹、石で積まれた経"
+   },
+   "text": {
+    "zh": "通天河畔的新寨村，嘉那嘛呢石经城始建于1715年。三百年间，人们把刻着六字真言的石片一块块叠上去，2002年以约二十五亿块被吉尼斯世界纪录认定为世上最大的嘛呢堆，此后仍在增长。",
+    "en": "At Xinzhai village beside the Tongtian River, the Gyanak Mani mound was begun in 1715. For three centuries people have added stones carved with the six-syllable mantra, one at a time. In 2002 Guinness counted some 2.5 billion of them, the largest mani pile on earth. It is still growing.",
+    "ja": "通天河のほとり、新寨村のギャナ・マニ石経城は1715年に始まった。三百年のあいだ、六字真言を刻んだ石が1枚ずつ積み重ねられ、2002年には約二十五億枚として世界最大のマニ堆にギネス認定された。今も増え続けている。"
+   },
+   "weight": 4,
+   "year": 1715,
+   "siteId": "tongtianhe",
+   "links": [
+    {
+     "label": {
+      "zh": "中国日报·新寨嘉那嘛呢石经城",
+      "en": "China Daily on the Gyanak Mani mound",
+      "ja": "中国日報・新寨ギャナマニ石経城"
+     },
+     "href": {
+      "zh": "https://cn.chinadaily.com.cn/a/202508/22/WS68a80e3da3104ba1353fe391.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://cn.chinadaily.com.cn/a/202508/22/WS68a80e3da3104ba1353fe391.html",
+    "https://www.chinanews.com.cn/tp/hd2011/2025/04-13/1147967.shtml"
+   ]
+  },
+  {
+   "id": "qiang-new-year",
+   "cat": "heritage",
+   "title": {
+    "zh": "羌年，10月初一过年",
+    "en": "Qiang New Year, tenth moon",
+    "ja": "チャン族の新年、10月1日"
+   },
+   "text": {
+    "zh": "岷江上游的羌族在农历十月初一过年，释比诵经，祭天祭祖，酬谢一年的收成，通常持续三到5天。2009年列入联合国教科文组织急需保护的非遗名录，2024年转入人类非遗代表作名录。",
+    "en": "Along the upper Min River the Qiang keep their new year on the first day of the tenth lunar month: a shibi priest chants, offerings go to heaven and the ancestors, and the harvest is thanked over three to five days. Listed by UNESCO as needing urgent safeguarding in 2009, it moved to the Representative List in 2024.",
+    "ja": "岷江上流のチャン族は旧暦10月1日に年を迎える。釈比と呼ばれる祭司が経を唱え、天と祖先に供物を捧げ、その年の実りを謝する行事が三日から五日続く。2009年ユネスコ緊急保護リストに、2024年には代表一覧表へ移された。"
+   },
+   "weight": 4,
+   "year": 2009,
+   "siteId": "dujiangyan",
+   "links": [
+    {
+     "label": {
+      "zh": "联合国教科文组织·羌年",
+      "en": "UNESCO: Qiang New Year festival",
+      "ja": "ユネスコ・チャン族の新年"
+     },
+     "href": {
+      "en": "https://ich.unesco.org/en/RL/qiang-new-year-festival-00305"
+     }
+    },
+    {
+     "label": {
+      "zh": "中国非遗网·羌年",
+      "en": "China ICH: Qiang New Year",
+      "ja": "中国無形文化遺産網・羌年"
+     },
+     "href": {
+      "zh": "https://www.ihchina.cn/qiangnian.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://ich.unesco.org/en/RL/qiang-new-year-festival-00305",
+    "https://www.ihchina.cn/qiangnian.html",
+    "https://www.mct.gov.cn/whzx/bnsj/fwzwhycs/201111/t20111128_765134.html"
+   ]
+  },
+  {
+   "id": "chuanjiang-haozi",
+   "cat": "heritage",
+   "title": {
+    "zh": "川江号子，一领众和",
+    "en": "One man calls, the crew answers",
+    "ja": "川江号子、1人が唄い皆が和す"
+   },
+   "text": {
+    "zh": "川江滩险水急，船工由号工领唱、众人帮腔。上水有拉纤、扳桡、竖桅的调子，下水有平水、见滩、闯滩的调子，各不相同。2006年列入第一批国家级非遗。机动船普及后，会唱的老船工已所剩无几。",
+    "en": "On the rapids of the Chuanjiang one man called and the crew sang back. Upstream had its songs for hauling the rope, working the oar, raising the mast; downstream had others for open water and for running the shoals. Listed as national ICH in 2006. Since engines replaced oars, few old boatmen who can still sing remain.",
+    "ja": "急流の多い川江では、音頭取りが唄い、船夫たちが和した。上りには曳き綱・櫂・帆柱の唄があり、下りには平水や瀬を越える唄がある。2006年、第一次国家級無形文化遺産に登録。動力船の普及後、唄える老船夫はごくわずかとなった。"
+   },
+   "weight": 5,
+   "year": 2006,
+   "siteId": "chongqing",
+   "links": [
+    {
+     "label": {
+      "zh": "中国非遗网·川江号子",
+      "en": "China ICH: Chuanjiang boatmen's songs",
+      "ja": "中国無形文化遺産網・川江号子"
+     },
+     "href": {
+      "zh": "https://www.ihchina.cn/project_details/12450"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.ihchina.cn/project_details/12450",
+    "http://whlyw.cq.gov.cn/zjwl/yzq/cqwlzy/zqsfwzwhyc/202103/t20210321_9019195.html"
+   ]
+  },
+  {
+   "id": "gorge-trackers",
+   "cat": "ethnic",
+   "title": {
+    "zh": "纤夫走过的那条道",
+    "en": "The path the trackers wore",
+    "ja": "縴夫が歩いた道"
+   },
+   "text": {
+    "zh": "上水的船靠纤夫背着绳走，岩壁上至今留着凿出的纤道。二十世纪六十年代机动船普及后，川江纤夫基本消失；2003年三峡蓄水，峡江成了平湖。如今只在巴东神农溪还能看见拉纤。",
+    "en": "Boats going upstream were pulled by men walking with a rope on their backs; the towpaths they cut are still visible on the cliffs. Motor vessels ended the trade in the 1960s, and when the reservoir filled in 2003 the gorges became a lake. Today the hauling rope is seen only on the Shennong Stream at Badong.",
+    "ja": "上りの船は、綱を背負って歩く縴夫が曳いた。岩壁に刻まれた縴道は今も残る。1960年代の動力船普及で川江の縴夫はほぼ姿を消し、2003年の三峡貯水によって峡谷は湖となった。曳き綱を見られるのは今、巴東の神農渓だけである。"
+   },
+   "weight": 4,
+   "siteId": "sanxia",
+   "links": [
+    {
+     "label": {
+      "zh": "中新网·三峡纤夫民俗",
+      "en": "China News on the Three Gorges trackers",
+      "ja": "中国新聞網・三峡の縴夫"
+     },
+     "href": {
+      "zh": "https://www.chinanews.com.cn/sh/2019/07-14/8894182.shtml"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.chinanews.com.cn/sh/2019/07-14/8894182.shtml",
+    "https://news.qq.com/rain/a/20190709A0ND1K00",
+    "https://www.ihchina.cn/project_details/12450"
+   ]
+  },
+  {
+   "id": "chongqing-hotpot",
+   "cat": "ethnic",
+   "title": {
+    "zh": "火锅，从码头上来",
+    "en": "Hotpot came off the docks",
+    "ja": "火鍋は埠頭から来た"
+   },
+   "text": {
+    "zh": "清道光年间，长江边的船工在简易灶上支一口锅，用麻辣红汤烫食，既祛湿又顶饿。民国十五年，马氏兄弟把它搬进宰房街的饭店。2009年，重庆火锅列入重庆市第二批市级非物质文化遗产名录。",
+    "en": "In the Daoguang years, boatmen on the Yangtze set a pot over a rough stove and cooked in a red broth of chilli and Sichuan pepper — warmth against the damp, and filling after a day of hauling. In 1926 the Ma brothers moved it indoors to a restaurant on Zaifang Street. Chongqing hotpot became municipal ICH in 2009.",
+    "ja": "清の道光年間、長江の船夫たちは簡素なかまどに鍋をかけ、唐辛子と花椒の紅い湯で煮て食べた。湿気を払い、腹を満たすためである。1926年、馬氏兄弟がこれを宰房街の店に持ち込んだ。2009年、重慶火鍋は重慶市級無形文化遺産に登録された。"
+   },
+   "weight": 3,
+   "year": 2009,
+   "siteId": "chongqing",
+   "links": [
+    {
+     "label": {
+      "zh": "重庆市地方志办·山城的味道",
+      "en": "Chongqing gazetteer office on hotpot",
+      "ja": "重慶市地方志弁公室・山城の味"
+     },
+     "href": {
+      "zh": "https://dfz.cq.gov.cn/zqlswh/rwby_417819/202311/t20231102_12511498.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://dfz.cq.gov.cn/zqlswh/rwby_417819/202311/t20231102_12511498.html",
+    "https://m.ccas.com.cn/site/content/102759.html"
+   ]
+  },
+  {
+   "id": "tujia-brocade",
+   "cat": "heritage",
+   "title": {
+    "zh": "西兰卡普，铺盖上的花",
+    "en": "Xilankapu, flowers on a quilt",
+    "ja": "西蘭卡普、掛け布の花"
+   },
+   "text": {
+    "zh": "土家语里，“西兰”是铺盖，“卡普”是花。织工坐在木质腰式斜织机前，通经断纬，背对着正面反织，传统纹样有四百多种。2006年，湘西申报的土家族织锦技艺列入第一批国家级非遗名录。",
+    "en": "In Tujia, xilan means bedcover and kapu means flower. The weaver sits at a wooden waist-braced slant loom, breaking the weft against a continuous warp and working from the back, unable to see the face of the pattern; over four hundred traditional designs survive. Nominated by Xiangxi, it became national ICH in 2006.",
+    "ja": "トゥチャ語で「西蘭」は掛け布、「卡普」は花を指す。織り手は木製の腰機式斜織機に向かい、経糸を通し緯糸を断ちながら、文様の裏側から織り進める。伝統文様は四百種を超える。2006年、湘西の申請で国家級無形文化遺産に登録された。"
+   },
+   "weight": 3,
+   "year": 2006,
+   "siteId": "yichang-jingzhou",
+   "links": [
+    {
+     "label": {
+      "zh": "中国非遗网·土家族织锦技艺",
+      "en": "China ICH: Tujia brocade weaving",
+      "ja": "中国無形文化遺産網・トゥチャ族織錦技芸"
+     },
+     "href": {
+      "zh": "https://www.ihchina.cn/project_details/14282.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.ihchina.cn/project_details/14282.html",
+    "https://www.chinasilkmuseum.com/yz/info_18.aspx?itemid=25759"
+   ]
+  },
+  {
+   "id": "tujia-baishou-dance",
+   "cat": "ethnic",
+   "title": {
+    "zh": "摆手舞，甩同边的手",
+    "en": "Baishou: swing the same side",
+    "ja": "摆手舞、同じ側の手を振る"
+   },
+   "text": {
+    "zh": "酉水流域的土家人在摆手堂里跳摆手舞，土家语叫“舍巴”。最显眼的是顺拐——甩同边的手脚，膝盖微屈，随鼓点向下沉。舞分大摆手与小摆手，2006年列入第一批国家级非遗名录。",
+    "en": "Along the You River, Tujia villages dance the baishou in their dance halls; in Tujia it is called sheba. Its signature is shunguai: the arm swings with the leg on the same side, knees bent, the body sinking on the drumbeat. There are greater and lesser forms. Listed as national ICH in 2006.",
+    "ja": "酉水流域のトゥチャ族は摆手堂で摆手舞を踊る。トゥチャ語では「シェバ」という。最も目を引くのは「順拐」、同じ側の手と足を同時に振り出す動きで、膝を曲げ、太鼓に合わせて体を沈める。大小二種があり、2006年に国家級無形文化遺産となった。"
+   },
+   "weight": 3,
+   "year": 2006,
+   "siteId": "dongting",
+   "links": [
+    {
+     "label": {
+      "zh": "中国非遗网·土家族摆手舞",
+      "en": "China ICH: Tujia Baishou dance",
+      "ja": "中国無形文化遺産網・トゥチャ族摆手舞"
+     },
+     "href": {
+      "zh": "https://www.ihchina.cn/project_details/12922/"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.ihchina.cn/project_details/12922/",
+    "https://culture.sina.cn/2018-12-03/detail-ihprknvs7527412.d.html",
+    "https://baike.baidu.com/item/%E5%9C%9F%E5%AE%B6%E6%97%8F%E6%91%86%E6%89%8B%E8%88%9E%EF%BC%88%E6%81%A9%E6%96%BD%E6%91%86%E6%89%8B%E8%88%9E%EF%BC%89/52298698"
+   ]
+  },
+  {
+   "id": "miao-silver",
+   "cat": "heritage",
+   "title": {
+    "zh": "苗族银饰，以重为美",
+    "en": "Miao silver: weight is beauty",
+    "ja": "ミャオ族の銀飾、重きを美とす"
+   },
+   "text": {
+    "zh": "苗家女子只在大节与出嫁那天戴齐整套银饰，讲究“以重为美”，重者逾八斤。银匠要经铸炼、捶打、拉丝、掐丝等数十道工序。2006年由湖南凤凰与贵州雷山合报，列入第一批国家级非遗名录。",
+    "en": "A Miao woman wears her full set of silver only at great festivals and on her wedding day. Weight itself is part of the beauty: a complete set can pass four kilograms. The smith works through dozens of steps — smelting, hammering, drawing wire, filigree. Jointly nominated by Fenghuang in Hunan and Leishan in Guizhou, it became national ICH in 2006.",
+    "ja": "ミャオ族の女性が銀の盛装をひととおり身に着けるのは、大きな祭りと婚礼の日だけだ。「重きを美とす」といい、一式で四キロを超えることもある。鋳造、鍛打、線引き、掐糸など数十の工程を経る。2006年、湖南・鳳凰と貴州・雷山の共同申請で国家級無形文化遺産に登録された。"
+   },
+   "weight": 4,
+   "year": 2006,
+   "links": [
+    {
+     "label": {
+      "zh": "中国非遗网·苗族银饰",
+      "en": "China ICH: Miao silver ornaments",
+      "ja": "中国無形文化遺産網・ミャオ族銀飾"
+     },
+     "href": {
+      "zh": "https://www.ihchina.cn/news_1_details/22635.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.ihchina.cn/news_1_details/22635.html",
+    "http://www.chinaquhua.cn/culture/43/miaozuyinshiduanzhijiyi.html"
+   ]
+  },
+  {
+   "id": "duanwu-dragon-boat",
+   "cat": "heritage",
+   "title": {
+    "zh": "端午，三省四地合报",
+    "en": "Duanwu: four places, one file",
+    "ja": "端午、三省四地の共同申請"
+   },
+   "text": {
+    "zh": "端午由湖北秭归、黄石，湖南汨罗，江苏苏州“三省四地”联合申报，2009年成为中国第一个入选人类非遗代表作名录的节日。秭归是屈原故里，汨罗江是他投水之处，苏州一路则纪念伍子胥。",
+    "en": "The Dragon Boat Festival was nominated from four places in three provinces — Zigui and Huangshi in Hubei, Miluo in Hunan, Suzhou in Jiangsu — and in 2009 became the first Chinese festival on UNESCO's Representative List. Zigui is Qu Yuan's birthplace, the Miluo the river he walked into; Suzhou remembers Wu Zixu instead.",
+    "ja": "端午節は湖北の秭帰・黄石、湖南の汨羅、江蘇の蘇州という三省四地の共同申請により、2009年、中国の祝祭として初めてユネスコ人類無形文化遺産代表一覧表に登録された。秭帰は屈原の故郷、汨羅江は身を投じた川、蘇州は伍子胥を偲ぶ土地である。"
+   },
+   "weight": 5,
+   "year": 2009,
+   "siteId": "yichang-jingzhou",
+   "links": [
+    {
+     "label": {
+      "zh": "联合国教科文组织·端午节",
+      "en": "UNESCO: Dragon Boat festival",
+      "ja": "ユネスコ・端午節"
+     },
+     "href": {
+      "en": "https://ich.unesco.org/en/RL/dragon-boat-festival-00225"
+     }
+    },
+    {
+     "label": {
+      "zh": "中国非遗网·端午节",
+      "en": "China ICH: Duanwu Festival",
+      "ja": "中国無形文化遺産網・端午節"
+     },
+     "href": {
+      "zh": "https://www.ihchina.cn/duanwujie.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://ich.unesco.org/en/RL/dragon-boat-festival-00225",
+    "https://www.ihchina.cn/duanwujie.html",
+    "https://culture.gmw.cn/2024-06/08/content_37369615.htm"
+   ]
+  },
+  {
+   "id": "sericulture-silk",
+   "cat": "heritage",
+   "title": {
+    "zh": "蚕桑丝织，一环扣一环",
+    "en": "Silk: a closed circle",
+    "ja": "蚕桑と絹織、めぐる輪"
+   },
+   "text": {
+    "zh": "种桑、养蚕、缫丝、织染，太湖南北与四川成都一带相沿至今。蚕沙喂鱼，塘泥肥桑，环环相扣。清明前后蚕农过蚕花节，妇女以丝或纸做的花簪在发上。2009年列入人类非遗代表作名录。",
+    "en": "Planting mulberry, raising silkworms, reeling thread, weaving and dyeing — the cycle still turns around Lake Tai and near Chengdu. Silkworm waste feeds the fish, pond mud feeds the mulberry. In April the women who keep the worms wear flowers of silk or paper for the Silkworm Flower festival. Inscribed by UNESCO in 2009.",
+    "ja": "桑を植え、蚕を飼い、糸を繰り、織って染める。太湖の南北と四川・成都の周辺に今も続く営みだ。蚕の糞は魚の餌となり、池の泥が桑を育てる。4月には養蚕の女たちが絹や紙の花を髪に挿す「蚕花節」がある。2009年、人類無形文化遺産に登録された。"
+   },
+   "weight": 5,
+   "year": 2009,
+   "siteId": "jiangnan",
+   "links": [
+    {
+     "label": {
+      "zh": "联合国教科文组织·中国蚕桑丝织技艺",
+      "en": "UNESCO: Sericulture and silk craftsmanship",
+      "ja": "ユネスコ・中国の養蚕と絹織"
+     },
+     "href": {
+      "en": "https://ich.unesco.org/en/RL/sericulture-and-silk-craftsmanship-of-china-00197"
+     }
+    },
+    {
+     "label": {
+      "zh": "中国非遗网·中国传统桑蚕丝织技艺",
+      "en": "China ICH: silk weaving",
+      "ja": "中国無形文化遺産網・桑蚕糸織技芸"
+     },
+     "href": {
+      "zh": "https://www.ihchina.cn/sangcansi.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://ich.unesco.org/en/RL/sericulture-and-silk-craftsmanship-of-china-00197",
+    "https://www.ihchina.cn/sangcansi.html",
+    "https://www.jiaxing.gov.cn/art/2024/9/24/art_1536219_22023080.html"
+   ]
+  },
+  {
+   "id": "suzhou-kesi",
+   "cat": "heritage",
+   "title": {
+    "zh": "缂丝，一寸缂丝一寸金",
+    "en": "Kesi, an inch worth its gold",
+    "ja": "緙糸、一寸に一寸の金"
+   },
+   "text": {
+    "zh": "缂丝通经断纬，一色一梭，纹样越繁复，梭子越多，因而有“一寸缂丝一寸金”之说。织物只显彩纬不露底经，正反皆成图，被称作“织中之圣”。2006年，苏州缂丝织造技艺列入第一批国家级非遗。",
+    "en": "In kesi the warp runs unbroken while the weft is cut colour by colour, each shade on its own small shuttle; the busier the design, the more shuttles, hence the saying that an inch of kesi costs an inch of gold. The picture reads the same from either face. Suzhou kesi became national ICH in 2006.",
+    "ja": "緙糸は経糸を通したまま、色ごとに緯糸を断つ。一色に一つの小さな杼を使うため、文様が細かいほど杼は増え、「一寸の緙糸は一寸の金」と言われる。表からも裏からも同じ図が現れる。2006年、蘇州緙糸織造技芸が国家級無形文化遺産に登録された。"
+   },
+   "weight": 4,
+   "year": 2006,
+   "siteId": "jiangnan",
+   "links": [
+    {
+     "label": {
+      "zh": "苏州市地方志·苏州缂丝",
+      "en": "Suzhou gazetteer on kesi",
+      "ja": "蘇州市地方志・蘇州緙糸"
+     },
+     "href": {
+      "zh": "https://dfzb.suzhou.gov.cn/dfzb/szdq/201811/cd167cce84654da08c288770678904e9.shtml"
+     }
+    }
+   ],
+   "sources": [
+    "https://dfzb.suzhou.gov.cn/dfzb/szdq/201811/cd167cce84654da08c288770678904e9.shtml",
+    "https://www.ihchina.cn/tenyear_protect_detail/20194.html",
+    "https://www.huaxia.com/c/2021/10/19/828726.shtml"
+   ]
+  },
+  {
+   "id": "kunqu-opera",
+   "cat": "heritage",
+   "title": {
+    "zh": "昆曲，第一批十九项",
+    "en": "Kunqu, one of the first nineteen",
+    "ja": "崑曲、最初の19件"
+   },
+   "text": {
+    "zh": "昆曲起于元末苏州昆山一带，旧称昆山腔，明中叶到清中叶最盛。2001年，联合国教科文组织首次公布十九项人类口头和非物质遗产代表作，昆曲名列其中，是中国唯一入选的项目。",
+    "en": "Kunqu grew up around Kunshan near Suzhou in the late Yuan, and held the stage from the mid-Ming to the mid-Qing. In 2001 UNESCO proclaimed its first nineteen Masterpieces of the Oral and Intangible Heritage of Humanity. Kunqu was among them — the only entry from China.",
+    "ja": "崑曲は元末、蘇州・崑山のあたりに生まれ、かつては崑山腔と呼ばれた。明中期から清中期にかけて最も栄える。2001年、ユネスコが初めて発表した「人類の口承及び無形遺産の傑作」19件の一つに選ばれ、中国からの登録はこれのみであった。"
+   },
+   "weight": 4,
+   "year": 2001,
+   "siteId": "jiangnan",
+   "links": [
+    {
+     "label": {
+      "zh": "联合国教科文组织·昆曲",
+      "en": "UNESCO: Kun Qu opera",
+      "ja": "ユネスコ・崑曲"
+     },
+     "href": {
+      "en": "https://ich.unesco.org/en/RL/kun-qu-opera-00004"
+     }
+    },
+    {
+     "label": {
+      "zh": "中国非遗网·昆曲",
+      "en": "China ICH: Kunqu",
+      "ja": "中国無形文化遺産網・崑曲"
+     },
+     "href": {
+      "zh": "https://www.ihchina.cn/news_1_details/22192.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://ich.unesco.org/en/RL/kun-qu-opera-00004",
+    "https://www.ihchina.cn/news_1_details/22192.html",
+    "https://www.ihchina.cn/news_other_details/18000.html"
+   ]
+  },
+  {
+   "id": "nanjing-yunjin",
+   "cat": "heritage",
+   "title": {
+    "zh": "云锦，1天五六厘米",
+    "en": "Yunjin: five centimetres a day",
+    "ja": "雲錦、一日に五、六センチ"
+   },
+   "text": {
+    "zh": "云锦织在大花楼木织机上。机长5米六、高4米，上楼坐提花工，下楼坐织手，两人相对而坐，配合再默契，1天也只织得出五六厘米。2009年，南京云锦织造技艺列入人类非遗代表作名录。",
+    "en": "Yunjin is woven on a great drawloom 5.6 metres long and 4 metres high. A pattern-puller sits in the upper storey, a weaver below; however well the two know each other, a day's work adds five or six centimetres. The craftsmanship of Nanjing Yunjin brocade was inscribed by UNESCO in 2009.",
+    "ja": "雲錦は長さ五・六メートル、高さ四メートルの大花楼木織機で織られる。上段に紋引き、下段に織り手が向かい合って座り、どれほど息が合っても一日に進むのは五、六センチに過ぎない。2009年、南京雲錦織造技芸が人類無形文化遺産に登録された。"
+   },
+   "weight": 4,
+   "year": 2009,
+   "siteId": "nanjing",
+   "links": [
+    {
+     "label": {
+      "zh": "联合国教科文组织·南京云锦",
+      "en": "UNESCO: Nanjing Yunjin brocade",
+      "ja": "ユネスコ・南京雲錦"
+     },
+     "href": {
+      "en": "https://ich.unesco.org/en/RL/craftsmanship-of-nanjing-yunjin-brocade-00200"
+     }
+    },
+    {
+     "label": {
+      "zh": "中国非遗网·南京云锦织造技艺",
+      "en": "China ICH: Nanjing Yunjin",
+      "ja": "中国無形文化遺産網・南京雲錦織造技芸"
+     },
+     "href": {
+      "zh": "https://www.ihchina.cn/yunjinzhizao.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.ihchina.cn/yunjinzhizao.html",
+    "https://jsnews.jschina.com.cn/kjwt/202410/t20241001_3507134.shtml",
+    "https://www.ihchina.cn/tenyear_new_detail/19797.html"
+   ]
+  },
+  {
+   "id": "jingdezhen-porcelain",
+   "cat": "heritage",
+   "title": {
+    "zh": "过手七十二，方克成器",
+    "en": "Seventy-two hands to one pot",
+    "ja": "七十二の手を経て器となる"
+   },
+   "text": {
+    "zh": "景德镇临昌江，瓷器由昌江入鄱阳湖，再转长江出海。明清有“共计一坯之力，过手七十二，方克成器”的说法，分工细到极处。2006年，景德镇手工制瓷技艺列入第一批国家级非遗名录。",
+    "en": "Jingdezhen sits on the Chang River; its porcelain went down to Lake Poyang, then into the Yangtze and out to sea. A Ming-Qing saying holds that one piece passes through seventy-two pairs of hands before it becomes a vessel — a division of labour carried to its limit. Listed as national ICH in 2006.",
+    "ja": "景徳鎮は昌江に臨む。焼かれた磁器は昌江から鄱陽湖へ下り、長江に入って海へ出た。明清の言葉に「一坯の力、七十二の手を経て、はじめて器となる」とある。分業を極めた技である。2006年、景徳鎮手工制磁技芸が国家級無形文化遺産に登録された。"
+   },
+   "weight": 4,
+   "year": 2006,
+   "siteId": "poyang",
+   "links": [
+    {
+     "label": {
+      "zh": "中国非遗网·景德镇手工制瓷技艺",
+      "en": "China ICH: Jingdezhen porcelain craft",
+      "ja": "中国無形文化遺産網・景徳鎮手工制磁技芸"
+     },
+     "href": {
+      "zh": "https://www.ihchina.cn/project_details/14270.html"
+     }
+    }
+   ],
+   "sources": [
+    "https://www.ihchina.cn/project_details/14270.html",
+    "https://jndsb.jxnews.com.cn/system/2023/11/25/020311118.shtml"
+   ]
+  },
+  {
+   "id": "yangtze-dialects",
+   "cat": "ethnic",
+   "title": {
+    "zh": "一条江，几种口音",
+    "en": "One river, several accents",
+    "ja": "一つの川、いくつもの訛り"
+   },
+   "text": {
+    "zh": "长江像一条方言的轴线：上游说西南官话，江苏安徽中部是江淮官话，再往东是吴语，南岸另有湘语、赣语。江淮官话是官话里唯一整体保留入声的一支，使用者约七千万，扬州话常被当作代表音。",
+    "en": "The river runs like an axis through dialects: Southwestern Mandarin upstream, Jianghuai Mandarin across central Jiangsu and Anhui, Wu further east, Xiang and Gan on the southern bank. Jianghuai is the one Mandarin group that has kept the entering tone intact — about seventy million speakers, with Yangzhou often taken as its standard.",
+    "ja": "長江は方言の軸のようだ。上流は西南官話、江蘇・安徽の中部は江淮官話、その東は呉語、南岸には湘語と贛語が広がる。江淮官話は官話のなかで唯一、入声をそのまま保つ一群で、話者は約70000000人。揚州の言葉が代表音とされることが多い。"
+   },
+   "weight": 4,
+   "siteId": "wuhan",
+   "links": [
+    {
+     "label": {
+      "zh": "中国社科院语言所·汉语方言的分区",
+      "en": "CASS: classification of Chinese dialects",
+      "ja": "中国社会科学院・漢語方言の区分"
+     },
+     "href": {
+      "zh": "http://ling.cass.cn/keyan/xueshuchengguo/cgtj/202112/W020211222493156857967.pdf"
+     }
+    }
+   ],
+   "sources": [
+    "http://ling.cass.cn/keyan/xueshuchengguo/cgtj/202112/W020211222493156857967.pdf",
+    "https://zh.wikipedia.org/wiki/%E6%B1%9F%E6%B7%AE%E5%AE%98%E8%AF%9D",
+    "http://ling.cass.cn/keyan/xueshuchengguo/cgtj/202112/t20211209_5380352.html"
+   ]
+  },
+  {
+   "id": "knifefish-and-spring-broth",
+   "cat": "ethnic",
+   "title": {
+    "zh": "一条刀鱼，一锅春汤",
+    "en": "A knifefish, a pot of spring",
+    "ja": "一尾のエツ、一鍋の春"
+   },
+   "text": {
+    "zh": "刀鱼春天上溯产卵，旧称长江第一鲜。2019年2月起，刀鲚专项捕捞许可证停止发放，它退出了餐桌。江南人守着的是腌笃鲜——咸肉、鲜肉与春笋同煮，“笃”正是小火慢炖的那个声音。",
+    "en": "The knifefish runs upstream to spawn each spring and was once called the Yangtze's first delicacy. From February 2019 no special fishing licences were issued for it, and it left the table. What Jiangnan keeps instead is yandu xian — cured pork, fresh pork and spring bamboo simmered together; du is the sound of a slow fire.",
+    "ja": "春に遡上して産卵するエツは、かつて「長江第一の鮮」と称された。2019年2月以降、専用の捕獲許可は発行されなくなり、食卓から姿を消した。江南の人々が守るのは腌笃鲜——塩漬け肉と生肉、春の筍を一鍋で煮る料理で、「笃」はとろ火の音を写した字である。"
+   },
+   "weight": 3,
+   "year": 2019,
+   "siteId": "shanghai",
+   "links": [
+    {
+     "label": {
+      "zh": "农业农村部·调整长江流域专项捕捞管理制度",
+      "en": "MARA notice on Yangtze fishing licences",
+      "ja": "農業農村部・長江流域専項捕撈管理の通告"
+     },
+     "href": {
+      "zh": "https://cjyzbgs.moa.gov.cn/tzgg/201904/t20190428_6220295.htm"
+     }
+    }
+   ],
+   "sources": [
+    "https://cjyzbgs.moa.gov.cn/tzgg/201904/t20190428_6220295.htm",
+    "http://www.chinaqw.com/zhwh/2023/05-09/357669.shtml",
+    "http://www.why.com.cn/wx/article/2019/01/17/15476882081057227450.html"
+   ]
+  }
+ ]
+}
