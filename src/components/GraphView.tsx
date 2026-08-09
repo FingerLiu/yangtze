@@ -140,20 +140,36 @@ export function GraphView({ onOpenSite }: { onOpenSite: (siteId: string) => void
     const layout = () => {
       const sites = graph.nodes.filter((n) => n.node.k === 'site' && n.node.c)
       const eras = graph.nodes.filter((n) => n.node.k === 'era')
-      const padX = Math.max(70, width * 0.05)
-      const span = Math.max(1, width - padX * 2)
+      // 竖屏把地理轴立起来：18 站自上而下就是顺流而下，与手机端「旅程」长页同一个隐喻。
+      // 横排在 390px 宽的屏幕上每站只有 20px，根本读不了。
+      const portrait = width < 760
+      const padX = portrait ? 58 : Math.max(70, width * 0.05)
+      const span = Math.max(1, (portrait ? height : width) - padX * 2)
       const lons = sites.map((s) => s.node.c![0])
       const lon0 = Math.min(...lons)
       const lon1 = Math.max(...lons)
       const railY = height * 0.2
+      const railX = width * 0.34
       sites.forEach((s) => {
-        s.fx = padX + ((s.node.c![0] - lon0) / (lon1 - lon0 || 1)) * span
-        s.fy = railY
+        const t01 = (s.node.c![0] - lon0) / (lon1 - lon0 || 1)
+        if (portrait) {
+          s.fx = railX
+          s.fy = padX + t01 * span
+        } else {
+          s.fx = padX + t01 * span
+          s.fy = railY
+        }
       })
       eras.sort((a, b) => Number(a.node.y ?? 0) - Number(b.node.y ?? 0))
       eras.forEach((e, i) => {
-        e.fx = padX + (i / Math.max(1, eras.length - 1)) * span
-        e.fy = height * 0.94
+        const t01 = i / Math.max(1, eras.length - 1)
+        if (portrait) {
+          e.fx = width * 0.95
+          e.fy = padX + t01 * span
+        } else {
+          e.fx = padX + t01 * span
+          e.fy = height * 0.94
+        }
       })
 
       // 每个节点归到它的 nearSite；没有的（诗文、人物）跟着 setAt / authorOf 走
@@ -181,25 +197,36 @@ export function GraphView({ onOpenSite }: { onOpenSite: (siteId: string) => void
 
       const KIND_ORDER = ['event', 'city', 'heritage', 'battle', 'work', 'person',
                           'dam', 'bridge', 'river', 'lake', 'place']
-      const colW = span / Math.max(1, sites.length)
-      const cols = Math.max(2, Math.floor(colW / 22))
-      const top = railY + 62
-      const bottom = height * 0.88
+      const lane = span / Math.max(1, sites.length)
+      const cross = Math.max(2, Math.floor(lane / 20))
+      const start = portrait ? railX + 24 : railY + 62
+      const end = portrait ? width * 0.7 : height * 0.88
+      const gap = 19
       for (const site of sites) {
         const list = (buckets.get(site.id) ?? []).sort(
           (a, b) => KIND_ORDER.indexOf(a.node.k) - KIND_ORDER.indexOf(b.node.k) || b.degree - a.degree)
-        const rows = Math.ceil(list.length / cols) || 1
-        const rowGap = Math.min(26, (bottom - top) / Math.max(1, rows))
+        const lines = Math.ceil(list.length / cross) || 1
+        const step = Math.min(26, (end - start) / Math.max(1, lines))
         list.forEach((n, i) => {
-          const col = i % cols
-          const row = Math.floor(i / cols)
-          n.fx = site.fx! + (col - (cols - 1) / 2) * 21
-          n.fy = top + row * rowGap
+          const across = (i % cross) - (cross - 1) / 2
+          const along = Math.floor(i / cross)
+          if (portrait) {
+            n.fx = start + along * step
+            n.fy = site.fy! + across * gap
+          } else {
+            n.fx = site.fx! + across * 21
+            n.fy = start + along * step
+          }
         })
       }
       orphans.forEach((n, i) => {
-        n.fx = padX + ((i % 26) / 25) * span
-        n.fy = height * 0.86 - Math.floor(i / 26) * 20
+        if (portrait) {
+          n.fx = width * 0.7 - Math.floor(i / 26) * 20
+          n.fy = padX + ((i % 26) / 25) * span
+        } else {
+          n.fx = padX + ((i % 26) / 25) * span
+          n.fy = height * 0.86 - Math.floor(i / 26) * 20
+        }
       })
     }
     layout()
@@ -238,7 +265,14 @@ export function GraphView({ onOpenSite }: { onOpenSite: (siteId: string) => void
       ctx.setLineDash([2 / tr.k, 7 / tr.k])
       ctx.lineWidth = 1 / tr.k
       ctx.strokeStyle = colors.line
-      for (const y of [height * 0.2]) {
+      if (width < 760) {
+        const x = width * 0.34
+        ctx.beginPath()
+        ctx.moveTo(x, -height)
+        ctx.lineTo(x, height * 2)
+        ctx.stroke()
+      } else {
+        const y = height * 0.2
         ctx.beginPath()
         ctx.moveTo(-width, y)
         ctx.lineTo(width * 2, y)
@@ -305,22 +339,31 @@ export function GraphView({ onOpenSite }: { onOpenSite: (siteId: string) => void
         const size = (important ? 14 : 12) / tr.k
         ctx.font = `${size}px "Kaiti SC", "STKaiti", "Songti SC", serif`
         const label = kgName(n.node, lg)
-        // 朝代标签放在圆点上方，否则会被左下角的操作提示压住
+        let x = n.x!
         let y: number
-        if (kind === 'era') {
+        if (width < 760 && important) {
+          // 竖屏：站名贴在轴左侧，朝代名贴在轴右侧，都靠着轴对齐
+          ctx.textAlign = 'right'
+          x = n.x! - (n.r + 6)
+          y = n.y!
+        } else if (kind === 'era') {
+          // 朝代标签放在圆点上方，否则会被左下角的操作提示压住
+          ctx.textAlign = 'center'
           y = n.y! - n.r - size * 0.85
         } else if (kind === 'site') {
           // 下游几站经度接近，标签必须分两层错开
+          ctx.textAlign = 'center'
           const tier = (siteOrder.get(n.id) ?? 0) % 2
           y = n.y! - n.r - size * (tier === 0 ? 0.85 : 2.15)
         } else {
+          ctx.textAlign = 'center'
           y = n.y! + n.r + size * 0.95
         }
         ctx.lineWidth = 3.5 / tr.k
         ctx.strokeStyle = colors.bg
-        ctx.strokeText(label, n.x!, y)
+        ctx.strokeText(label, x, y)
         ctx.fillStyle = important ? colors.text : colors.dim
-        ctx.fillText(label, n.x!, y)
+        ctx.fillText(label, x, y)
       }
       ctx.restore()
     }

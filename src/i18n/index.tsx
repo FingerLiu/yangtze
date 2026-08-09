@@ -36,6 +36,8 @@ export const UI = {
   viewMap: l('河流地图', 'River Map', 'マップ'),
   viewTimeline: l('时间轴视图', 'Timeline', '年表'),
   viewGraph: l('知识图谱', 'Knowledge Graph', '知識グラフ'),
+  showList: l('列表', 'List', 'リスト'),
+  showMap: l('地图', 'Map', '地図'),
   kgSearch: l('搜索地点、人物、诗文…', 'Search places, people, works…', '地名・人物・詩文を検索…'),
   kgLoading: l('正在载入图谱…', 'Loading the graph…', 'グラフを読み込み中…'),
   kgFailed: l('图谱数据载入失败', 'Could not load the graph data', 'グラフの読み込みに失敗しました'),

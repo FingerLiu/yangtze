@@ -8,6 +8,7 @@ import { zoom, zoomIdentity, type ZoomTransform } from 'd3-zoom'
 import worldData from 'world-atlas/countries-50m.json'
 import terrainUrl from '../assets/terrain.jpg'
 import { locations } from '../data/locations'
+import { useIsMobile } from '../hooks/useIsMobile'
 import {
   yangtzeStem,
   tributaries,
@@ -74,6 +75,7 @@ interface Props {
 
 export function RiverMap({ mode, selectedId, onSelect, activeEvents }: Props) {
   const { lang, t } = useLang()
+  const isMobile = useIsMobile()
   const svgRef = useRef<SVGSVGElement>(null)
   const [transform, setTransform] = useState<ZoomTransform>(zoomIdentity)
 
@@ -114,7 +116,7 @@ export function RiverMap({ mode, selectedId, onSelect, activeEvents }: Props) {
   }, [activeEvents])
 
   return (
-    <svg ref={svgRef} viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+    <svg ref={svgRef} viewBox="0 0 1600 1000" preserveAspectRatio={isMobile ? 'xMidYMid meet' : 'xMidYMid slice'}>
       <defs>
         <linearGradient id="riverGrad" gradientUnits="userSpaceOnUse" x1="90" y1="200" x2="1560" y2="620">
           <stop offset="0%" stopColor="#8fc3d9" />

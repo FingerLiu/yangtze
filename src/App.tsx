@@ -47,6 +47,8 @@ export default function App() {
   const [mode, setMode] = useState<ViewMode>('explore')
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const [focusEventId, setFocusEventId] = useState<string | null>(null)
+  // 手机端默认也用真地图；卡片长页保留为可切换的「列表」模式
+  const [listMode, setListMode] = useState(false)
   const [year, setYear] = useState(-256)
   const [playing, setPlaying] = useState(false)
   const rafRef = useRef(0)
@@ -178,7 +180,7 @@ export default function App() {
             <GraphView onOpenSite={(id) => selectLocation(id)} />
             <div className="hint">{t(UI.kgHint)}</div>
           </Suspense>
-        ) : isMobile ? (
+        ) : isMobile && listMode ? (
           mode === 'explore' ? (
             <MobileJourney onSelect={selectLocation} />
           ) : (
@@ -190,9 +192,14 @@ export default function App() {
             <div className="hint">{mode === 'explore' ? t(UI.hintExplore) : t(UI.hintTimeline)}</div>
           </>
         )}
+        {isMobile && mode !== 'graph' && (
+          <button className="mobile-view-toggle" onClick={() => setListMode((v) => !v)}>
+            {listMode ? t(UI.showMap) : t(UI.showList)}
+          </button>
+        )}
       </main>
 
-      {mode === 'timeline' && !isMobile && (
+      {mode === 'timeline' && !(isMobile && listMode) && (
         <TimelineBar
           year={year}
           onYearChange={(y) => {
