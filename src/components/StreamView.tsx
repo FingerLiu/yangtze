@@ -53,34 +53,43 @@ export function StreamView({ onOpenSite }: { onOpenSite: (siteId: string) => voi
     // 弹道数按可用高度算：道数太少，同一条道上的条目就会追尾
     const laneH = isMobile ? 54 : 62
     const laneCount = Math.max(5, Math.floor((lanesPx - (isMobile ? 76 : 52)) / laneH))
+    // 打散：数据本身按权重排过序，直接轮流分道会让相邻弹道内容雷同。
+    // 用 id 派生的稳定伪随机排序，看起来随机但每次渲染一致。
+    const shuffled = [...visible].sort((a, b) => hash01(a.id, 91) - hash01(b.id, 91))
     const perLane: StreamItem[][] = Array.from({ length: laneCount }, () => [])
-    visible.forEach((item, i) => perLane[i % laneCount].push(item))
+    shuffled.forEach((item, i) => perLane[i % laneCount].push(item))
 
     // 估算条目宽度，用来排出发时间。CJK 一字约一个字宽，西文约 0.55，再加圆点与内边距。
     const widthOf = (item: StreamItem) => {
       const fs = 12.5 + item.weight * 2
       const label = item.title[lang]
       const cjk = (label.match(/[\u3000-\u9fff]/g) ?? []).length
-      return cjk * fs + (label.length - cjk) * fs * 0.55 + 56
+      return cjk * fs + (label.length - cjk) * fs * 0.55 + 52
     }
 
     return perLane.flatMap((items, lane) => {
-      // 同一条弹道用同一速度：速度不同的话相对间距会随时间变化，早晚要撞上。
-      // 权重因此只决定字号，不决定快慢 —— 读起来也更从容。
-      const travel = 40 + hash01(`lane${lane}`, 3) * 18
-      const gaps = items.map((it) => ((widthOf(it) + 70) / Math.max(1, track)) * travel)
-      const total = gaps.reduce((a, b) => a + b, 0)
-      // 一圈的时长取「跑完一趟」与「所有条目排开」之中的较大者；
-      // 多出来的时间里条目停在屏幕右侧之外，于是有间隙而不是首尾相接。
-      const cycle = Math.max(travel, total)
+      // 同一条弹道统一速度：速度不同的话相对间距会随时间漂移，早晚要撞。
+      // 12–18 秒穿屏 —— B 站滚动弹幕约 8 秒，我们的标题更长，稍慢一点才读得完。
+      const travel = 12 + hash01(`lane${lane}`, 3) * 6
+      const count = items.length
+      const maxGap = items.reduce(
+        (m, it) => Math.max(m, ((widthOf(it) + 80) / Math.max(1, track)) * travel), 0)
+      // 一圈的时长：既要跑得完一趟，又要让同道条目之间留出足够间距。
+      // 乘 1.15 是安全余量，多出来的时间条目停在屏幕右侧之外。
+      const cycle = Math.max(travel * 1.3, maxGap * count * 1.15)
       // 速度恒定 = track/travel，所以一圈要走的距离按周期等比放大
       const far = track * (cycle / travel)
-      let cursor = 0
-      return items.map((item, idx) => {
-        const delay = -cursor
-        cursor += gaps[idx]
-        return { item, lane, laneCount, cycle, delay, far }
-      })
+      const slot = cycle / Math.max(1, count)
+      // 出发时间均匀铺满一圈，再在剩余空隙内抖动一下，避免看出节拍
+      const jitter = Math.max(0, (slot - maxGap) * 0.45)
+      return items.map((item, idx) => ({
+        item,
+        lane,
+        laneCount,
+        cycle,
+        far,
+        delay: -(idx * slot + hash01(item.id, 29) * jitter),
+      }))
     })
   }, [visible, isMobile, lanesPx, track, lang])
 
