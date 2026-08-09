@@ -78,11 +78,60 @@ export function RiverMap({ mode, selectedId, onSelect, activeEvents }: Props) {
   const isMobile = useIsMobile()
   const svgRef = useRef<SVGSVGElement>(null)
   const [transform, setTransform] = useState<ZoomTransform>(zoomIdentity)
+  const isMobileRef = useRef(isMobile)
+  isMobileRef.current = isMobile
+  const onSelectRef = useRef(onSelect)
+  onSelectRef.current = onSelect
+
+  const transformRef = useRef<ZoomTransform>(zoomIdentity)
+  transformRef.current = transform
 
   useEffect(() => {
-    const svg = select(svgRef.current!)
+    const el = svgRef.current!
+    const svg = select(el)
+
+    // 触摸点击必须在 zoom 之前注册：d3-zoom 的 touchend 会 preventDefault，
+    // 合成 click 事件因此不会派发，手机上点地点就没有任何反应。
+    let downAt: { x: number; y: number } | null = null
+    const onDown = (ev: PointerEvent) => {
+      downAt = { x: ev.clientX, y: ev.clientY }
+    }
+    const onUp = (ev: PointerEvent) => {
+      if (!downAt) return
+      const moved = Math.hypot(ev.clientX - downAt.x, ev.clientY - downAt.y)
+      downAt = null
+      if (moved > 8) return
+      const ctm = el.getScreenCTM()
+      if (!ctm) return
+      const pt = el.createSVGPoint()
+      pt.x = ev.clientX
+      pt.y = ev.clientY
+      const v = pt.matrixTransform(ctm.inverse())
+      const tr = transformRef.current
+      const gx = (v.x - tr.x) / tr.k
+      const gy = (v.y - tr.y) / tr.k
+      let best: string | null = null
+      let bestD = Infinity
+      for (const { loc, p } of nodePxRef.current) {
+        const d = (p[0] - gx) ** 2 + (p[1] - gy) ** 2
+        if (d < bestD) {
+          best = loc.id
+          bestD = d
+        }
+      }
+      // 命中半径要按「屏幕像素」定，再换算回图形单位。
+      // ctm.a 是 viewBox 单位到屏幕像素的比例（手机上整幅图缩到约 0.24），
+      // 直接在图形单位里定阈值的话，真机上只有几个像素，手指根本点不中。
+      const pxPerUnit = ctm.a * tr.k
+      const wantPx = isMobileRef.current ? 26 : 16
+      const hit = (wantPx / (pxPerUnit || 1)) ** 2
+      if (best && bestD < hit) onSelectRef.current(best)
+    }
+    el.addEventListener('pointerdown', onDown)
+    el.addEventListener('pointerup', onUp)
+
     const behavior = zoom<SVGSVGElement, unknown>()
-      .scaleExtent([1, 6])
+      .scaleExtent([1, 8])
       .translateExtent([
         [-120, -100],
         [1720, 1100],
@@ -90,8 +139,17 @@ export function RiverMap({ mode, selectedId, onSelect, activeEvents }: Props) {
       .on('zoom', (ev) => setTransform(ev.transform))
     svg.call(behavior)
     svg.on('dblclick.zoom', null)
+
+    // 竖屏手机上整幅图缩到 390px 宽，字只有 3-4px；先放大到能读、能点的程度，
+    // 从上游开始，用户再自己沿江平移。
+    if (isMobileRef.current) {
+      const t0 = zoomIdentity.translate(44, -580).scale(2.4)
+      svg.call(behavior.transform, t0)
+    }
     return () => {
       svg.on('.zoom', null)
+      el.removeEventListener('pointerdown', onDown)
+      el.removeEventListener('pointerup', onUp)
     }
   }, [])
 
@@ -104,6 +162,9 @@ export function RiverMap({ mode, selectedId, onSelect, activeEvents }: Props) {
       })),
     [],
   )
+
+  const nodePxRef = useRef(nodePx)
+  nodePxRef.current = nodePx
 
   const activeByLocation = useMemo(() => {
     const map = new Map<string, ActiveEvent[]>()
@@ -185,10 +246,10 @@ export function RiverMap({ mode, selectedId, onSelect, activeEvents }: Props) {
         />
 
         {/* 地理注记 */}
-        <text x={project([91.5, 35.6])[0]} y={project([91.5, 35.6])[1]} fontSize={14} fill="var(--map-note)" letterSpacing={4}>
+        <text x={project([91.5, 35.6])[0]} y={project([91.5, 35.6])[1]} fontSize={isMobile ? 24 : 14} fill="var(--map-note)" letterSpacing={4}>
           {t(UI.tibetPlateau)}
         </text>
-        <text x={project([121.6, 28.2])[0]} y={project([121.6, 28.2])[1]} fontSize={14} fill="var(--map-note)" letterSpacing={4}>
+        <text x={project([121.6, 28.2])[0]} y={project([121.6, 28.2])[1]} fontSize={isMobile ? 24 : 14} fill="var(--map-note)" letterSpacing={4}>
           {t(UI.eastSea)}
         </text>
 
@@ -196,7 +257,7 @@ export function RiverMap({ mode, selectedId, onSelect, activeEvents }: Props) {
         {nodePx.map(({ loc, p, anchorP }) => {
           const actives = activeByLocation.get(loc.id)
           const dimmed = mode === 'timeline' && !actives
-          const labelY = loc.labelSide === 'top' ? p[1] - 20 : p[1] + 32
+          const labelY = loc.labelSide === 'top' ? p[1] - (isMobile ? 30 : 20) : p[1] + (isMobile ? 46 : 32)
           return (
             <g
               key={loc.id}
@@ -215,15 +276,15 @@ export function RiverMap({ mode, selectedId, onSelect, activeEvents }: Props) {
                   strokeLinecap="round"
                 />
               )}
-              <circle className="halo" cx={p[0]} cy={p[1]} r={14} fill="none" stroke="var(--node-ring)" strokeWidth={2} />
+              <circle className="halo" cx={p[0]} cy={p[1]} r={isMobile ? 30 : 14} fill="none" stroke="var(--node-ring)" strokeWidth={isMobile ? 3 : 2} />
               <circle
                 className="core"
                 cx={p[0]}
                 cy={p[1]}
-                r={selectedId === loc.id ? 8 : 6}
+                r={isMobile ? (selectedId === loc.id ? 17 : 14) : selectedId === loc.id ? 8 : 6}
                 fill={selectedId === loc.id ? 'var(--node-active)' : 'var(--node-fill)'}
                 stroke="var(--node-stroke)"
-                strokeWidth={2.4}
+                strokeWidth={isMobile ? 3.4 : 2.4}
               />
               <text x={p[0] + (loc.labelDx ?? 0)} y={labelY} textAnchor="middle">
                 {t(loc.name)}

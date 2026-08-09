@@ -1360,3 +1360,92 @@ body {
     font-size: 12.5px;
   }
 }
+
+/* ---------- 手机端：放大到能读、能点 ---------- */
+@media (max-width: 760px) {
+  /* 地图文字用的是 viewBox 单位，整幅图缩到手机宽度后只有 3-4px，必须成倍放大 */
+  .node text {
+    font-size: 27px;
+    stroke-width: 7px;
+    letter-spacing: 2px;
+  }
+
+  /* 时间轴事件气泡同理 */
+  .event-card {
+    padding: 14px 18px;
+    font-size: 20px;
+    line-height: 1.5;
+    border-radius: 16px;
+    border-left-width: 5px;
+  }
+
+  .event-card b {
+    font-size: 23px;
+    margin-bottom: 4px;
+  }
+
+  .event-card .meta {
+    font-size: 18px;
+  }
+
+  /* 详情抽屉：手机上原来的字号偏小 */
+  .drawer-head h2 {
+    font-size: 30px;
+  }
+
+  .drawer-head p {
+    font-size: 15.5px;
+  }
+
+  .tabs button {
+    font-size: 15px;
+    padding: 9px 20px;
+  }
+
+  .facet-list li {
+    font-size: 16px;
+    line-height: 1.85;
+  }
+
+  .meaning {
+    font-size: 16px;
+    line-height: 1.85;
+  }
+
+  .prose p {
+    font-size: 16.5px;
+    line-height: 2;
+  }
+
+  .prose p.lede {
+    font-size: 17.5px;
+  }
+
+  .photo-caption {
+    font-size: 14px;
+  }
+
+  .loc-events .ev-row {
+    font-size: 15.5px;
+    padding: 11px 4px;
+  }
+
+  .loc-events .yr {
+    font-size: 13.5px;
+    min-width: 84px;
+  }
+
+  .ev-desc {
+    font-size: 15.5px;
+    line-height: 1.9;
+  }
+
+  .ev-jump,
+  .ref-links a {
+    font-size: 15px;
+  }
+
+  .ref-links a {
+    padding: 10px 4px;
+  }
+}
