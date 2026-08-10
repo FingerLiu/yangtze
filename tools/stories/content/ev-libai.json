@@ -1,0 +1,77 @@
+{
+ "eventId": "libai",
+ "story": [
+  {
+   "zh": "李白落在这条江上，本是因为一场政治误判。他入永王李璘幕府，永王兵败，他以「附逆」获罪，长流夜郎。乾元二年春，行至三峡，朝廷大赦，五十八岁的诗人在白帝城下掉转船头——顺流而下，一日之内可抵江陵。",
+   "en": "Li Bai came to be on this river through a political misjudgement. He had joined the staff of Prince Yong; when the prince's rising collapsed he was convicted of complicity and sentenced to exile in Yelang. In the spring of 759, having reached the Gorges, he met an imperial amnesty. At fifty-eight the poet turned his boat around beneath Baidi — downstream, Jiangling lies within a single day.",
+   "ja": "李白がこの川にいたのは、ひとつの政治的な読み違いのせいだった。永王璘の幕府に加わり、その挙兵が敗れると「附逆」の罪を得て夜郎への流罪となる。乾元二年（759年）春、三峡まで来たところで大赦に遇った。五十八歳の詩人は白帝城の下で舟の向きを変える——流れに乗れば、江陵は一日の距離だった。"
+  },
+  {
+   "zh": "白帝城在今重庆奉节，瞿塘峡口北岸。它的名字来自割据蜀地的公孙述：城中井冒白气如白龙，他便自号白帝。223年，刘备在这里托孤于诸葛亮。后来杜甫寓居夔州，也把白帝城写了又写，此地遂有「诗城」之名。",
+   "en": "Baidi stands at the mouth of the Qutang Gorge, in today's Fengjie, Chongqing. The name comes from Gongsun Shu, warlord of Shu: a well in the town breathed white vapour like a dragon, so he styled himself the White Emperor. In 223 Liu Bei died here, entrusting his heir to Zhuge Liang. Later Du Fu, living at Kuizhou, wrote the place over and over until it earned the name City of Poems.",
+   "ja": "白帝城は今の重慶市奉節県、瞿塘峡の入口の北岸に立つ。名の由来は蜀に拠った公孫述で、城中の井戸が白龍のような白気を吐いたことから自ら白帝と号したという。223年、劉備はここで諸葛亮に後事を託した。のちに杜甫が夔州に寓し、この城を繰り返し詠んだため「詩城」と呼ばれる。"
+  },
+  {
+   "zh": "三峡工程蓄水后，白帝城四面环水，成了江中的一座孤岛。峡两岸的猿声早已听不到了，那首二十八个字的七绝却还在——它写的其实不是风景，是一个人忽然被放过时，江水替他表达的轻。",
+   "en": "Since the Three Gorges reservoir filled, Baidi has water on all four sides — an island now. The gibbons that once called from both banks are long gone. What remains is a quatrain of twenty-eight characters that is not really about scenery at all: it is what a river says on behalf of a man who has just been let go.",
+   "ja": "三峡ダムの湛水以後、白帝城は四方を水に囲まれ、川中の孤島となった。両岸に啼いた猿の声はとうに聞こえない。残ったのは二十八字の七言絶句だけである。あれは風景の詩ではない。赦された人間の身の軽さを、長江が代わりに言ってくれた詩なのだ。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "李白",
+    "en": "Li Bai",
+    "ja": "李白"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/李白",
+    "en": "https://en.wikipedia.org/wiki/Li_Bai",
+    "ja": "https://ja.wikipedia.org/wiki/李白"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "早发白帝城",
+    "en": "\"Early Departure from Baidi\"",
+    "ja": "「早に白帝城を発す」"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/早发白帝城"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "白帝城",
+    "en": "Baidicheng",
+    "ja": "白帝城"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/白帝城",
+    "en": "https://en.wikipedia.org/wiki/Baidicheng",
+    "ja": "https://ja.wikipedia.org/wiki/白帝城"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/早发白帝城",
+  "https://zh.wikipedia.org/wiki/白帝城",
+  "https://en.wikipedia.org/wiki/Li_Bai",
+  "https://ja.wikipedia.org/wiki/李白"
+ ]
+}

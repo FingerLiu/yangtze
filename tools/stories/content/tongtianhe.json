@@ -1,0 +1,110 @@
+{
+ "locationId": "tongtianhe",
+ "facets": {
+  "nature": {
+   "story": [
+    {
+     "zh": "沱沱河与当曲在青海腹地相汇，从此改称通天河。这一段长八百一十三公里，走在海拔四千五百米上下的高原上，河谷开阔，水流平缓，河道分了又合、合了又分。它不像峡谷里的江，倒像一片恰好在移动的水面。",
+     "en": "Where the Tuotuo meets the Dangqu deep in Qinghai, the river takes a new name: Tongtian, the river that reaches the sky. For 813 kilometres it crosses a plateau at around 4,500 metres, its valley broad, its current unhurried, its channels dividing and rejoining and dividing again. It behaves less like a river in a gorge than like a sheet of water that happens to be moving.",
+     "ja": "沱沱河と当曲が青海の奥地で合わさると、川は名を変えて通天河となる。この813キロは標高4500メートル前後の高原を行き、谷は広く、流れはゆるやかで、流路は分かれては合わさり、また分かれる。峡谷を流れる川というより、たまたま動いている水面がそこにある、と言うほうが近い。"
+    },
+    {
+     "zh": "通天河止于玉树的巴塘河口，那里海拔约三千五百米。八百多公里只落下一千米，平均每公里一米出头——大江在这里几乎是躺着走的。出了巴塘河口它才改名金沙江，随即开始那场两千三百公里、落差三千二百五十米的俯冲。",
+     "en": "The Tongtian ends at the mouth of the Batang River near Yushu, at about 3,500 metres. Eight hundred kilometres for a thousand metres of fall — barely a metre per kilometre. Up here the great river is almost lying down. Only past Batang does it become the Jinsha, and begin the 2,300-kilometre plunge that will take another 3,250 metres out from under it.",
+     "ja": "通天河は玉樹の巴塘河口、標高およそ3500メートルで終わる。800キロ余りを流れて落差は1000メートル、一キロあたり一メートル強にすぎない。大河はここではほとんど横たわって進んでいる。巴塘河口を過ぎてはじめて金沙江と名を変え、2300キロで3250メートルを落ちる急降下が始まる。"
+    }
+   ]
+  },
+  "history": {
+   "story": [
+    {
+     "zh": "唐蕃古道东起长安，西至逻些，全长三千余公里，跨今陕、甘、青、川、藏五省区。它翻过巴颜喀拉山，西渡通天河，经玉树结古、巴塘，再越唐古拉山口进入吐蕃腹地。对走这条路的人来说，通天河不是风景，是一道必须解开的题。",
+     "en": "The Tang–Tibet road ran more than 3,000 kilometres from Chang'an to Lhasa, across what are now five provinces. It climbed the Bayan Har range, forded the Tongtian westward, passed through Jiegu and Batang in Yushu, and only then crossed the Tanggula pass into central Tibet. To anyone walking that road, the Tongtian was not scenery. It was a problem that had to be solved.",
+     "ja": "唐蕃古道は長安に発し、逻些（ラサ）に至る3000キロを超える道で、今日の陝西・甘粛・青海・四川・チベットの五省区にまたがる。巴顔喀拉（バヤンカラ）山脈を越え、通天河を西へ渡り、玉樹の結古・巴塘を経て、唐古拉峠を越えて吐蕃の中心へ入る。この道を行く者にとって通天河は景色ではなく、必ず解かねばならぬ一問だった。"
+    },
+    {
+     "zh": "641年，文成公主自长安西行入蕃，这条和亲之路自此以「唐蕃古道」之名传世。此后两百余年往还不绝：634至850年间，蕃使至唐一百二十五次，唐使入蕃六十五次。茶、绢、经卷、工匠与马匹，都从这条河的渡口上过。",
+     "en": "In 641 Princess Wencheng travelled west from Chang'an to marry into Tibet, and the road she took has carried that name ever since. For two centuries afterwards the traffic never stopped: between 634 and 850, Tibetan missions reached the Tang court 125 times and Tang missions went to Tibet 65 times. Tea, silk, sutras, craftsmen and horses all crossed at this river's fords.",
+     "ja": "641年、文成公主は長安から西へ、吐蕃へ嫁ぐ道を行った。その和親の道が「唐蕃古道」の名で後世に伝わる。以後二百余年、使節の往来は絶えなかった。634年から850年のあいだに吐蕃の使節は125回唐を訪れ、唐の使節は六五回吐蕃へ赴いた。茶、絹、経巻、職人、そして馬。すべてがこの川の渡し場を越えていった。"
+    }
+   ]
+  },
+  "culture": {
+   "story": [
+    {
+     "zh": "「通天河」这名字来自《西游记》，是唐僧师徒西行受阻的那条大河。古时它另有称呼：汉文作牦牛河，蒙古语称木鲁乌苏，意为「弯曲的水」。三个名字，三种看河的方式——神话的、牧人的、行路人的。",
+     "en": "The name Tongtian, reaching the heavens, comes from Journey to the West — the river that halts the pilgrims on their way. Older names survive beside it: the Yak River in Chinese, and Murui-ussu in Mongolian, the winding water. Three names, three ways of looking at one river: the mythic, the herder's, and the traveller's.",
+     "ja": "「通天河」という名は『西遊記』に由来する。三蔵一行の西行を阻んだ、あの大河である。古くは別の呼び名もあった。漢語では牦牛河、モンゴル語ではムルイ・ウス、「曲がりくねる水」の意。三つの名は、同じ川を見る三つのまなざし——神話の、牧人の、旅人のまなざしだ。"
+    },
+    {
+     "zh": "顺流而下到玉树新寨，有一座嘉那嘛呢石经城。十八世纪末由结古寺第一世嘉那活佛始建，如今东西约二百七十米、南北约八十米，占地两万余平方米，堆着二十五亿块以上刻经的石头，2006年列为全国重点文物保护单位。",
+     "en": "Downstream at Xinzhai, near Yushu, stands the Gyanak mani wall. Begun in the late eighteenth century by the first Gyanak Lama of Jiegu Monastery, it now runs some 270 metres east to west and eighty north to south, covers more than 20,000 square metres, and is built of over 2.5 billion inscribed stones. In 2006 it was listed among China's key protected cultural relics.",
+     "ja": "川を下って玉樹の新寨には、嘉那マニ石経城がある。一八世紀末に結古寺の初代嘉那活仏が築きはじめたもので、いまや東西およそ270メートル、南北およそ八〇メートル、面積は二万平方メートルを超える。経文を刻んだ石が二五億個以上積み上げられ、2006年には全国重点文物保護単位に指定された。"
+    },
+    {
+     "zh": "每一块石头都是某个人放下的。经幡在风里褪成灰白，石堆却一年年长高——在这片人烟稀薄的高原上，信仰几乎是唯一持续累积的东西。河从旁边流过，什么也不留下；人留下的，是石头。",
+     "en": "Every one of those stones was laid there by somebody. Prayer flags bleach to grey in the wind, but the pile grows taller year by year — on a plateau this empty, faith is very nearly the only thing that accumulates. The river slides past and leaves nothing behind. What people leave is stone.",
+     "ja": "石の一つひとつを、誰かが置いていった。タルチョは風にさらされて灰白色に褪せるが、石の山は年ごとに高くなる。人の少ないこの高原で、積み重なりつづけるものはほとんど信仰だけだ。川はかたわらを流れ、何も残さない。人が残すのは、石である。"
+    }
+   ]
+  }
+ },
+ "links": [
+  {
+   "label": {
+    "zh": "通天河",
+    "en": "Tongtian River",
+    "ja": "通天河"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/通天河",
+    "en": "https://en.wikipedia.org/wiki/Tongtian_River"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "文成公主",
+    "en": "Princess Wencheng",
+    "ja": "文成公主"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/文成公主",
+    "en": "https://en.wikipedia.org/wiki/Princess_Wencheng",
+    "ja": "https://ja.wikipedia.org/wiki/文成公主"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "新寨嘉那嘛呢石经城",
+    "en": "Gyanak Mani stone city, Xinzhai",
+    "ja": "新寨嘉那マニ石経城"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/新寨嘉那嘛呢"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/zh-hans/%E9%80%9A%E5%A4%A9%E6%B2%B3",
+  "https://en.wikipedia.org/wiki/Tongtian_River",
+  "https://zh.wikipedia.org/wiki/金沙江",
+  "https://zh.wikipedia.org/wiki/长江源",
+  "https://www.neac.gov.cn/seac/c103391/202212/1159838.shtml",
+  "https://zh.wikipedia.org/zh-cn/%E6%96%B0%E5%AF%A8%E5%98%89%E9%82%A3%E5%98%9B%E5%91%A2"
+ ]
+}

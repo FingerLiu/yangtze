@@ -1,0 +1,53 @@
+{
+  "eventId": "jiangnan-town",
+  "story": [
+    {
+      "zh": "盛泽在明弘治年间还只是五六十户人家的村子，靠一台台织机、一条条河汊，长成了「日出万匹、衣被天下」的绸都；南浔自南宋淳祐十二年建镇，把「辑里湖丝」的名字送到很远的地方。这些市镇不是官府画出来的，是水路与机杼自己长出来的。",
+      "en": "In the Hongzhi years of the Ming, Shengze was still a village of fifty or sixty households. Loom by loom, creek by creek, it became a silk town said to \"turn out ten thousand bolts a day and clothe the empire\". Nanxun, chartered in 1252, sent the name of its Jili silk a very long way. No magistrate drew these towns; water and looms grew them.",
+      "ja": "盛沢は明の弘治年間、まだ五、六十戸の村にすぎなかった。機（はた）が一台ずつ増え、水路が一本ずつ通じるうちに、「日に万匹を出し、天下に衣を着せる」と謳われる絹の町になる。南潯の立町は南宋・淳祐十二年、その輯里湖糸の名は遠くまで届いた。市鎮は役所が引いた線ではなく、水と機が自ら伸ばした枝であった。"
+    },
+    {
+      "zh": "更深的变化在田里。江南把稻田换成桑园与棉田，每年向北京漕运四百万石之后，自己反而「半仰食江、楚、庐、安之粟」。宋时「苏常熟，天下足」的老话，到明代换成了「湖广熟，天下足」；汉口也因此成为全国三大米市之一。",
+      "en": "The deeper change was in the fields. Jiangnan traded paddy for mulberry and cotton; after shipping four million shi of tribute grain to Beijing each year it came to live \"half on the rice of Jiang, Chu, Lu and An\". The Song saying \"when Suzhou and Changzhou ripen, the empire has enough\" gave way in the Ming to \"when Huguang ripens, the empire has enough\" — and Hankou became one of the empire's three great rice markets.",
+      "ja": "変化はもっと深く、田にあった。江南は水田を桑と綿に替え、毎年四百万石の漕米を北京へ送ったうえで、みずからは「半ば江・楚・廬・安の粟を仰ぐ」暮らしになる。宋の「蘇常熟すれば天下足る」は、明には「湖広熟すれば天下足る」へ置き換わり、漢口は全国三大米市の一つとなった。"
+    },
+    {
+      "zh": "于是长江被编成一张分工的网：中游种稻，下游织绸，粮与丝在同一条水道上逆向而行。道光二十七年上海口岸出口的蚕丝中，南浔一镇就占一万三千四百二十六包、六成三。等吴淞口的大门推开，江南的河汊早已悄悄接上了世界的航线。",
+      "en": "So the Yangtze became a division of labour: rice in the middle reaches, silk below, grain and thread passing each other on the same water. Of the raw silk exported through Shanghai in 1847, Nanxun alone supplied 13,426 bales — 63 per cent. By the time the gate at Wusongkou swung open, Jiangnan's creeks were already wired into the world's shipping lanes.",
+      "ja": "こうして長江は一枚の分業図になった。中流に米、下流に絹。糧と糸が同じ水路をすれ違ってゆく。道光二十七年、上海港から出た生糸のうち南潯一鎮で一万三千四百二十六梱、六割三分を占めた。呉淞口の門が開いたとき、江南の水路はとうに世界の航路へつながっていたのである。"
+    }
+  ],
+  "links": [
+    {
+      "label": { "zh": "江南", "en": "Jiangnan", "ja": "江南" },
+      "href": {
+        "zh": "https://zh.wikipedia.org/wiki/江南",
+        "en": "https://en.wikipedia.org/wiki/Jiangnan",
+        "ja": "https://ja.wikipedia.org/wiki/江南"
+      },
+      "source": { "zh": "维基百科", "en": "Wikipedia", "ja": "ウィキペディア" }
+    },
+    {
+      "label": { "zh": "南浔镇", "en": "Nanxun", "ja": "南潯鎮" },
+      "href": {
+        "zh": "https://zh.wikipedia.org/wiki/南浔镇",
+        "en": "https://en.wikipedia.org/wiki/Nanxun"
+      },
+      "source": { "zh": "维基百科", "en": "Wikipedia", "ja": "ウィキペディア" }
+    },
+    {
+      "label": { "zh": "盛泽镇", "en": "Shengze", "ja": "盛沢鎮" },
+      "href": {
+        "zh": "https://zh.wikipedia.org/wiki/盛泽镇"
+      },
+      "source": { "zh": "维基百科", "en": "Wikipedia", "ja": "ウィキペディア" }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/盛泽镇",
+    "https://zh.wikipedia.org/wiki/南浔镇",
+    "https://en.wikipedia.org/wiki/Nanxun",
+    "https://en.wikipedia.org/wiki/Jiangnan",
+    "https://guoxue.ifeng.com/a/20160811/49758621_0.shtml"
+  ]
+}

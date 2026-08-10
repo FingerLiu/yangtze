@@ -1,0 +1,126 @@
+{
+ "locationId": "shanghai",
+ "facets": {
+  "nature": {
+   "story": [
+    {
+     "zh": "崇明岛是长江写下的最后一段字。唐武德年间（618至626），江口浮出东沙、西沙两块沙洲，此后千余年不断并接、涨坍；到2010年，全岛面积已达一千二百六十七平方公里，是中国第三大岛。",
+     "en": "Chongming is the last line the Yangtze writes. In the Wude years of the Tang (618–626) two shoals, Dongsha and Xisha, broke the surface at the river mouth; for a thousand years afterwards they joined, grew, and were eaten back again. By 2010 the island covered 1,267 km², the third largest in China.",
+     "ja": "崇明島は、長江が最後に書きつける一行である。唐の武徳年間（618〜626）、河口に東沙・西沙という二つの砂州が浮かび、以後千年あまり、くっつき、伸び、また削られてきた。2010年時点の面積は1267平方キロ。中国で三番目に大きい島である。"
+    },
+    {
+     "zh": "岛东头的东滩是国际重要湿地（拉姆萨尔），也是东亚—澳大利西亚迁飞路线上最要紧的中转站之一。潮水一天两回把滩涂翻开，涉禽落下来补给；江里还游着长江江豚。这里没有终点，只有换乘。",
+     "en": "Dongtan, at the island's eastern tip, is a wetland of international importance under the Ramsar Convention and one of the critical stopovers on the East Asian–Australasian Flyway. Twice a day the tide turns the mudflats over and the waders drop in to refuel; finless porpoises still move through the channel. Nothing here is a terminus. It is a place to change trains.",
+     "ja": "島の東端、東灘はラムサール条約の国際的に重要な湿地であり、東アジア・オーストラリア地域フライウェイの要となる中継地のひとつだ。潮は一日二度、干潟をめくり返し、シギやチドリが降りて燃料を補う。水路にはスナメリも泳ぐ。ここは終点ではない。乗り換えの場所である。"
+    },
+    {
+     "zh": "不过账目已经变了。2003年以后，三角洲前缘出现明显侵蚀，沉积物也在变粗——上游拦住的沙，不再送到这里来。六千三百公里的旅程仍在继续，只是它带下来的东西，比从前少了。",
+     "en": "The ledger, though, has changed. Since 2003 the delta front has been eroding markedly and its sediments coarsening: the sand held back upstream no longer arrives. The 6,300-kilometre journey still ends here — it simply brings less with it than it used to.",
+     "ja": "ただ、帳尻は変わってしまった。2003年以降、三角州の前縁では明らかな侵食が進み、堆積物も粗くなっている。上流でせき止められた砂が、もうここまで届かない。6300キロの旅は今も続く。ただ、運んでくるものが以前より少ないだけだ。"
+    }
+   ]
+  },
+  "history": {
+   "story": [
+    {
+     "zh": "上海起初只是江海之间的渔村与市镇。唐代先后设青龙镇（746）与华亭镇（751）；1074年宋神宗在此置市舶与榷货机构；1291年五个村庄并为上海县，人口约三十万。它是靠一个水口做生意起家的。",
+     "en": "Shanghai began as fishing villages and market towns between river and sea. The Tang set the garrison of Qinglong here in 746 and Huating in 751; in 1074 Emperor Shenzong of Song established a maritime trade office and a goods control bureau; in 1291 five villages were amalgamated into Shanghai County, with a population of roughly 300,000. From the very start it made its living at a river mouth.",
+     "ja": "上海はもともと、川と海のあいだの漁村と市であった。唐は746年に青龍鎮、751年に華亭鎮を置き、1074年には宋の神宗がここに市舶と榷貨の役所を設けた。1291年、五つの村がまとめられて上海県となる。人口はおよそ三十万。この街は最初から、河口で商売をして生きてきた。"
+    },
+    {
+     "zh": "1842年六月十六日，英军攻吴淞。江南提督陈化成战死在炮位上，二百五十门炮易手，十九日上海失守；舰队随即溯江直上江宁。《南京条约》开五口通商，上海是其中之一——一场炮战，把一座县城推到了世界航线的路口。",
+     "en": "On 16 June 1842 the British attacked Wusong. The commander Chen Huacheng died at his guns; 250 cannon changed hands, and Shanghai fell on the 19th, after which the fleet sailed straight up the Yangtze towards Jiangning. The Treaty of Nanking opened five ports, Shanghai among them. One artillery duel pushed a county town onto the crossroads of the world's shipping lanes.",
+     "ja": "1842年六月十六日、イギリス軍は呉淞を攻めた。江南提督・陳化成は砲座で戦死し、二百五十門の砲が奪われ、十九日に上海は陥ちる。艦隊はそのまま長江を遡って江寧へ向かった。南京条約は五港を開き、上海はその一つとなる。一度の砲戦が、ひとつの県城を世界の航路の交差点へ押し出したのである。"
+    },
+    {
+     "zh": "租界随即划出来：英国1845年，美国1848年在虹口，法国1849年；1863年英美合并为公共租界。1876年建成的吴淞铁路是中国第一条铁路，第二年就被拆掉。到1936年，这座城市已经住了三百万人。",
+     "en": "The concessions were drawn immediately after: the British in 1845, the Americans in Hongkou in 1848, the French in 1849; in 1863 the British and American areas merged into the International Settlement. The Woosung Railway, built in 1876 and the first in China, was pulled up the following year. By 1936 three million people lived in the city.",
+     "ja": "租界はすぐに切り出された。イギリスが1845年、アメリカが1848年に虹口、フランスが1849年。1863年、英米の区域は合併して共同租界となる。1876年に開通した呉淞鉄道は中国最初の鉄道だったが、翌年には撤去された。1936年、この街にはすでに三百万人が暮らしていた。"
+    }
+   ]
+  },
+  "culture": {
+   "story": [
+    {
+     "zh": "1849年四月六日划定的法租界，后来把街道交给了树。1902年从法国引进的悬铃木栽上霞飞路，中文索性叫它「法国梧桐」。1846年这里开出中国第一家西式旅馆，1850年办起第一份英文报纸——海派就是在这些外来物件之间长出来的。",
+     "en": "The French Concession, marked out on 6 April 1849, eventually handed its streets over to trees: London planes brought from France in 1902 were planted along Avenue Joffre, and Chinese simply calls them \"French planes\". China's first Western hotel opened here in 1846, its first English-language newspaper in 1850. Haipai — the Shanghai style — grew up in the gaps between imported things.",
+     "ja": "1849年四月六日に区画されたフランス租界は、やがて街路を樹木に明け渡した。1902年にフランスから運ばれたプラタナスが霞飛路に植えられ、中国語ではそのまま「フランス梧桐」と呼ばれる。1846年には中国初の西洋式ホテル、1850年には最初の英字新聞。海派とは、こうした外来のものの隙間から育った文化である。"
+    },
+    {
+     "zh": "今天码头仍是这座城市的主语。2010年上海港超过新加坡，成为全球最繁忙的集装箱港；2019年吞吐四千三百三十万标准箱，2024年货运量11.2亿吨。洋山深水港建在杭州湾的岛上，靠东海大桥与陆地相连。",
+     "en": "The docks are still the subject of the sentence. In 2010 Shanghai passed Singapore to become the world's busiest container port; it moved 43.3 million TEU in 2019 and 1.12 billion tonnes of cargo in 2024. The Yangshan deep-water terminals stand on islands out in Hangzhou Bay, tied to the mainland by the Donghai Bridge.",
+     "ja": "今もこの街の主語は埠頭である。2010年、上海港はシンガポールを抜いて世界一忙しいコンテナ港となった。2019年の取扱量は四三三〇万TEU、2024年の貨物量は一一・二億トン。洋山深水港は杭州湾の島の上に築かれ、東海大橋によって陸とつながっている。"
+    },
+    {
+     "zh": "长江三角洲住着一亿两千三百万人（2020年），贡献了全国约百分之十七的经济产出（2024年）。高原上的一捧雪水走了六千三百公里，最后落进集装箱吊车的阴影里——到这里，这条河把故事交给了海。",
+     "en": "The Yangtze Delta holds 123 million people (2020) and produces about seventeen per cent of China's economic output (2024). A handful of snowmelt off the plateau has travelled 6,300 kilometres to end in the shadow of container cranes. Here the river hands the story over to the sea.",
+     "ja": "長江デルタには一億二三〇〇万人が暮らし（2020年）、中国の経済産出のおよそ一七パーセントを生んでいる（2024年）。高原の雪解け水ひとすくいが6300キロを旅して、コンテナクレーンの影の下に落ちる。ここで長江は、その物語を海へ手渡す。"
+    }
+   ]
+  }
+ },
+ "links": [
+  {
+   "label": {
+    "zh": "崇明岛",
+    "en": "Chongming Island",
+    "ja": "崇明島"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/崇明岛",
+    "en": "https://en.wikipedia.org/wiki/Chongming_Island",
+    "ja": "https://ja.wikipedia.org/wiki/崇明島"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "上海租界",
+    "en": "Shanghai International Settlement",
+    "ja": "上海租界"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/上海租界",
+    "en": "https://en.wikipedia.org/wiki/Shanghai_International_Settlement",
+    "ja": "https://ja.wikipedia.org/wiki/上海租界"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "上海港",
+    "en": "Port of Shanghai",
+    "ja": "上海港"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/上海港",
+    "en": "https://en.wikipedia.org/wiki/Port_of_Shanghai",
+    "ja": "https://ja.wikipedia.org/wiki/上海港"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/History_of_Shanghai",
+  "https://en.wikipedia.org/wiki/Battle_of_Woosung",
+  "https://en.wikipedia.org/wiki/Shanghai_French_Concession",
+  "https://en.wikipedia.org/wiki/Port_of_Shanghai",
+  "https://en.wikipedia.org/wiki/Chongming_Island",
+  "https://en.wikipedia.org/wiki/Yangtze_Delta",
+  "https://en.wikipedia.org/wiki/Yangtze",
+  "https://www.wetlands.org/a-promising-new-initiative-for-migratory-waterbirds-in-china/",
+  "https://link.springer.com/article/10.1007/s00267-008-9247-7"
+ ]
+}

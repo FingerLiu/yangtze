@@ -1,0 +1,60 @@
+{
+ "eventId": "sanxingdui",
+ "story": [
+  {
+   "zh": "1929年春，广汉月亮湾的农人燕道诚一家清理水沟，挖出一坑玉石器——古蜀的门缝就此掀开（西文亦有记作1927年的）。真正的震动在1986年夏：两座祭祀坑出土青铜器、玉器、金器与八十根象牙共一千七百余件，器物多被砸碎、焚烧后掩埋，像一场刻意的告别。",
+   "en": "In the spring of 1929 a farming family named Yan, clearing a ditch at Guanghan, turned up a pit of jades — the first crack of light into ancient Shu (some Western accounts date the find to 1927). The real shock came in the summer of 1986, when two sacrificial pits gave up more than 1,700 bronzes, jades, gold objects and eighty elephant tusks. Most had been smashed and burned before burial, as though deliberately taken leave of.",
+   "ja": "1929年春、広漢・月亮湾の農民燕道誠の一家が溝を浚っていて玉器の坑を掘り当てた。古蜀への扉が細く開く（西洋の文献では1927年とするものもある）。決定的だったのは1986年夏、二基の祭祀坑から青銅器・玉器・金器と象牙八十本、あわせて千七百点余り。その多くは打ち砕かれ、焼かれてから埋められていた。"
+  },
+  {
+   "zh": "从坑里站起来的，是一个从未在史书中露过面的世界。青铜大立人通高约2.6米、重一百八十公斤；纵目面具宽1.38米，眼球柱状外凸；青铜神树高3.96米，枝上栖鸟。还有一柄长1.42米的金杖，一端平雕三组图案：戴五齿高冠的对称人头、相向的双鸟与鱼。",
+   "en": "What rose out of the pits was a world no chronicle had ever mentioned. A bronze figure stands about 2.6 metres tall and weighs 180 kilograms; a mask 1.38 metres wide pushes its pupils out on stalks; a bronze sacred tree reaches 3.96 metres with birds perched in its branches. And a gold staff 1.42 metres long, one end engraved with three bands of figures: paired human heads smiling under five-toothed crowns, birds turned to face each other, and fish.",
+   "ja": "坑から立ち上がったのは、史書のどこにも出てこない世界だった。青銅立人像は全高およそ二・六メートル、重さ百八十キロ。縦目仮面は幅一・三八メートル、瞳が柱のように突き出す。青銅神樹は三・九六メートル、枝には鳥が止まる。長さ一・四二メートルの金杖は、一端に三組の図案を平彫りにする——五歯の高冠をかぶり微笑む対の人面、向かい合う二羽の鳥、そして魚。"
+  },
+  {
+   "zh": "2020年起，三号至八号坑陆续揭露，新出文物逾万件，其中一件金面具含金量约八成、重二百八十克。研究者指出，这里的青铜与殷商相通、象牙来自南方，古蜀并非孤岛。遗址的绝对年代学界仍在讨论，主流意见把祭祀坑放在商代晚期。",
+   "en": "From 2020 onward pits three through eight yielded over ten thousand further objects, among them a gold mask of roughly eighty-four percent gold weighing 280 grams. Researchers trace the bronze here to contact with Shang Yin and the ivory to the south: Shu was no island. The site's absolute dating is still debated, though most scholars place the sacrificial pits in the late Shang.",
+   "ja": "2020年以降、三号から八号の坑が次々と開き、新たな出土品は一万点を超えた。うち一枚の金仮面は金の含有率およそ八割、重さ二百八十グラム。研究者は、青銅が殷とのつながりを、象牙が南方とのつながりを示すという。古蜀は孤島ではなかった。遺跡の絶対年代にはなお議論があるが、祭祀坑を殷代後期に置く見方が有力である。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "三星堆遗址",
+    "en": "Sanxingdui",
+    "ja": "三星堆遺跡"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/三星堆遗址",
+    "en": "https://en.wikipedia.org/wiki/Sanxingdui",
+    "ja": "https://ja.wikipedia.org/wiki/三星堆遺跡"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "三星堆馆长讲国宝 · 金杖",
+    "en": "The Sanxingdui Gold Staff (Sichuan Online)",
+    "ja": "三星堆の金杖（四川オンライン）"
+   },
+   "href": {
+    "zh": "https://sichuan.scol.com.cn/ggxw/202210/58741417.html"
+   },
+   "source": {
+    "zh": "四川在线",
+    "en": "Sichuan Online",
+    "ja": "四川オンライン"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/三星堆遗址",
+  "https://en.wikipedia.org/wiki/Sanxingdui",
+  "https://ja.wikipedia.org/wiki/三星堆遺跡",
+  "https://sichuan.scol.com.cn/ggxw/202210/58741417.html"
+ ]
+}

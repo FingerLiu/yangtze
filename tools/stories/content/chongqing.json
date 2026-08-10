@@ -1,0 +1,81 @@
+{
+ "locationId": "chongqing",
+ "facets": {
+  "nature": {
+   "story": [
+    {
+     "zh": "重庆城长在两江交汇的尖角上：嘉陵江在朝天门汇入长江，市区从这个楔子向后铺开。它坐落在四川盆地东缘的过渡地带，北面是大巴山，境内被江河与山岭反复切割，平地极少。",
+     "en": "Chongqing grew on a wedge of land where two rivers meet: the Jialing comes down to join the Yangtze at Chaotianmen, and the city spreads back from that point. It sits on the eastern rim of the Sichuan Basin with the Daba Mountains rising to the north, its ground cut and re-cut by rivers and ridges until very little of it is flat.",
+     "ja": "重慶の街は、二つの川が出会う楔のような土地に育ちました。嘉陵江が朝天門で長江に注ぎ、市街はその尖端から後ろへ広がっていきます。四川盆地の東縁にあたる遷移帯に位置し、北には大巴山。市域は川と尾根に幾度も刻まれ、平らな土地はごくわずかです。"
+    },
+    {
+     "zh": "落差是这座城市的性格。市域平均海拔约二百四十四米，最高的阴条岭却有二千七百九十七米。雾从江面升起，一年有一百多天；夏天又与武汉、南京并称\"三大火炉\"，2022年8月18日至19日曾录得43.7摄氏度。",
+     "en": "Altitude is the city's temperament. The municipality averages some 244 metres above sea level, yet its highest summit, Yintiao Ling, reaches 2,797. Fog climbs off the rivers on more than a hundred days a year; in summer Chongqing is counted with Wuhan and Nanjing among China's \"three furnaces\", and on 18–19 August 2022 the thermometer touched 43.7°C.",
+     "ja": "高低差こそ、この街の気質です。市域の平均標高は約244メートル、いっぽう最高峰の陰条嶺は2797メートルに達します。川面から立ちのぼる霧の日は年に百日を超え、夏は武漢・南京と並ぶ「三大かまど」。2022年8月18日から19日にかけては43.7度を記録しました。"
+    }
+   ]
+  },
+  "culture": {
+   "story": [
+    {
+     "zh": "火锅是码头的产物。朝天门一带屠宰业兴旺，搬运工能便宜甚至白得牛油与牛下水，便用牛油爆香辣椒花椒，再把毛肚、肝腰、血旺丢进去煮。起源有明末清初、也有清代道光年间的说法；到1934年，城里已开出成规模的麻辣饭店。",
+     "en": "Hotpot is a child of the docks. Around Chaotianmen the slaughter trade was brisk, and porters could get beef tallow and offal cheap or for nothing; they fried chilli and Sichuan pepper in the tallow and dropped in tripe, liver, kidney and blood curd. Some date it to the end of the Ming, others to the Daoguang reign; by 1934 the city had málà restaurants of real size.",
+     "ja": "火鍋は埠頭が生んだ食べものです。朝天門あたりは食肉処理が盛んで、荷役の人夫たちは牛脂や牛のもつを安く、ときにはただで手に入れられました。牛脂で唐辛子と花椒を炒め、ハチノスやレバー、腰、血のかたまりを放り込む。起源は明末清初とも清の道光年間とも言われ、1934年には市内にまとまった規模の麻辣料理店が現れています。"
+    },
+    {
+     "zh": "地形逼出了另一种日常。楼与楼之间靠梯坎、索道和高架相连，李子坝站的轻轨干脆从一栋居民楼中间穿过去——那不是奇观，那是通勤。",
+     "en": "The terrain forces its own daily habits. Buildings are stitched together by stair-streets, cable cars and viaducts, and at Liziba the light rail runs clean through the middle of an apartment block — not a spectacle, just the commute.",
+     "ja": "地形が日常の作法を決めます。建物と建物は階段や索道、高架でつながれ、李子壩駅ではモノレールがマンションの真ん中を貫いて走ります。見せ物ではなく、ただの通勤風景です。"
+    },
+    {
+     "zh": "热闹之下还压着更重的一层。1189年，这里得名\"重庆\"，取双重喜庆之意；1937年国民政府迁来，1940年9月6日正式定为陪都，直到1946年5月还都，其间连年遭受轰炸。1997年，重庆成为直辖市。",
+     "en": "Beneath the noise lies a heavier layer. The city took the name Chongqing — \"doubled celebration\" — in 1189. The Nationalist government moved here in 1937, formally declared it the second capital on 6 September 1940, and stayed until May 1946, through years of bombing. In 1997 Chongqing became a municipality answering directly to the central government.",
+     "ja": "賑わいの下には、もっと重い層が沈んでいます。1189年、この地は「重慶」——二重の慶び——と名づけられました。1937年に国民政府が遷り、1940年9月6日には正式に陪都と定められ、1946年5月に還都するまで、爆撃の年月が続きます。1997年、重慶は直轄市となりました。"
+    }
+   ]
+  }
+ },
+ "links": [
+  {
+   "label": {
+    "zh": "重庆市",
+    "en": "Chongqing",
+    "ja": "重慶市"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/重庆市",
+    "en": "https://en.wikipedia.org/wiki/Chongqing",
+    "ja": "https://ja.wikipedia.org/wiki/重慶市"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "重庆火锅",
+    "en": "Chongqing hot pot",
+    "ja": "重慶火鍋"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/重庆火锅",
+    "en": "https://en.wikipedia.org/wiki/Chongqing_hot_pot",
+    "ja": "https://ja.wikipedia.org/wiki/重慶火鍋"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/重庆市",
+  "https://en.wikipedia.org/wiki/Chongqing",
+  "https://zh.wikipedia.org/wiki/重庆火锅",
+  "https://en.wikipedia.org/wiki/Chongqing_hot_pot",
+  "https://ja.wikipedia.org/wiki/重慶火鍋"
+ ]
+}

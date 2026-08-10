@@ -1,0 +1,119 @@
+{
+ "locationId": "jiangnan",
+ "facets": {
+  "nature": {
+   "story": [
+    {
+     "zh": "长江在入海之前把自己摊平。三角洲铺开十一万零七百五十五平方公里，大运河的江南段自杭州北上，穿苏州、无锡，到镇江汇入长江。干流、支流、塘浦、宅河层层分岔，最后细到能从后门的石阶直接下水。",
+     "en": "Before it reaches the sea the Yangtze lays itself flat. The delta spreads over 110,755 km²; the Jiangnan reach of the Grand Canal runs north from Hangzhou through Suzhou and Wuxi to meet the river at Zhenjiang. Trunk, branch, ditch, house-channel — the water divides and divides again until it is fine enough to reach the stone steps behind somebody's kitchen door.",
+     "ja": "長江は海に入る前に、自分を平らに広げてしまう。三角州の面積は一一万〇七五五平方キロ。大運河の江南区間は杭州から北へ、蘇州・無錫を抜けて鎮江で長江に合流する。本流、支流、塘浦、宅地の細流——水は分かれつづけ、ついには台所の裏の石段から直接汲めるほど細くなる。"
+    },
+    {
+     "zh": "西湖是这种关系的样本。它原本是钱塘江泥沙围出的潟湖，东汉华歆筑海塘把它同海隔开，此后不疏浚就会淤死。1089年苏轼任杭州知州，把挖出的葑泥堆成一道长堤——今天的苏堤，其实是一次清淤的余料。",
+     "en": "West Lake is the specimen case for that relationship. It began as a lagoon closed off by Qiantang sand, and in the Eastern Han the official Hua Xin built a sea wall that cut it from the sea for good; after that, unless it was dredged, it silted toward death. In 1089 Su Shi, then prefect of Hangzhou, had the dredged mud heaped into a long causeway. The Su Causeway people stroll today is the leftover of a cleaning job.",
+     "ja": "西湖は、その関係の見本のような湖だ。もとは銭塘江の土砂が囲んでできた潟湖で、東漢の華歆が海塘を築いて海から切り離した。以後、浚渫を怠れば埋まって死ぬ湖になった。1089年、杭州知州となった蘇軾は、掻き上げた泥を積んで一本の長堤を築く。人が歩く蘇堤とは、実は掃除の残りものである。"
+    }
+   ]
+  },
+  "history": {
+   "story": [
+    {
+     "zh": "五千年前，良渚人在这片湿地上动了大工程。古城占地881.45公顷，城外还有一整套水利系统：谷口六条高坝，加上平原低坝与山前长堤，覆盖349.24公顷。2019年七月六日，良渚古城遗址列入世界遗产。",
+     "en": "Five thousand years ago the Liangzhu people undertook something very large on this wetland. Their walled city covered 881.45 hectares, and beyond it lay a whole waterworks: six high dams across the valley mouths, plus low dams on the plain and a long dike along the foot of the hills, together covering 349.24 hectares. On 6 July 2019 the site was inscribed as World Heritage.",
+     "ja": "五千年前、良渚の人々はこの湿地でひどく大きな仕事に着手した。城址の面積は881・四五ヘクタール。その外側には水利の体系が広がる——谷口の高い堰が六条、平野の低い堰と山裾の長堤を合わせて349・二四ヘクタール。2019年七月六日、良渚古城遺址は世界遺産に登録された。"
+    },
+    {
+     "zh": "他们把最好的手艺留给了玉。存世的玉琮与玉璧，九成出自良渚，最大的一件琮重3.5公斤。公元前两千年前后，这套秩序断了——2021年的研究指出，几十年连绵的多雨与洪水，把城和田一起泡没了。",
+     "en": "Their finest craft went into jade. Nine-tenths of all known cong tubes and bi discs come from Liangzhu sites; the heaviest cong weighs 3.5 kg. Then, around 2000 BC, the order broke. Research published in 2021 points to decades of unusually heavy rainfall — flood after flood, until city and field went under together.",
+     "ja": "彼らの最良の技は玉に注がれた。現存する玉琮と玉璧の九割は良渚の遺跡から出ており、最大の琮は三・五キロある。そして紀元前2000年ごろ、この秩序は切れた。2021年の研究は、数十年に及ぶ多雨を指摘する。洪水がくり返され、城も田も一緒に水の下へ沈んだ。"
+    },
+    {
+     "zh": "两千五百年后，同一片水乡又立起一座城。公元前514年，吴王阖闾命伍子胥择地筑城，格局按九宫排布，就是今天的苏州。大运河通了以后，它成了东南沿海的工商与外贸重镇——水路修到哪里，繁华就长到哪里。",
+     "en": "Two and a half millennia later the same wetland raised another city. In 514 BC King Helü of Wu had Wu Zixu choose the ground and lay it out on a three-by-three grid of nine squares: that is Suzhou. Once the Grand Canal was through, it became the southeast coast's great city of industry and foreign trade. Prosperity grew wherever the waterway was dug.",
+     "ja": "二千五百年ののち、同じ水郷にもうひとつの都市が立つ。紀元前514年、呉王闔閭は伍子胥に地を選ばせ、九宮の格子に沿って城を築かせた。今日の蘇州である。大運河が通じると、蘇州は東南沿海の工商と外国貿易の大都市となった。水路の伸びたところに、繁華もまた伸びていった。"
+    }
+   ]
+  },
+  "culture": {
+   "story": [
+    {
+     "zh": "周庄的名字来自1086年——周迪功郎舍地建寺，村子就跟着姓了周。元至正十五年架起富安桥，明万历年间又添了双桥；九百年下来，镇上仍留着约六十座砖雕门楼、一百座老宅院，如今在世界遗产预备名单上排队。",
+     "en": "Zhouzhuang takes its name from 1086, when Zhou Digong gave land for a temple and the village took his surname. Fu'an Bridge went up in 1355, the Twin Bridges in the Wanli years of the Ming. Nine centuries on, the town still holds some sixty carved brick gateways and a hundred old courtyards, and it waits its turn on the World Heritage tentative list.",
+     "ja": "周荘の名は1086年に始まる。周迪功郎が寺のために土地を捨て、村はその姓を名のった。富安橋は1355年、双橋は明の万暦年間に架かる。九百年を経てなお、町にはおよそ六十の磚彫の門楼と百軒の古い中庭が残り、世界遺産の暫定リストに名を連ねて順番を待っている。"
+    },
+    {
+     "zh": "苏州把水引进了墙里。宋元以来它是丝织重镇，明代的苏州丝绸被称作「衣被天下」；织机的钱又变成假山与水池——九座古典园林在1997与2000年分两批列入世界遗产，是全世界被列名最多的园林群。",
+     "en": "Suzhou brought the water inside its walls. A silk-weaving centre since the Song and Yuan, its cloth was praised under the Ming as the clothing of the world — and loom money turned into rockeries and ponds. Nine of its classical gardens were inscribed as World Heritage in two batches, in 1997 and 2000: more listed gardens than anywhere else on earth.",
+     "ja": "蘇州は水を塀の内側まで引き入れた。宋元以来の絹織の町であり、明代の蘇州の絹は「衣被天下」と讃えられた。機織りの金は、やがて築山と池に変わる。古典園林九か所が1997年と2000年の二度に分けて世界遺産に登録された。園林として世界でもっとも多く名を刻んだ群である。"
+    },
+    {
+     "zh": "这套审美后来走得很远。西湖在2011年列入世界遗产，理由之一正是它塑造了中日韩三国的造园观——北京颐和园、东京小石川后乐园，都能看见它的影子。江南的水，最后变成了一种看世界的方式。",
+     "en": "The aesthetic travelled a long way. West Lake was inscribed in 2011 partly because it shaped garden-making across China, Japan and Korea — its shadow falls on the Summer Palace in Beijing and on Koishikawa Kōrakuen in Tokyo. In the end the water of Jiangnan became a way of looking at the world.",
+     "ja": "この美意識は、遠くまで旅をした。西湖が2011年に世界遺産となった理由のひとつは、中国・日本・朝鮮半島の作庭観をかたちづくったことにある。北京の頤和園にも、東京の小石川後楽園にも、その影は落ちている。江南の水は、やがて世界の眺めかたそのものになった。"
+    }
+   ]
+  }
+ },
+ "links": [
+  {
+   "label": {
+    "zh": "良渚古城遗址",
+    "en": "Liangzhu culture",
+    "ja": "良渚遺跡"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/良渚遗址",
+    "en": "https://en.wikipedia.org/wiki/Liangzhu_culture",
+    "ja": "https://ja.wikipedia.org/wiki/良渚遺跡"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "苏州古典园林",
+    "en": "Classical Gardens of Suzhou",
+    "ja": "蘇州古典園林"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/苏州古典园林",
+    "en": "https://en.wikipedia.org/wiki/Classical_Gardens_of_Suzhou",
+    "ja": "https://ja.wikipedia.org/wiki/蘇州古典園林"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "西湖",
+    "en": "West Lake",
+    "ja": "西湖（杭州）"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/西湖",
+    "en": "https://en.wikipedia.org/wiki/West_Lake",
+    "ja": "https://ja.wikipedia.org/wiki/西湖_(杭州市)"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Liangzhu_culture",
+  "https://zh.wikipedia.org/wiki/良渚遗址",
+  "https://en.wikipedia.org/wiki/Suzhou",
+  "https://en.wikipedia.org/wiki/Zhouzhuang",
+  "https://en.wikipedia.org/wiki/West_Lake",
+  "https://en.wikipedia.org/wiki/Yangtze_Delta",
+  "https://en.wikipedia.org/wiki/Grand_Canal_(China)"
+ ]
+}

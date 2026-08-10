@@ -1,0 +1,62 @@
+{
+ "eventId": "jinancheng",
+ "story": [
+  {
+   "zh": "郢都在江汉平原上铺得很开：东西约4.5公里，南北约3.5公里，城圈内近十六平方公里。楚人何时迁都于此，学界仍有争议，从公元前706年到前689年诸说并存，较通行的说法是楚文王于前689年徙郢。此后四百余年，楚国的号令都从这里发出。",
+   "en": "Ying spread wide across the Jianghan plain: roughly 4.5 kilometres east to west, 3.5 north to south, close to sixteen square kilometres inside its walls. Scholars still disagree on when the Chu court moved here — proposals run from 706 to 689 BC, with King Wen's removal in 689 the most widely held. For more than four centuries afterwards, Chu issued its orders from this ground.",
+   "ja": "郢は江漢平原に広く展開していた。東西およそ四・五キロ、南北およそ三・五キロ、城内は十六平方キロ近い。楚がいつここへ都を移したかについては学界になお異説があり、紀元前706年説から前689年説まで並び立つが、文王が前689年に遷ったとする説が通行している。以後四百年余、楚の号令はこの地から発せられた。"
+  },
+  {
+   "zh": "五十年代起的勘察与1975年的大规模发掘，让这座城重新有了尺寸：城墙与护城河犹存，城内探出夯土台基八十四处，其中六十一处集中在东南，当是宫殿区；另有水井四百余口与冶铸、制陶作坊遗迹。1961年，它被列入第一批全国重点文物保护单位。",
+   "en": "Survey from the 1950s and a large excavation in 1975 gave the city its measurements back. Walls and moat survive; eighty-four rammed-earth platforms were traced within, sixty-one of them clustered in the southeast where the palaces must have stood. Add more than four hundred wells and the remains of bronze foundries and pottery kilns. In 1961 the site joined China's first national list of protected monuments.",
+   "ja": "1950年代からの調査と1975年の大規模発掘が、この都に寸法を返した。城壁と濠が残り、城内には版築の台基が八十四か所、うち六十一か所が東南に集中して宮殿区をなす。井戸は四百余、鋳造や製陶の工房跡も見つかった。1961年、第一批全国重点文物保護単位に指定されている。"
+  },
+  {
+   "zh": "公元前278年，秦将白起拔郢，楚国东迁于陈。相传屈原正是在这一年写下《哀郢》，随后怀石自沉汨罗——连他的生卒年，学界至今没有定论。城废了，楚辞却留下来，成为这条江给中国文学的第一份厚礼。",
+   "en": "In 278 BC the Qin general Bai Qi took Ying and the Chu court fled east to Chen. Tradition places Qu Yuan's lament 'Grieving for Ying' in that same year, shortly before he clasped a stone and walked into the Miluo — though even his birth and death years remain unsettled. The city ended; the Songs of Chu did not, and they are this river's first great gift to Chinese literature.",
+   "ja": "紀元前278年、秦の白起が郢を陥とし、楚の宮廷は東の陳へ逃れた。屈原が「哀郢」を書いたのはこの年とされ、まもなく石を抱いて汨羅に身を投じたという——その生没年すら定説を見ない。都は滅び、『楚辞』は残った。この川が中国文学に贈った最初の贈り物である。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "楚纪南故城",
+    "en": "Jinancheng (Ying, capital of Chu)",
+    "ja": "郢（楚の都・紀南城）"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/楚纪南故城",
+    "en": "https://en.wikipedia.org/wiki/Jinancheng",
+    "ja": "https://ja.wikipedia.org/wiki/郢"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "屈原",
+    "en": "Qu Yuan",
+    "ja": "屈原"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/屈原",
+    "en": "https://en.wikipedia.org/wiki/Qu_Yuan",
+    "ja": "https://ja.wikipedia.org/wiki/屈原"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/楚纪南故城",
+  "https://en.wikipedia.org/wiki/Jinancheng",
+  "https://ja.wikipedia.org/wiki/郢",
+  "https://zh.wikipedia.org/wiki/屈原"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "locationId": "sanxingdui",
+ "facets": {
+  "history": {
+   "story": [
+    {
+     "zh": "1929年春，广汉月亮湾的村民燕道诚在自家门口清理水沟，翻出四百多件玉器。此后半个多世纪，这片土地一直沉默。直到1986年8月，两座大型祭祀坑被打开，一千七百余件青铜器、玉器、漆器、陶器，连同八十根象牙，一起重见天日。",
+     "en": "In the spring of 1929 a villager named Yan Daocheng, clearing a drainage ditch outside his door at Yueliangwan, turned up more than four hundred pieces of jade. The ground then kept its secret for half a century — until August 1986, when two great sacrificial pits were opened: over seventeen hundred bronzes, jades, lacquers and ceramics, and eighty elephant tusks.",
+     "ja": "1929年の春、広漢・月亮湾の村人、燕道誠が家の前の溝をさらっていて、四百点あまりの玉器を掘り当てました。その後この土地は半世紀ほど沈黙します。ふたたび口を開いたのは1986年8月。二基の大型祭祀坑から、青銅器・玉器・漆器・陶器が千七百点余り、象牙が八十本、まとめて姿を現しました。"
+    },
+    {
+     "zh": "坑里的东西不太像人间之物：青铜大立人通高二百六十厘米、重一百八十公斤，青铜神树高三百九十六厘米，纵目面具阔达一百三十八厘米，瞳孔像柱子一样凸出。它们大多被砸碎、焚烧之后才埋进坑里。碳十四测年指向商代晚期，距今约三千二百至三千年。",
+     "en": "What came out of the pits does not look like the work of this world. A standing bronze figure 2.6 metres tall weighing 180 kilograms; a bronze sacred tree of 3.96 metres; a mask 1.38 metres across with its pupils thrust out on stalks. Nearly all of it had been smashed and burned before burial. Radiocarbon dating places the deposits in the late Shang, some 3,200 to 3,000 years ago.",
+     "ja": "坑から出たものは、どれもこの世の造形とは思えません。青銅立人像は全高260センチ、重さ180キロ。青銅神樹は396センチ。縦目仮面は幅138センチ、瞳が柱のように突き出しています。その多くは砕かれ、焼かれてから埋められました。炭素14年代測定は殷代後期、いまから約3200〜3000年前を指します。"
+    },
+    {
+     "zh": "2021年起，三号至八号坑相继揭露，六坑共出土编号文物近一万三千件，其中较完整者三千一百五十五件。五十公里外的金沙遗址在2001年被发现，那枚直径12.5厘米、厚0.2毫米的太阳神鸟金箔，如今是中国文化遗产的标志——古蜀的都邑，只是向下游挪了一步。",
+     "en": "From 2021 six more pits, numbered three to eight, gave up close to thirteen thousand catalogued objects, of which 3,155 are reasonably intact. Fifty kilometres away the Jinsha site surfaced in 2001, and its gold foil of the sun and its four birds — 12.5 centimetres across, two tenths of a millimetre thick — is now the emblem of China's cultural heritage. The Shu capital had simply moved one step downstream.",
+     "ja": "2021年以降、三号から八号までの六坑が次々に開かれ、登録された出土品は一万三千点近く、比較的完全なものが3155点。五十キロ離れた金沙遺跡は2001年に見つかり、直径12.5センチ・厚さ0.2ミリの「太陽神鳥」金箔は、いま中国文化遺産のシンボルです。古蜀の都は、下流へ一歩ずれただけでした。"
+    }
+   ]
+  }
+ },
+ "links": [
+  {
+   "label": {
+    "zh": "三星堆遗址",
+    "en": "Sanxingdui",
+    "ja": "三星堆遺跡"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/三星堆遗址",
+    "en": "https://en.wikipedia.org/wiki/Sanxingdui",
+    "ja": "https://ja.wikipedia.org/wiki/三星堆遺跡"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "金沙遗址",
+    "en": "Jinsha site",
+    "ja": "金沙遺跡"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/金沙遗址",
+    "en": "https://en.wikipedia.org/wiki/Jinsha_site",
+    "ja": "https://ja.wikipedia.org/wiki/金沙遺跡"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Sanxingdui",
+  "https://zh.wikipedia.org/wiki/三星堆遗址",
+  "https://ja.wikipedia.org/wiki/三星堆遺跡",
+  "https://zh.wikipedia.org/wiki/金沙遗址",
+  "https://en.wikipedia.org/wiki/Jinsha_site"
+ ]
+}

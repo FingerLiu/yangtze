@@ -130,6 +130,11 @@ const baseLocations: RiverLocation[] = [
             'Deep gorges and rapids, where landforms meet an active seismic belt',
             '深い峡谷と急流。地形と地震帯が絡み合う場所',
           ),
+          l(
+            '世界甜荞的野生祖先，就长在这一带的岩壁与路边',
+            'The wild ancestor of the world’s buckwheat grows on these cliffs and roadsides',
+            '世界のソバの野生祖先が、この一帯の岩壁と道端に生えています',
+          ),
         ],
         meaning: l(
           '中国地形三级阶梯之间最剧烈的落差，都写在这段江上。',

@@ -1,0 +1,43 @@
+{
+ "eventId": "baihetan",
+ "story": [
+  {
+   "zh": "坝址跨云南巧家与四川宁南，横在金沙江干流上。混凝土双曲拱坝坝顶高程八百三十四米，最大坝高二百八十九米。2008年12月开工，2021年6月28日首批机组投产，2022年12月20日十六台机组全部并网。",
+   "en": "The dam straddles Qiaojia in Yunnan and Ningnan in Sichuan, set across the main stem of the Jinsha. Its concrete double-curvature arch rises to a crest 834 metres above sea level, 289 metres at its greatest height. Construction started in December 2008; the first units came online on 28 June 2021, and all sixteen were on the grid by 20 December 2022.",
+   "ja": "堤址は雲南省巧家県と四川省寧南県にまたがり、金沙江本流を横切っている。コンクリート二重アーチダムの堤頂標高は八百三十四メートル、最大堤高は二百八十九メートル。2008年十二月着工、二一年六月二十八日に初号機群が営業運転に入り、二二年十二月二十日に十六台すべてが系統に並んだ。"
+  },
+  {
+   "zh": "左右岸地下厂房各安八台，单机容量一百万千瓦——世界上第一台百万千瓦级水轮发电机组在这里转起来。总装机一千六百万千瓦，仅次于三峡。一台机组的容量，就抵得上一座中型电站。",
+   "en": "Eight units sit in the underground powerhouse on each bank, each rated at 1,000 MW — the first gigawatt-class hydro turbine-generators in the world turn here. Total installed capacity is 16,000 MW, second only to the Three Gorges. A single unit is the equal of a medium-sized power station.",
+   "ja": "左右両岸の地下発電所に八台ずつ、単機出力はいずれも百万キロワット。世界で初めて一ギガワット級の水車発電機がここで回りはじめた。総出力千六百万キロワットは三峡に次ぐ規模で、たった一台が中規模の発電所一つ分に相当する。"
+  },
+  {
+   "zh": "从1981年葛洲坝那台十七万千瓦的机组，到白鹤滩的一百万千瓦，四十年间单机容量翻了近六倍。长江上游的落差就这样被一级一级换成电流，沿高压线离开峡谷，流向两千公里外的江南。",
+   "en": "From Gezhouba's 170 MW unit in 1981 to Baihetan's 1,000 MW, unit size grew almost sixfold in forty years. Step by step the fall of the upper Yangtze is converted into current, which leaves the gorges on transmission lines and travels two thousand kilometres to the delta the river itself built.",
+   "ja": "1981年、葛洲ダムで回りはじめた十七万キロワット機から、白鶴灘の百万キロワット機まで、四十年で単機容量はおよそ六倍になった。長江上流の落差は一段ずつ電流へと換えられ、送電線に乗って峡谷を離れ、二千キロ先の江南へ流れてゆく。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "白鹤滩水电站",
+    "en": "Baihetan Dam",
+    "ja": "白鶴灘ダム"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/白鹤滩水电站",
+    "en": "https://en.wikipedia.org/wiki/Baihetan_Dam"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/白鹤滩水电站",
+  "https://en.wikipedia.org/wiki/Baihetan_Dam",
+  "https://zh.wikipedia.org/wiki/葛洲坝水利枢纽"
+ ]
+}

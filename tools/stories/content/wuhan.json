@@ -1,0 +1,126 @@
+{
+ "locationId": "wuhan",
+ "facets": {
+  "nature": {
+   "story": [
+    {
+     "zh": "汉水在龟山脚下注入长江，一刀把城切成三块：汉口、汉阳、武昌。全市水域两千两百多平方公里，占市域四分之一强，其中湖泊八百余平方公里；大小湖泊一百六十六个，仅中心城区就占四十三个，「百湖之市」并非夸口。",
+     "en": "The Han River joins the Yangtze under Tortoise Hill and cuts the city into three: Hankou, Hanyang, Wuchang. Water covers more than a quarter of Wuhan — over 2,200 square kilometres, of which some 800 are lake. There are 166 of them, 43 inside the central districts alone. \"City of a hundred lakes\" is if anything an undercount.",
+     "ja": "漢水は亀山のふもとで長江に合流し、街を一刀のもとに三つに分ける——漢口・漢陽・武昌。市域の四分の一を超える2200平方キロ余りが水面で、うち湖沼が800平方キロ。大小あわせて166の湖があり、中心市街だけでも四三を数える。「百湖の市」は誇張ではない。"
+    },
+    {
+     "zh": "这些湖多半是长江自己留下的：主泓摆动、泥沙封口，旧河道就成了湖。东湖水域三十三平方公里，岸线115.5公里；1899至1902年张之洞在此修堤建闸，才把东湖与周边湖群同长江彻底分开，水患不再顺江直灌。",
+     "en": "Most of them were made by the river itself: the main channel wandered, silt sealed an old bend, and what was left behind became a lake. East Lake covers 33 square kilometres with 115.5 kilometres of shore; only when Zhang Zhidong built dykes and sluices between 1899 and 1902 was it, with the lakes around it, finally severed from the Yangtze — and the floods stopped coming in through the front door.",
+     "ja": "その多くは長江自身がこしらえたものだ。本流が振れ、土砂が旧河道の口を塞ぎ、取り残された水がそのまま湖になる。東湖は水面三三平方キロ、岸線115・五キロ。1899年から1902年にかけて張之洞が堤と水門を築き、周囲の湖群ともども、ようやく長江から切り離された。"
+    },
+    {
+     "zh": "分开不等于无事。1954年6月至9月的长江大水，汉口水位最高涨到29.73米，那场洪灾造成约三万三千人死亡。城市从此在堤后过日子：堤外是江，堤内是湖。武汉人对水的亲和与警惕，其实是同一件事的两面。",
+     "en": "Severed is not the same as safe. From June to September 1954 the flood peaked at 29.73 metres on the Hankou gauge; around 33,000 people died. Ever since, the city has lived behind its embankment, the river on one side and the lakes on the other. Wuhan's ease with water and its wariness of water are the same habit seen from two angles.",
+     "ja": "切り離すことと安全であることは別だ。1954年6月から9月の大水では、漢口の水位が二九・七三メートルに達し、この洪水で約三万三千人が亡くなった。以来、街は堤の内側で暮らしている。堤の外は川、内は湖。武漢の人の水への親しみと警戒は、同じ習性の裏表である。"
+    }
+   ]
+  },
+  "history": {
+   "story": [
+    {
+     "zh": "1891年8月，张之洞在汉阳龟山下动工兴建铁厂，1893年10月竣工，次年5月首次开炉炼铁。全厂六大厂四小厂，实支银约五百万两；它比日本八幡制铁所早了七年，是中国乃至亚洲第一家现代化钢铁企业。",
+     "en": "In August 1891 Zhang Zhidong broke ground for an ironworks under Tortoise Hill in Hanyang. It was finished in October 1893 and first tapped iron in May 1894 — six large shops and four small ones, some five million taels of silver. It beat Japan's Yawata works by seven years and was the first modern steel enterprise in China, or anywhere in Asia.",
+     "ja": "1891年8月、張之洞は漢陽の亀山のふもとで製鉄所の建設に着工した。1893年10月に竣工、翌年5月に初めて火が入る。大工場六・小工場四、費やした銀は約五百万両。日本の八幡製鉄所より七年早い、中国そしてアジア初の近代製鉄所だった。"
+    },
+    {
+     "zh": "1908年3月，汉阳铁厂与大冶铁矿、萍乡煤矿合组汉冶萍公司，成为当时亚洲最大的钢铁联合企业；同一片厂区还出过闻名半个世纪的「汉阳造」步枪。1911年10月10日夜，武昌城头枪响，两千年的王朝就倒在这座工业新城旁边。",
+     "en": "In March 1908 the ironworks merged with the Daye iron mines and the Pingxiang collieries to form Hanyeping, then the largest integrated steel enterprise in Asia. The same industrial belt turned out the \"Hanyang made\" rifle. On the night of 10 October 1911 shots rang out on the Wuchang wall, and two thousand years of dynastic rule came down beside the new factories.",
+     "ja": "1908年3月、漢陽製鉄所は大冶鉄鉱・萍郷炭鉱と合併して漢冶萍公司となり、当時アジア最大の鉄鋼コンビナートとなる。同じ一帯は半世紀にわたって知られた「漢陽造」の小銃も生んだ。1911年10月10日の夜、武昌の城頭で銃声が上がり、二千年の王朝はこの新しい工業都市のかたわらで倒れた。"
+    },
+    {
+     "zh": "1955年9月1日，武汉长江大桥在龟山与蛇山之间打下第一根桩，1957年10月15日通车。全长一千六百七十米，上层四车道公路，下层双线京广铁路。在此之前，长江上没有一座桥，南北列车只能靠轮渡摆过江去。",
+     "en": "On 1 September 1955 the first pile went in between Tortoise Hill in Hanyang and Snake Hill in Wuchang; on 15 October 1957 the Wuhan Yangtze River Bridge opened — 1,670 metres, four lanes of road above, the double track of the Beijing–Guangzhou line below. Until then not one bridge crossed the Yangtze, and north–south trains had to be ferried over the water.",
+     "ja": "1955年9月1日、漢陽の亀山と武昌の蛇山のあいだに最初の杭が打たれ、1957年10月15日、武漢長江大橋が開通した。全長1670メートル、上層は四車線の道路、下層は京広線の複線。それまで長江に橋は一本もなく、南北の列車は渡船で運ばれるほかなかった。"
+    }
+   ]
+  },
+  "culture": {
+   "story": [
+    {
+     "zh": "黄鹤楼始建于吴黄武二年（223年），原在夏口以西的矶头，本是瞭望江面的军事之所。明清两代它毁了十二次、修了十次；今天蛇山上的楼是1981至1985年重建的，高51.4米，离最初的位置约一公里。",
+     "en": "The Yellow Crane Tower was first raised in AD 223 under Eastern Wu, on a jetty west of Xiakou, as a place to watch the river for enemies. Through the Ming and Qing it was destroyed twelve times and repaired ten. The tower on Snake Hill today went up between 1981 and 1985, 51.4 metres tall, about a kilometre from where it began.",
+     "ja": "黄鶴楼が最初に建てられたのは呉の黄武二年（223年）、夏口の西の磯の上で、もとは川面を見張る軍事の楼だった。明清の間に十二度失われ、十度建て直された。いま蛇山に立つ楼は1981年から1985年の再建で、高さ五一・四メートル、最初の場所から約一キロ離れている。"
+    },
+    {
+     "zh": "楼能一次次立起来，是因为诗一直在。崔颢写「黄鹤一去不复返，白云千载空悠悠」；李白在此送孟浩然东下，留下「烟花三月下扬州」。一座反复烧毁的木楼，靠两首诗，在中国人的地图上从未缺席。",
+     "en": "It kept being rebuilt because the poems never left. Cui Hao wrote that the yellow crane, once gone, never returns, leaving a thousand years of idle cloud; Li Bai saw Meng Haoran off from here into the mist and blossom of the third month, bound downriver for Yangzhou. A wooden tower that kept burning down has never once slipped off the Chinese map.",
+     "ja": "楼が何度も立ち上がったのは、詩が去らなかったからだ。崔顥は「黄鶴一たび去りて復た返らず、白雲千載空しく悠悠」と詠み、李白はここで孟浩然を送って「煙花三月揚州に下る」と書いた。焼け落ちつづけた木造の楼が、中国人の地図から消えたことは一度もない。"
+    },
+    {
+     "zh": "1861年春，汉口开埠设租界，很快与九江、福州并列为中国三大茶市。码头招来了脚夫、船工与茶栈掌柜，也定下了这座城市说话的调门。今天的「过早」摊子、岸边的吆喝、桥下乘凉的人，都还走在那套码头节奏上。",
+     "en": "In the spring of 1861 Hankou was opened to foreign trade and a concession laid out; it soon stood with Jiujiang and Fuzhou as one of China's three great tea markets. The wharves brought porters, boat crews and tea brokers — and with them the pitch at which this city talks. The breakfast stalls, the shouting along the quay, the people taking the river breeze under the bridge: all of it still runs on dock time.",
+     "ja": "1861年春、漢口が開港して租界が置かれ、まもなく九江・福州と並ぶ中国三大茶市のひとつとなる。埠頭は荷役人夫と船乗りと茶問屋を呼び寄せ、この街の話しぶりの高さまで連れてきた。朝の「過早」の屋台、岸辺の呼び声、橋の下で川風に当たる人々——すべてがいまも埠頭の時間で動いている。"
+    }
+   ]
+  }
+ },
+ "links": [
+  {
+   "label": {
+    "zh": "武汉市",
+    "en": "Wuhan",
+    "ja": "武漢市"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/武汉市",
+    "en": "https://en.wikipedia.org/wiki/Wuhan",
+    "ja": "https://ja.wikipedia.org/wiki/武漢市"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "黄鹤楼",
+    "en": "Yellow Crane Tower",
+    "ja": "黄鶴楼"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/黄鹤楼",
+    "en": "https://en.wikipedia.org/wiki/Yellow_Crane_Tower",
+    "ja": "https://ja.wikipedia.org/wiki/黄鶴楼"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "武汉长江大桥",
+    "en": "Wuhan Yangtze River Bridge",
+    "ja": "武漢長江大橋"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/武汉长江大桥",
+    "en": "https://en.wikipedia.org/wiki/Wuhan_Yangtze_River_Bridge",
+    "ja": "https://ja.wikipedia.org/wiki/武漢長江大橋"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Wuhan",
+  "https://zh.wikipedia.org/wiki/武汉市",
+  "https://zh.wikipedia.org/wiki/东湖_(武汉)",
+  "https://en.wikipedia.org/wiki/1954_Yangtze_River_floods",
+  "https://zh.wikipedia.org/wiki/汉阳铁厂",
+  "https://en.wikipedia.org/wiki/Hanyang_Arsenal",
+  "https://en.wikipedia.org/wiki/Wuhan_Yangtze_River_Bridge",
+  "https://en.wikipedia.org/wiki/Yellow_Crane_Tower",
+  "https://en.wikipedia.org/wiki/Jiujiang"
+ ]
+}

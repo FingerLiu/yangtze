@@ -1,0 +1,74 @@
+{
+ "eventId": "hanyang",
+ "story": [
+  {
+   "zh": "1890年5月清廷批准兴建，次年8月在汉阳龟山脚下动工，1893年10月22日竣工，1894年5月流出第一炉铁水。它比日本八幡制铁所早了七年，是中国乃至亚洲第一家现代化钢铁企业——从选矿到炼钢，全套设备从海上运来，装在长江边的滩涂上。",
+   "en": "The court approved the works in May 1890; ground was broken at the foot of Guishan hill in Hanyang in August 1891; construction finished on 22 October 1893, and the first iron ran in May 1894. It preceded Japan's Yawata Works by seven years — the first modern iron and steel enterprise in China, and in Asia. Every machine came by sea and was set down on a mudbank beside the Yangtze.",
+   "ja": "1890年五月に清朝が建設を裁可し、翌年八月、漢陽の亀山の麓で鍬入れ。九三年十月二十二日に竣工し、九四年五月、最初の湯が流れた。日本の八幡製鉄所より七年早く、中国のみならずアジア初の近代製鉄企業である。選鉱から製鋼まで一式の機械が海を渡り、長江のほとりの砂州に据えられた。"
+  },
+  {
+   "zh": "官办撑不住，1896年4月改为官督商办，盛宣怀接手；1908年3月26日与大冶铁矿、萍乡煤矿合并，组成汉冶萍煤铁厂矿有限公司。铁矿在下游，煤在南边，钢在江边——三样东西被同一条水道串成一条产业链。辛亥革命前夕，年产钢七万吨，占全国产量九成。",
+   "en": "State management could not carry it. In April 1896 it passed to merchant operation under official supervision, with Sheng Xuanhuai in charge; on 26 March 1908 it merged with the Daye iron mine and the Pingxiang colliery to form the Hanyeping Coal and Iron Company. Ore downstream, coal to the south, steel on the riverbank — one waterway threaded them into a single industry. On the eve of the 1911 Revolution it made 70,000 tonnes of steel a year, about ninety per cent of the national output.",
+   "ja": "官営では支えきれず、1896年四月に官督商辦へ移り、盛宣懐が引き受ける。1908年三月二十六日には大冶鉄鉱・萍郷炭鉱と合併し、漢冶萍煤鉄廠鉱有限公司が生まれた。鉄鉱は下流、石炭は南、鋼は川辺——三つを一本の水路が産業に縫い合わせる。辛亥革命前夜、年産鋼七万トン、全国生産の九割を占めた。"
+  },
+  {
+   "zh": "同一年张之洞还奏准设立湖北枪炮厂。后来的「汉阳造」以德国Gewehr 88为蓝本，1895年至1944年间造出一百零八万余支，从辛亥首义一直打到抗战。江边这一炉铁，最终铸成了半个世纪的枪。",
+   "en": "In that same year Zhang Zhidong also won approval for the Hubei Arsenal. Its rifle, the \"Hanyang made\", was patterned on the German Gewehr 88; some 1,083,480 were built between 1895 and 1944, carried from the first shots of the 1911 Revolution to the war against Japan. One furnace on the riverbank ended up casting half a century of rifles.",
+   "ja": "同じ年、張之洞は湖北銃砲廠の設立も奏准させている。のちの「漢陽造」はドイツのGewehr 88を原型とし、1895年から1944年までにおよそ百八万三千挺が造られ、辛亥の最初の一撃から抗日戦までを渡り歩いた。川辺の一炉の鉄が、やがて半世紀分の銃になったのである。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "汉阳铁厂",
+    "en": "Hanyang Ironworks",
+    "ja": "漢陽製鉄所"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/汉阳铁厂"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "汉冶萍公司",
+    "en": "Hanyeping Coal and Iron Company",
+    "ja": "漢冶萍公司"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/汉冶萍公司",
+    "ja": "https://ja.wikipedia.org/wiki/漢冶萍公司"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "汉阳造步枪",
+    "en": "Hanyang 88 rifle",
+    "ja": "漢陽八八式歩槍"
+   },
+   "href": {
+    "en": "https://en.wikipedia.org/wiki/Hanyang_88"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/汉阳铁厂",
+  "https://zh.wikipedia.org/wiki/汉阳兵工厂",
+  "https://en.wikipedia.org/wiki/Hanyang_Arsenal",
+  "https://en.wikipedia.org/wiki/Hanyang_88"
+ ]
+}

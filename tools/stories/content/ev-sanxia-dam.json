@@ -1,0 +1,59 @@
+{
+ "eventId": "sanxia-dam",
+ "story": [
+  {
+   "zh": "工期是一段很长的倒计时：1994年12月14日正式开工，1997年11月8日大江截流，2002年11月6日导流明渠截流，2003年7月10日首台机组并网。2006年5月20日，全长二千三百三十五米的坝体浇筑到海拔一百八十五米设计高程，大坝全线建成。",
+   "en": "The schedule reads like a long countdown: work formally began on 14 December 1994; the main channel was closed on 8 November 1997; the diversion channel on 6 November 2002; the first generator went onto the grid on 10 July 2003. On 20 May 2006 the 2,335-metre dam wall reached its design crest of 185 metres above sea level and stood complete along its whole length.",
+   "ja": "工程表は長いカウントダウンのようだ。1994年十二月十四日に正式着工、九七年十一月八日に本流締切、2002年十一月六日に導流明渠締切、〇三年七月十日に初号機が系統連系。そして〇六年五月二十日、全長二千三百三十五メートルの堤体が標高百八十五メートルの設計高に達し、ダムは全線で姿を現した。"
+  },
+  {
+   "zh": "三十二台七十万千瓦机组加两台五万千瓦，总装机二千二百五十万千瓦，2012年7月4日全部投产。2020年全年发电一千一百一十八亿千瓦时，刷新伊泰普保持的世界纪录。防洪库容221.5亿立方米，正常蓄水位一百七十五米，2010年10月26日首次蓄到这个高度。",
+   "en": "Thirty-two 700 MW turbines plus two 50 MW station units give 22,500 MW installed; the last came online on 4 July 2012. In 2020 the plant generated 111.8 TWh, breaking Itaipu's world record. Its flood-storage volume is 22.15 billion cubic metres, its normal pool level 175 metres — first reached on 26 October 2010.",
+   "ja": "七十万キロワット機三十二台に五万キロワット機二台を加え、総出力二千二百五十万キロワット。全機が動き出したのは2012年七月四日である。二〇年の年間発電量は千百十八億キロワット時に達し、イタイプの世界記録を塗り替えた。洪水調節容量は二百二十一・五億立方メートル、常時満水位は百七十五メートル、初めてそこまで湛えたのは一〇年十月二十六日だった。"
+  },
+  {
+   "zh": "代价与收获同样具体：百万余人离开故乡；双线五级船闸年通过能力五千万吨，升船机可载三千吨级船舶，一次翻坝三四十分钟。从都江堰「低作堰」的不筑坝，到三峡一百八十五米的高程，中国人对同一条江给出了两种截然不同的答案。",
+   "en": "The costs and the gains are equally concrete: over a million people left home; the twin five-stage locks pass 50 million tonnes a year, and the ship lift raises vessels of up to 3,000 tonnes over the dam in thirty to forty minutes. From Dujiangyan's refusal to build a dam at all — \"keep the weirs low\" — to a crest at 185 metres, the Chinese have given the same river two utterly different answers.",
+   "ja": "代償も恩恵も、同じだけ具体的である。百万を超える人が故郷を離れた。複線五段の閘門は年間五千万トンを通し、昇船機は三千トン級の船を三、四十分で堤の向こうへ運ぶ。ダムを築かず「堰は低く」と説いた都江堰から、標高百八十五メートルの堤頂まで——中国人は同じ一本の川に、まったく異なる二つの答えを出したのだ。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "三峡大坝",
+    "en": "Three Gorges Dam",
+    "ja": "三峡ダム"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/三峡大坝",
+    "en": "https://en.wikipedia.org/wiki/Three_Gorges_Dam",
+    "ja": "https://ja.wikipedia.org/wiki/三峡ダム"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "三峡大坝主体工程全线竣工（2006）",
+    "en": "Dam wall completed, 20 May 2006",
+    "ja": "堤体全線完成（2006年5月20日）"
+   },
+   "href": {
+    "zh": "https://www.12371.cn/2021/05/20/VIDE1621467001583651.shtml"
+   },
+   "source": {
+    "zh": "共产党员网",
+    "en": "12371.cn",
+    "ja": "12371.cn"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/三峡大坝",
+  "https://en.wikipedia.org/wiki/Three_Gorges_Dam",
+  "https://www.12371.cn/2021/05/20/VIDE1621467001583651.shtml"
+ ]
+}

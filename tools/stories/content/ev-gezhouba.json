@@ -1,0 +1,43 @@
+{
+ "eventId": "gezhouba",
+ "story": [
+  {
+   "zh": "1970年12月30日在宜昌开工。最大坝高只有四十七米，全长却有2606.5米——它不高，横得很长，像一道把江面按住的手。1981年1月4日大江截流合龙，同年7月30日凌晨一时零六分，二江电厂1号十七万千瓦机组并网试发电。",
+   "en": "Ground was broken at Yichang on 30 December 1970. Its greatest height is only 47 metres, but it runs 2,606.5 metres from bank to bank — not tall, just very wide, like a hand laid flat across the river. The main channel was closed on 4 January 1981, and at 1:06 a.m. on 30 July that year the first 170 MW unit of the Erjiang plant went onto the grid.",
+   "ja": "1970年十二月三十日、宜昌で着工した。最大堤高はわずか四十七メートル、しかし全長は二千六百六・五メートル。高くはなく、ただひたすら横に長い。川面を押さえつける掌のようだ。八一年一月四日に本流の締切に成功し、同年七月三十日午前一時六分、二江発電所一号機（十七万キロワット）が系統に並んだ。"
+  },
+  {
+   "zh": "全厂二十一台机组（两台十七万、十九台12.5万千瓦），装机271.5万千瓦，后经增容至277.7万。三座船闸中的二号闸室长二百八十米、宽三十四米，一次可过万吨级船队。1988年底工程基本建成，1991年11月27日大江工程通过国家竣工验收。",
+   "en": "Twenty-one units in all — two of 170 MW and nineteen of 125 MW — for 2,715 MW installed, later uprated to 2,777 MW. Of its three navigation locks, No. 2 has a chamber 280 metres long and 34 metres wide and can pass a ten-thousand-tonne convoy in one lift. The works were substantially complete by the end of 1988; the main-channel project passed state acceptance on 27 November 1991.",
+   "ja": "発電機は二十一台（十七万キロワット二台、十二・五万キロワット十九台）、総出力二百七十一・五万キロワット、のちに二百七十七・七万まで増強された。三つの閘門のうち二号閘は長さ二百八十メートル、幅三十四メートル、一万トン級の船団を一度に通す。八八年末には工事がほぼ完了し、九一年十一月二十七日、本流工事が国家竣工検査に合格した。"
+  },
+  {
+   "zh": "它真正的分量不在发电量，而在「先试一遍」。大江截流、万吨级船闸、大容量机组、泥沙过坝——所有没把握的题目，都在这里做了一遍草稿。「万里长江第一坝」的意思不只是第一座，也是第一课。上游的三峡，是它的下一步。",
+   "en": "Its real weight is not in the electricity but in the rehearsal. Closing a live channel, a lock for ten-thousand-tonne convoys, large units, sediment passing the dam — every question nobody was sure of got a first draft here. \"The first dam on the ten-thousand-li Yangtze\" means not only the first built, but the first lesson. The Three Gorges, upstream, was the next step.",
+   "ja": "この工事の重みは発電量ではなく、「まず一度やってみた」ことにある。本流の締切、一万トン級の閘門、大容量機、土砂の通過——確信の持てなかった問題のすべてが、ここで下書きされた。「万里長江第一のダム」とは、最初に建った、というだけでなく、最初の授業でもあったということだ。次の一歩が上流の三峡である。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "葛洲坝水利枢纽",
+    "en": "Gezhouba Dam",
+    "ja": "葛洲ダム"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/葛洲坝水利枢纽",
+    "en": "https://en.wikipedia.org/wiki/Gezhouba_Dam",
+    "ja": "https://ja.wikipedia.org/wiki/葛洲ダム"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/葛洲坝水利枢纽",
+  "https://en.wikipedia.org/wiki/Gezhouba_Dam"
+ ]
+}

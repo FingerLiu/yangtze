@@ -1,0 +1,75 @@
+{
+ "eventId": "sushi",
+ "story": [
+  {
+   "zh": "元丰七年六月，苏轼自黄州量移汝州，顺道送长子苏迈去饶州德兴县赴任，父子的船在湖口停下。石钟山正立在鄱阳湖注入长江的那个口子上，分上下两座，合称「双钟」。山名何来，前人已有两说：郦道元谓水石相搏、声如洪钟，李渤谓敲石有声。",
+   "en": "In the sixth month of 1084 Su Shi, transferred from Huangzhou to Ruzhou, took the chance to escort his eldest son Su Mai to a magistracy at Dexing. Their boat stopped at Hukou. Stone Bell Hill stands exactly where Poyang Lake pours into the Yangtze — two hills, upper and lower, called the Twin Bells. Two explanations of the name were already on the books: Li Daoyuan's, that water striking rock rings like a great bell; Li Bo's, that the stones sound when struck.",
+   "ja": "元豊七年（1084年）六月、蘇軾は黄州から汝州へ移される道すがら、長男の蘇邁を饒州徳興県の県尉に送っていった。父子の舟は湖口に停まる。石鐘山は鄱陽湖が長江に注ぎ込む、まさにその口に立ち、上下二つの山からなって「双鐘」と呼ばれた。名の由来には先人の二説がある。酈道元は水と石がぶつかって洪鐘のごとく鳴るのだといい、李渤は石を叩けば音がするのだといった。"
+  },
+  {
+   "zh": "苏轼两说都不信。他等到夜里，乘小舟到绝壁之下——那是白天没人愿意去的地方——听见山下石穴石缝吞吐风浪，噌吰如钟鼓不绝。于是他写下那句话：事不目见耳闻，而臆断其有无，可乎？",
+   "en": "Su Shi believed neither. He waited for night and took a small boat in under the sheer cliff — where nobody goes by daylight — and heard the caves and fissures at the waterline swallowing and spitting the swell, booming on like bells and drums. Then he wrote the sentence: to judge whether a thing exists without seeing it with your own eyes and hearing it with your own ears — can that be done?",
+   "ja": "蘇軾はどちらも信じなかった。夜を待ち、小舟で絶壁の真下まで漕ぎ寄せる——昼には誰も行かない場所である。すると水際の洞や裂け目が波を呑んでは吐き、鐘鼓のように鳴りやまない。そこで彼はあの一句を書いた。目で見ず耳で聞かずに、有る無しを臆断してよいものか、と。"
+  },
+  {
+   "zh": "有意思的是，他也未必对。后世又有人提出山形如覆钟之说，以及溶洞共鸣之说，争论至今没停。但《石钟山记》真正留下的不是答案，而是一种姿态：与其在书上辩，不如夜半划一条小船，去水边亲耳听一听。",
+   "en": "The interesting part is that he may have been wrong too. Later writers proposed that the hill is simply shaped like an upturned bell, or that limestone caverns do the resonating; the argument has never quite closed. What the essay really left behind is not an answer but a posture: rather than argue from books, row out at midnight and listen for yourself.",
+   "ja": "面白いのは、蘇軾もまた正しいとは限らないことだ。のちに、山の形が伏せた鐘に似ているからだという説や、鍾乳洞の共鳴だという説が現れ、議論はいまだ閉じていない。『石鐘山記』が残したのは答えではなく姿勢である。書物の上で争うより、夜半に小舟を出し、自分の耳で聴け。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "石钟山记",
+    "en": "\"Record of Stone Bell Hill\"",
+    "ja": "「石鐘山記」"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/石钟山记"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "石钟山",
+    "en": "Stone Bell Hill",
+    "ja": "石鐘山"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/石钟山"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "苏轼",
+    "en": "Su Shi",
+    "ja": "蘇軾"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/苏轼",
+    "en": "https://en.wikipedia.org/wiki/Su_Shi",
+    "ja": "https://ja.wikipedia.org/wiki/蘇軾"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/石钟山记",
+  "https://zh.wikipedia.org/wiki/石钟山",
+  "https://en.wikipedia.org/wiki/Su_Shi",
+  "https://www.gushiwen.cn/shiwenv.aspx?id=c72161f552bb"
+ ]
+}

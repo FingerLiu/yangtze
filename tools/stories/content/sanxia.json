@@ -1,0 +1,84 @@
+{
+  "locationId": "sanxia",
+  "facets": {
+    "nature": {
+      "story": [
+        {
+          "zh": "三峡从奉节的白帝城起，到宜昌的南津关止，全长一百九十三公里。最前面的瞿塘峡只有八公里，是三段中最短的一段，江面最窄处不到一百米，最宽也不过一百五十米。峡口赤甲、白盐两山对峙，那就是夔门。",
+          "en": "The Three Gorges run 193 kilometres, from Baidicheng at Fengjie in the west to Nanjin Pass at Yichang in the east. Qutang, the first and shortest, is only eight kilometres long; at its narrowest the water squeezes under a hundred metres wide and nowhere exceeds a hundred and fifty. At its western mouth the peaks of Chijia and Baiyan face each other across the current — this is Kuimen, the Kui Gate.",
+          "ja": "三峡は奉節の白帝城に始まり、宜昌の南津関で終わる、全長193キロの区間です。先頭の瞿塘峡はわずか8キロ、三峡でもっとも短い。川幅は狭いところで100メートルを切り、広くても150メートルを超えません。西の入口では赤甲山と白塩山が向かい合います。これが夔門です。"
+        },
+        {
+          "zh": "往东是巫峡，四十五公里，自大宁河口到官渡口。两岸巫山十二峰错落而立，其中神女峰最负盛名。再往东的西陵峡最长，滩多水急，兵书宝剑峡、牛肝马肺峡、黄牛峡、灯影峡，名字都是照着山石的形状叫出来的。",
+          "en": "Then comes Wu Gorge, forty-five kilometres from the mouth of the Daning River to Guandukou, the Twelve Peaks of Wushan ranged along both banks with the Goddess Peak the most celebrated among them. Xiling, furthest east, is the longest and the most feared, full of shoals and fast water; its reaches were named for what the rock resembled — Book and Sword, Ox Liver and Horse Lung, Yellow Ox, Lamp Shadow.",
+          "ja": "東へ進むと巫峡、大寧河口から官渡口までの45キロ。両岸には巫山十二峰が連なり、なかでも神女峰がもっとも名高い峰です。さらに東の西陵峡は三峡で最も長く、瀬が多く流れも速い。兵書宝剣峡、牛肝馬肺峡、黄牛峡、灯影峡——名はどれも岩の見た目から付けられました。"
+        },
+        {
+          "zh": "2003年6月，三峡水库首次蓄水到坝前一百三十五米；2010年10月26日抬升到一百七十五米。岩壁没有变，脚下的水位却整体抬高了——今天从船上看见的三峡，与李白顺流而下时看见的，已不是同一条江面。",
+          "en": "In June 2003 the new reservoir first rose to 135 metres at the dam; on 26 October 2010 it reached 175. The cliffs are unchanged, but the water beneath them stands higher and moves slower. The gorges seen from a deck today are not the same river surface Li Bai went down.",
+          "ja": "2003年6月、三峡ダムの貯水位はまず135メートルに達し、2010年10月26日には175メートルまで上がりました。岩壁は変わりません。ただ足もとの水面が、そっくり持ち上がったのです。いま船上から望む三峡は、李白が下っていったときの川面とは、もう別のものです。"
+        }
+      ]
+    },
+    "history": {
+      "story": [
+        {
+          "zh": "公元25年，公孙述在蜀自立为天子，国号成家，并自号\"白帝\"，鱼复的这座山城因此得名白帝城。近两百年后的章武三年（223年）二月，刘备在此把儿子和蜀汉一并托付给诸葛亮。一座关隘，先后收留了一个野心和一场败局。",
+          "en": "In 25 CE the warlord Gongsun Shu declared himself Son of Heaven in Shu under the dynastic name Chengjia and took the style \"White Emperor\"; the fortress above Yufu has carried his title ever since. Nearly two centuries later, in the second month of 223, Liu Bei lay here and handed his son — and his kingdom — to Zhuge Liang. One narrow gate, keeping first an ambition and then a defeat.",
+          "ja": "西暦25年、公孫述が蜀で天子を称し、国号を成家と定め、みずから「白帝」と号しました。魚復の山城が白帝城と呼ばれるのは、この名に由来します。それから二百年近くのち、章武三年（223年）二月、劉備はここで我が子と蜀漢を諸葛亮に託しました。ひとつの関所が、野心と敗北を続けざまに受け止めたのです。"
+        },
+        {
+          "zh": "759年春，五十八岁的李白因永王之案被流放夜郎，行至三峡遇赦。他掉头东下，写出\"朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山\"。同一段激流，此前是天险，那个早晨成了自由的速度。",
+          "en": "In the spring of 759 Li Bai, fifty-eight and banished to Yelang over the Prince of Yong affair, met his pardon in the gorges. He turned his boat about and ran downstream: at dawn he left Baidi among coloured clouds, a thousand li to Jiangling in a single day, gibbons crying on both banks — and his skiff had already passed ten thousand hills. The same rapids that had been a terror became, for one morning, the speed of being free.",
+          "ja": "759年の春、永王の一件で夜郎へ流されていた58歳の李白は、三峡の途上で赦免に出会います。舟を返して流れを下りながら詠んだのが——「朝に辞す白帝彩雲の間、千里の江陵一日にして還る。両岸の猿声啼いて住まざるに、軽舟已に過ぐ万重の山」。長く難所であった急流が、その朝だけは自由の速さになりました。"
+        },
+        {
+          "zh": "1994年12月14日，三峡工程开工；2006年5月20日大坝主体完工。三十二台七十万千瓦机组合计二千二百五十万千瓦，2012年7月4日最后一台并网；2020年全年发电一千一百一十八亿千瓦时。而白帝城自2003年蓄水后四面临水，成了江心的一座岛。",
+          "en": "Ground was broken for the Three Gorges Project on 14 December 1994; the main dam was finished on 20 May 2006. Thirty-two turbines of 700 megawatts make 22,500 in all, the last of them joining the grid on 4 July 2012; in 2020 the station generated 111.8 terawatt-hours. Baidicheng, meanwhile, has been ringed by water since the reservoir filled in 2003 — the old hill is now an island in the river.",
+          "ja": "1994年12月14日、三峡プロジェクトが着工。2006年5月20日に本体が完成しました。70万キロワットの水車発電機32基で総出力2250万キロワット、最後の1基は2012年7月4日に系統へつながり、2020年には1118億キロワット時を発電しています。いっぽう白帝城は2003年の湛水以降、四方を水に囲まれ、川の中の島となりました。"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "label": { "zh": "长江三峡", "en": "Three Gorges", "ja": "三峡" },
+      "href": {
+        "zh": "https://zh.wikipedia.org/wiki/长江三峡",
+        "en": "https://en.wikipedia.org/wiki/Three_Gorges",
+        "ja": "https://ja.wikipedia.org/wiki/三峡"
+      },
+      "source": { "zh": "维基百科", "en": "Wikipedia", "ja": "ウィキペディア" }
+    },
+    {
+      "label": { "zh": "白帝城", "en": "Baidicheng", "ja": "白帝城" },
+      "href": {
+        "zh": "https://zh.wikipedia.org/wiki/白帝城",
+        "en": "https://en.wikipedia.org/wiki/Baidicheng",
+        "ja": "https://ja.wikipedia.org/wiki/白帝城"
+      },
+      "source": { "zh": "维基百科", "en": "Wikipedia", "ja": "ウィキペディア" }
+    },
+    {
+      "label": { "zh": "三峡大坝", "en": "Three Gorges Dam", "ja": "三峡ダム" },
+      "href": {
+        "zh": "https://zh.wikipedia.org/wiki/三峡大坝",
+        "en": "https://en.wikipedia.org/wiki/Three_Gorges_Dam",
+        "ja": "https://ja.wikipedia.org/wiki/三峡ダム"
+      },
+      "source": { "zh": "维基百科", "en": "Wikipedia", "ja": "ウィキペディア" }
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Three_Gorges",
+    "https://zh.wikipedia.org/wiki/长江三峡",
+    "https://ja.wikipedia.org/wiki/三峡",
+    "https://zh.wikipedia.org/wiki/瞿塘峡",
+    "https://en.wikipedia.org/wiki/Baidicheng",
+    "https://zh.wikipedia.org/wiki/白帝城",
+    "https://zh.wikipedia.org/wiki/公孙述",
+    "https://zh.wikipedia.org/wiki/早发白帝城",
+    "https://en.wikipedia.org/wiki/Three_Gorges_Dam",
+    "https://zh.wikipedia.org/wiki/三峡大坝"
+  ]
+}

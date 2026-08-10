@@ -1,0 +1,79 @@
+{
+ "eventId": "shanghai-port",
+ "story": [
+  {
+   "zh": "开埠的日期定得很具体：1842年8月29日《南京条约》在南京江面的军舰上签字，上海列入五口；1843年10月8日《虎门条约》补足章程；11月8日夜，首任英国领事巴富尔乘「麦杜萨号」抵沪，连一间领事馆的房子都一时找不到；11月17日，上海正式开埠。",
+   "en": "The dates are unusually exact. On 29 August 1842 the Treaty of Nanking was signed aboard a warship in the river, naming Shanghai one of five ports. The supplementary Treaty of the Bogue followed on 8 October 1843. On the night of 8 November the first British consul, George Balfour, arrived aboard the Medusa and could not at first find a house for his consulate. On 17 November the port formally opened.",
+   "ja": "開港の日付はきわめて具体的だ。1842年八月二十九日、南京の川面に浮かぶ軍艦上で南京条約が結ばれ、上海は五口の一つに数えられる。翌年十月八日に虎門条約が細目を補い、十一月八日の夜、初代英国領事バルフォアがメドゥーサ号で着任するが、領事館にする家すら見つからなかった。そして十一月十七日、上海は正式に開かれた。"
+  },
+  {
+   "zh": "接着是一寸一寸划出来的城。1845年《土地章程》定下洋泾浜以北的英租界，1849年法租界继之，1863年英美两界合并为公共租界。县城之外的一片江滩，就这样长成了另一座城，而它的运气全在身后那条江。",
+   "en": "Then came a city measured out foot by foot. The Land Regulations of 1845 fixed the British settlement north of the Yangjingbang creek; the French settlement followed in 1849; in 1863 the British and American areas merged into the International Settlement. A stretch of mudflat outside the walled county town grew into a second city — and its luck lay entirely in the river behind it.",
+   "ja": "続いて、寸刻みに区切られた街が現れる。1845年の土地章程が洋涇浜以北にイギリス租界を定め、四九年にフランス租界が続き、六三年には英米の区域が合して共同租界となった。県城の外の泥の岸が、もう一つの都市に育つ。その運はすべて、背後の大河が握っていた。"
+  },
+  {
+   "zh": "长江与运河把江南的丝、湖广的米送到黄浦江边，上海只需要收下并转运。一百六十多年后，2010年它超过新加坡成为世界第一大集装箱港，2019年吞吐量四千三百三十万标准箱。开埠那天推开的，其实是一条内陆大河通向海洋的闸门。",
+   "en": "The Yangtze and the Grand Canal delivered Jiangnan's silk and Huguang's rice to the Huangpu; Shanghai only had to receive and forward them. More than a century and a half later, in 2010, it passed Singapore to become the world's busiest container port, handling 43.3 million TEU in 2019. What opened that November day was a sluice gate between an inland river and the sea.",
+   "ja": "長江と大運河が江南の絹と湖広の米を黄浦江のほとりまで運び、上海はそれを受け取って積み替えるだけでよかった。一世紀半あまりのち、2010年にシンガポールを抜いて世界一のコンテナ港となり、2019年の取扱量は四千三百三十万TEU。あの十一月に開いたのは、内陸の大河と海とをつなぐ水門だったのである。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "上海开埠",
+    "en": "Shanghai as a treaty port",
+    "ja": "上海の開港"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/上海开埠",
+    "en": "https://en.wikipedia.org/wiki/Shanghai_International_Settlement",
+    "ja": "https://ja.wikipedia.org/wiki/上海租界"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "南京条约",
+    "en": "Treaty of Nanking",
+    "ja": "南京条約"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/南京条约",
+    "en": "https://en.wikipedia.org/wiki/Treaty_of_Nanking",
+    "ja": "https://ja.wikipedia.org/wiki/南京条約"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "上海港",
+    "en": "Port of Shanghai",
+    "ja": "上海港"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/上海港",
+    "en": "https://en.wikipedia.org/wiki/Port_of_Shanghai",
+    "ja": "https://ja.wikipedia.org/wiki/上海港"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/上海开埠",
+  "https://en.wikipedia.org/wiki/Treaty_of_Nanking",
+  "https://en.wikipedia.org/wiki/Shanghai_International_Settlement",
+  "https://en.wikipedia.org/wiki/Port_of_Shanghai"
+ ]
+}

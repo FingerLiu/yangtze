@@ -1,0 +1,77 @@
+{
+ "eventId": "wusong-defense",
+ "story": [
+  {
+   "zh": "吴淞口的炮位有过两次生死。第一次在1842年6月16日：江南提督陈化成率部死守炮台，中弹阵亡，部将刘国标背着他的遗体藏进江边芦苇；英军十四艘军舰缴去火炮二百五十门，三天后上海失守。近代中国的江防，是从这里被撕开的。",
+   "en": "The gun positions at Wusongkou died twice. The first time was 16 June 1842: Chen Huacheng, Admiral of Jiangnan, held the batteries until he was shot dead, and his officer Liu Guobiao carried the body off and hid it in the reeds. Fourteen British ships took 250 guns; three days later Shanghai fell. This is where China's modern river defence was first torn open.",
+   "ja": "呉淞口の砲座は二度死んでいる。一度目は1842年六月十六日。江南提督・陳化成は砲台を守り抜いて銃弾に倒れ、部将の劉国標がその亡骸を背負って葦の茂みに隠した。英艦十四隻が大砲二百五十門を奪い、三日後に上海は落ちる。近代中国の江防は、ここから裂けた。"
+  },
+  {
+   "zh": "第二次在九十五年后。1937年8月13日淞沪会战爆发，8月23日日军在川沙口、狮子林、宝山一线抢滩，直扑吴淞。中国先后投入五十余师、约六十万人，日军九个师团约三十万人，两支大军在黄浦江与长江的夹角里死磕了一百零五天。",
+   "en": "The second time came ninety-five years later. The Battle of Shanghai opened on 13 August 1937; on 23 August Japanese troops stormed ashore at Chuanshakou, Shizilin and Baoshan and drove straight for Wusong. China committed more than fifty divisions, some 600,000 men; Japan nine divisions, about 300,000. The two armies ground against each other for 105 days in the wedge between the Huangpu and the Yangtze.",
+   "ja": "二度目は九十五年後に来た。1937年八月十三日、第二次上海事変が始まり、二十三日には日本軍が川沙口・獅子林・宝山の線に強行上陸して呉淞へ迫る。中国側は五十余個師団・約六十万、日本側は九個師団・約三十万。二つの大軍は黄浦江と長江の挟角で百五日間、削り合った。"
+  },
+  {
+   "zh": "9月6日，第九十八师奉命死守宝山，激战至伤亡殆尽；10月27日至31日，谢晋元一营困守苏州河畔四行仓库四昼夜。会战打碎了「三个月亡华」的算盘，也换来了工厂西迁的时间——至1940年内迁企业中六成七是重工业，一路溯江搬进内地。江防守不住，但江本身成了退路。",
+   "en": "On 6 September the 98th Division was ordered to hold Baoshan and fought until it was destroyed; from 27 to 31 October Xie Jinyuan's single battalion held the Sihang Warehouse on Suzhou Creek for four days and nights. The battle broke the calculation that China could be finished in three months, and bought time to move the factories: by 1940, 67 per cent of the relocated enterprises were heavy industry, hauled upriver into the interior. The river line could not be held — but the river itself became the way out.",
+   "ja": "九月六日、第九十八師は宝山の死守を命じられ、傷つき尽きるまで戦った。十月二十七日から三十一日まで、謝晋元の一個大隊は蘇州河畔の四行倉庫に四昼夜こもる。この会戦は「三か月で中国を屈服させる」という算盤を砕き、同時に工場疎開の時間を稼いだ。1940年までに内陸へ移った企業の六割七分は重工業で、みな川を遡って運ばれた。防衛線は守れなかったが、川そのものが退路になったのである。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "淞沪会战",
+    "en": "Battle of Shanghai (1937)",
+    "ja": "第二次上海事変"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/淞沪会战",
+    "en": "https://en.wikipedia.org/wiki/Battle_of_Shanghai",
+    "ja": "https://ja.wikipedia.org/wiki/第二次上海事変"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "吴淞战役（1842）",
+    "en": "Battle of Woosung (1842)",
+    "ja": "呉淞の戦い（1842年）"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/吴淞战役",
+    "en": "https://en.wikipedia.org/wiki/Battle_of_Woosung"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "陈化成",
+    "en": "Chen Huacheng",
+    "ja": "陳化成"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/陈化成",
+    "en": "https://en.wikipedia.org/wiki/Chen_Huacheng"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Battle_of_Woosung",
+  "https://zh.wikipedia.org/wiki/陈化成",
+  "https://en.wikipedia.org/wiki/Battle_of_Shanghai",
+  "https://zh.wikipedia.org/wiki/淞沪会战"
+ ]
+}

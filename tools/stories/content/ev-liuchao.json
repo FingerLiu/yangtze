@@ -1,0 +1,77 @@
+{
+ "eventId": "liuchao",
+ "story": [
+  {
+   "zh": "229年孙权称帝，把都城从武昌迁回建业。早在211年他就移治秣陵，在金陵邑旧地筑起石头城——一座扼守江面的要塞，也是后来「石头城」三字的来处。此后三百六十年，孙吴、东晋与宋、齐、梁、陈六代相继定都于此。",
+   "en": "In 229 Sun Quan took the imperial title and moved his capital from Wuchang back to Jianye. He had shifted his seat to Moling as early as 211, raising the Stone City on the old Jinling ground — a fortress commanding the river, and the source of a name the city has never quite shed. For the next three and a half centuries six courts in succession — Wu, Eastern Jin, Song, Qi, Liang, Chen — ruled from here.",
+   "ja": "229年、孫権は帝位に即き、都を武昌から建業へ戻した。すでに211年には治所を秣陵に移し、金陵邑の旧地に石頭城を築いている——長江を扼する要塞であり、「石頭城」という名の出どころでもある。以後三百六十年、呉・東晋・宋・斉・梁・陳の六朝がここに都した。"
+  },
+  {
+   "zh": "梁武帝时，城中户口二十八万户；有研究据此推算人口近百万，而同时期的君士坦丁堡约五十万——建康很可能是当时世界上最大的城市。北方士族南渡带来经学与书法，佛寺与清谈同时兴盛，诗歌也从建安的慷慨转向对形式之美的经营，为唐诗铺了路。",
+   "en": "Under Emperor Wu of Liang the city counted 280,000 households; some estimates put its population near a million, against roughly half that in Constantinople — which would make Jiankang the largest city on earth. Northern gentry fleeing south brought classical learning and calligraphy with them; monasteries and pure conversation flourished side by side; and poetry turned from the plain vehemence of Jian'an toward the cultivation of form, laying the road to the Tang.",
+   "ja": "梁の武帝のころ、城中の戸数は二十八万戸。人口を百万近くと見積もる研究もあり、同時期のコンスタンティノープルが約五十万だったことを思えば、建康は当時世界最大の都市だったかもしれない。南渡した北の士族が経学と書を運び、仏寺と清談が並び栄え、詩は建安の慷慨から形式美の彫琢へと向かい、唐詩への道を敷いた。"
+  },
+  {
+   "zh": "繁华结束得很快。548年侯景起兵，围城经年，城中人多死于战乱与饥馑。589年隋灭陈，索性把建康城平毁为农田。六朝的宫阙从地面上消失了，留下的是一座城反复被写进诗里的能力。",
+   "en": "It ended quickly. Hou Jing rose in 548, and the year-long siege that followed killed or starved most of those inside. In 589 the Sui destroyed Chen and levelled Jiankang into farmland. The palaces of the Six Dynasties vanished from the ground; what survived was the city's habit of being written into poems.",
+   "ja": "終わりは早かった。548年に侯景が兵を挙げ、一年に及ぶ包囲で城中の多くが戦火と飢えに斃れる。589年、隋が陳を滅ぼすと、建康は畑に均された。六朝の宮闕は地上から消え、残ったのは、この都が繰り返し詩に書き込まれてゆく力だけだった。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "六朝",
+    "en": "Six Dynasties",
+    "ja": "六朝"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/六朝",
+    "en": "https://en.wikipedia.org/wiki/Six_Dynasties",
+    "ja": "https://ja.wikipedia.org/wiki/六朝"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "建康",
+    "en": "Jiankang",
+    "ja": "建康"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/建康",
+    "en": "https://en.wikipedia.org/wiki/Jiankang",
+    "ja": "https://ja.wikipedia.org/wiki/建康"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "石头城",
+    "en": "Stone City",
+    "ja": "石頭城"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/石头城"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/建康",
+  "https://zh.wikipedia.org/wiki/六朝",
+  "https://en.wikipedia.org/wiki/Six_Dynasties",
+  "https://en.wikipedia.org/wiki/Jiankang"
+ ]
+}

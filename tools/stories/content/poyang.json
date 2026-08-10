@@ -1,0 +1,101 @@
+{
+ "locationId": "poyang",
+ "facets": {
+  "nature": {
+   "story": [
+    {
+     "zh": "赣江、抚河、信江、饶河、修水五条大河先汇进这个盆地，再由北端湖口一处出去，年均向长江输送约一千四百六十亿立方米水。湖口水位21.71米时，湖面三千二百八十三平方公里；而一年之内，水位变幅可达9.79到15.36米。",
+     "en": "Five rivers — the Gan, Fu, Xin, Rao and Xiu — pour into this basin and leave by a single gate at Hukou, handing the Yangtze about 146 billion cubic metres of water a year. At a Hukou stage of 21.71 metres the lake spreads over 3,283 square kilometres; within a single year the level can swing by anything from 9.79 to 15.36 metres.",
+     "ja": "贛江・撫河・信江・饒河・修水の五河がこの盆地に注ぎ、北端の湖口ただ一か所から出ていく。長江へ渡す水は年平均およそ1460億立方メートル。湖口の水位が二一・七一メートルのとき、湖面は3283平方キロ。年内の水位変動は九・七九から一五・三六メートルに及ぶ。"
+    },
+    {
+     "zh": "所以它一年要变两次身。「高水是湖，低水似河」，「洪水一片，枯水一线」——2022年枯水最低时，湖面只剩两百四十四平方公里，浩渺水面收缩成几条蜿蜒的水线，露出的是数百平方公里的草洲与泥滩。",
+     "en": "So it changes shape twice a year. High water, a lake; low water, something more like a river — in flood a single sheet, in drought a single thread. At the bottom of the 2022 drought the surface had shrunk to some 244 square kilometres, the open water drawn down into a few winding lines, leaving hundreds of square kilometres of grass flat and mud.",
+     "ja": "だから湖は年に二度、姿を変える。「高水は湖、低水は川のごとし」「洪水は一面、渇水は一筋」。2022年の渇水では湖面は約244平方キロまで縮み、広大な水面が数本の細い流れに絞り込まれて、あとには何百平方キロもの草洲と泥の干潟が現れた。"
+    },
+    {
+     "zh": "退水正是鸟来的时候。全球四千余只白鹤中约九成在此越冬，保护区内记录到鸟类三百余种、近百万只。湖里还留着约五百头长江江豚，被称作这个物种最后的避难所。湖的呼吸，就是它们的日历。",
+     "en": "The falling water is exactly what the birds come for. Of the four thousand-odd Siberian cranes left in the world, some ninety per cent winter here; the reserves have recorded more than three hundred bird species and close to a million individuals. About five hundred Yangtze finless porpoises remain in the lake, which is called the species' last refuge. The lake's breathing is their calendar.",
+     "ja": "水が引く時期こそ、鳥の季節だ。世界に四千羽あまり残るソデグロヅルのうち、およそ九割がここで越冬する。保護区で記録された鳥は三百種以上、個体数は百万近い。湖には長江スナメリが約五百頭とどまり、この種最後の避難所と呼ばれる。湖の呼吸が、彼らの暦である。"
+    }
+   ]
+  },
+  "history": {
+   "story": [
+    {
+     "zh": "元丰七年（1084年），苏轼送长子苏迈赴饶州德兴上任，途经湖口。他不信旧说，夜里乘小舟到绝壁之下，听风浪灌进石隙、水石相搏而声如洪钟，遂写《石钟山记》。文章末句问的是：事不目见耳闻，而臆断其有无，可乎？",
+     "en": "In 1084 Su Shi, escorting his eldest son to a post at Dexing, put in at Hukou. He refused to take the old explanations on trust: at night he took a small boat under the cliff and heard the swell drive into the rock's fissures until the stone rang like a struck bell. His essay on Stone Bell Hill ends in a question — is it right to decide whether a thing exists without having seen and heard it yourself?",
+     "ja": "元豊七年（1084年）、蘇軾は長男の蘇邁を饒州徳興の任地へ送る途中、湖口に舟を寄せた。旧説を鵜呑みにせず、夜、小舟で絶壁の下へ漕ぎ入れ、波が岩の裂け目に打ち込んで鐘のごとく鳴るのを自ら聴く。『石鐘山記』はこう問うて終わる——目で見ず耳で聞かずに、あると無いとを決めてよいものか。"
+    },
+    {
+     "zh": "石钟山扼长江与鄱阳湖的交汇口，素有「江湖锁钥」之称，历来是兵家必争之地。1363年，朱元璋与陈友谅在鄱阳湖上鏖战，这是中国历史上规模最大的一场水战；胜负既定，明朝的地基也就打在了这片湖水上。",
+     "en": "Stone Bell Hill commands the junction of river and lake, and has long been called the lock and key of the waters; every army wanted it. In 1363 Zhu Yuanzhang and Chen Youliang fought here what is reckoned the largest naval battle in Chinese history. When it was over, the foundations of the Ming had been laid on this lake.",
+     "ja": "石鐘山は長江と鄱陽湖の合流点を扼し、「江湖の鎖鑰」と呼ばれて、いつの時代も兵の争う地だった。1363年、朱元璋と陳友諒はこの湖上で激突する。中国史上最大規模の水戦とされる戦いで、決着がついたとき、明の礎はこの湖の水の上に据えられていた。"
+    },
+    {
+     "zh": "湖口之外便是九江，古称江州、浔阳。白居易贬谪于此，在江头夜闻琵琶，写下「同是天涯沦落人」。第二次鸦片战争后，九江依《天津条约》开埠，1861年设租界，并与汉口、福州并列为中国三大茶市——诗与货，走的是同一条水路。",
+     "en": "Just beyond the lake mouth lies Jiujiang, known in older centuries as Jiangzhou or Xunyang. Banished here, Bai Juyi heard a pipa across the night water and wrote the line every Chinese schoolchild knows: we are both exiles at the edge of the world. After the Second Opium War the Treaty of Tientsin opened the port, a concession was laid out in 1861, and Jiujiang joined Hankou and Fuzhou as one of China's three great tea markets. Poetry and cargo left by the same channel.",
+     "ja": "湖口を出れば九江、古くは江州・潯陽と呼ばれた。左遷された白居易はここで夜の川面に琵琶を聴き、「同じく是れ天涯淪落の人」と書いた。第二次アヘン戦争ののち天津条約により開港、1861年には租界が置かれ、漢口・福州と並ぶ中国三大茶市のひとつとなる。詩も荷も、同じ水路を通っていった。"
+    }
+   ]
+  }
+ },
+ "links": [
+  {
+   "label": {
+    "zh": "鄱阳湖",
+    "en": "Poyang Lake",
+    "ja": "鄱陽湖"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/鄱阳湖",
+    "en": "https://en.wikipedia.org/wiki/Poyang_Lake",
+    "ja": "https://ja.wikipedia.org/wiki/鄱陽湖"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "石钟山",
+    "en": "Stone Bell Hill",
+    "ja": "石鐘山"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/石钟山"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "九江市",
+    "en": "Jiujiang",
+    "ja": "九江市"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/九江市",
+    "en": "https://en.wikipedia.org/wiki/Jiujiang",
+    "ja": "https://ja.wikipedia.org/wiki/九江市"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Poyang_Lake",
+  "https://zh.wikipedia.org/wiki/鄱阳湖",
+  "https://zh.wikipedia.org/wiki/石钟山",
+  "https://en.wikipedia.org/wiki/Jiujiang",
+  "https://www.gushiwen.cn/shiwenv_c72161f552bb.aspx"
+ ]
+}

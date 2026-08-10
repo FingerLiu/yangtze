@@ -1,0 +1,59 @@
+{
+ "eventId": "chibi",
+ "story": [
+  {
+   "zh": "建安十三年冬，曹操顺江东下。八十万之数是檄书上的话；周瑜替孙权算过一笔账：中原兵不过十五六万，加上荆州降卒，总计二十余万。今人的估计从十余万到三四十万不等，至今没有定论。孙刘联军呢，约五万。",
+   "en": "In the winter of 208 Cao Cao came downriver. The figure of eight hundred thousand belonged to his proclamations; Zhou Yu did the arithmetic for Sun Quan and put it at fifteen or sixteen myriad northern troops plus the surrendered men of Jing province — some two hundred thousand in all. Modern estimates range from a hundred thousand to three or four hundred thousand, and the question is still open. The allies had perhaps fifty thousand.",
+   "ja": "建安十三年（208年）の冬、曹操は長江を下った。八十万という数は檄文の言葉にすぎない。周瑜は孫権のために勘定してみせる——中原の兵は十五、六万、荊州の降兵を加えて二十万余り。現代の推計も十数万から三、四十万まで幅があり、定説はない。孫劉連合軍はおよそ五万だった。"
+  },
+  {
+   "zh": "决定胜负的不是人数。曹军多为北人，不习水战，军中又起疫疾。黄盖诈降，驾满载薪草膏油的船直冲乌林水寨，借东南风纵火，火势延及岸上营垒。曹操自华容道退往江陵，留曹仁守之，自率军北还。",
+   "en": "Numbers did not decide it. Cao's northerners were strangers to river war, and sickness was moving through the camps. Huang Gai offered a false surrender, ran ships packed with brushwood and oil straight at the fleet moored at Wulin, and let the southeast wind carry the fire into the linked hulls and on to the shore camps. Cao Cao withdrew along the Huarong road to Jiangling, left Cao Ren to hold it, and rode north.",
+   "ja": "勝敗を決めたのは数ではない。曹軍の主力は北の人間で水戦に不慣れ、陣中には疫病が広がっていた。黄蓋は偽りの降伏を申し出、薪と油を積んだ船を烏林の水寨へまっすぐ突っ込ませ、東南の風に火を託す。炎は連なる船列から岸の陣へ走った。曹操は華容道を経て江陵へ退き、曹仁を残して北へ帰った。"
+  },
+  {
+   "zh": "赤壁究竟在哪里，学界有蒲圻、嘉鱼、武昌、汉阳、汉川、黄冈、钟祥等七说，今多主张在今湖北赤壁市。而黄州的那片赤壁——苏轼写《赤壁赋》的地方——史家早已认定不是战场。一场江上的火，把荆州分给了三家。",
+   "en": "Where the Red Cliffs actually stood is disputed: seven candidate sites have been argued, from Puqi to Huanggang, with present-day Chibi City in Hubei now generally favoured. The cliff at Huangzhou, where Su Shi wrote his rhapsodies, was ruled out by historians long ago. One fire on the water divided Jing province three ways.",
+   "ja": "赤壁がどこであったかについては蒲圻・嘉魚・武昌・漢陽・漢川・黄岡・鍾祥など七説があり、現在は湖北省赤壁市とする見方が有力である。蘇軾が「赤壁賦」を書いた黄州の崖は、史家がとうに戦場ではないと結論づけた。川の上のひとつの火が、荊州を三つに分けたのだ。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "赤壁之战",
+    "en": "Battle of Red Cliffs",
+    "ja": "赤壁の戦い"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/赤壁之战",
+    "en": "https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs",
+    "ja": "https://ja.wikipedia.org/wiki/赤壁の戦い"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "周瑜",
+    "en": "Zhou Yu",
+    "ja": "周瑜"
+   },
+   "href": {
+    "en": "https://en.wikipedia.org/wiki/Zhou_Yu"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/赤壁之战",
+  "https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs",
+  "https://ja.wikipedia.org/wiki/赤壁の戦い"
+ ]
+}

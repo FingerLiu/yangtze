@@ -1,0 +1,77 @@
+{
+ "eventId": "grand-canal",
+ "story": [
+  {
+   "zh": "大业元年，隋炀帝开通济渠，自洛阳引黄河水东南入淮，据记载动员民夫百万，五个月而成。同一年，他又征发淮南之民重修邗沟——那条春秋时吴王夫差为北上争霸所开的老水道——自山阳至扬子入江，加宽疏浚。南北自此有了一条连贯的水路。",
+   "en": "In 605 Emperor Yang of Sui opened the Tongji Canal, drawing the Yellow River southeast from Luoyang down to the Huai; a million labourers are recorded, and the work took five months. That same year he conscripted the people of Huainan to rebuild the Hangou — the old channel Fuchai of Wu had cut in the fifth century BC for his march on the north — widening and dredging it from Shanyang to where it meets the Yangtze.",
+   "ja": "大業元年（605年）、隋の煬帝は通済渠を開き、洛陽から黄河の水を東南へ引いて淮水に通じさせた。動員は百万人、五か月で竣工したと伝えられる。同じ年、彼は淮南の民を徴発して邗溝を修めた——春秋の呉王夫差が北伐のために掘った古い水路である——山陽から揚子へ、拡幅と浚渫を施して長江に落とした。"
+  },
+  {
+   "zh": "前后二十余年间，广通渠、通济渠、永济渠、江南河次第开凿，折算今制全长两千七百余公里（另有两千五百公里以上的算法）。运河把江南的稻米送进关中与华北，也把此后一千多年的漕运版图钉在了地图上。2014年，大运河列入世界遗产名录。",
+   "en": "Over some two decades the Guangtong, Tongji, Yongji and Jiangnan canals were dug in turn, together running more than 2,700 kilometres in modern reckoning (other counts put it above 2,500). Rice from the south now reached the capitals of the north, and the grain-transport map of the next thousand years was pinned in place. In 2014 the Grand Canal entered the World Heritage list.",
+   "ja": "二十年あまりのあいだに広通渠・通済渠・永済渠・江南河が次々と開かれ、現在の尺度で総延長二千七百キロ余（二千五百キロ以上とする数え方もある）。江南の米は関中と華北へ運ばれ、以後千年余の漕運の地図がここで釘づけにされた。2014年、大運河は世界遺産に登録される。"
+  },
+  {
+   "zh": "而运河与长江握手的地方是瓜洲。它本是江心淤积成的沙洲，到唐代中期才与北岸相连；开元年间齐澣开伊娄河二十五里，瓜洲遂成南北运河与东西大江的十字路口。王安石在此写下「春风又绿江南岸」。1895年，江水把整座瓜洲城吃了下去。",
+   "en": "Where canal shook hands with river stood Guazhou. It began as a silt bank mid-stream and only joined the north shore by the mid-Tang; when Qi Huan cut the twenty-five-li Yilou channel in the Kaiyuan era, Guazhou became the crossroads of the north-south canal and the east-west Yangtze. Wang Anshi wrote his 'spring wind has greened the southern bank' here. In 1895 the river swallowed the town whole.",
+   "ja": "運河と長江が握手する場所が瓜洲だった。もとは川中に土砂が積もってできた砂洲で、北岸とつながったのは唐の中ごろ。開元年間に斉澣が伊婁河二十五里を開くと、南北の運河と東西の大江が交わる十字路となる。王安石が「春風 又緑なり 江南の岸」と詠んだのもここである。1895年、江水は瓜洲の町を丸ごと呑み込んだ。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "京杭大运河",
+    "en": "Grand Canal (China)",
+    "ja": "京杭大運河"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/京杭大运河",
+    "en": "https://en.wikipedia.org/wiki/Grand_Canal_(China)",
+    "ja": "https://ja.wikipedia.org/wiki/京杭大運河"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "隋唐大运河",
+    "en": "Sui–Tang Grand Canal",
+    "ja": "隋唐大運河"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/隋唐大运河"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "瓜洲",
+    "en": "Guazhou",
+    "ja": "瓜洲"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/瓜洲"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/隋唐大运河",
+  "https://zh.wikipedia.org/wiki/邗沟",
+  "https://zh.wikipedia.org/wiki/通济渠",
+  "https://zh.wikipedia.org/wiki/瓜洲",
+  "https://en.wikipedia.org/wiki/Grand_Canal_(China)",
+  "https://ja.wikipedia.org/wiki/京杭大運河"
+ ]
+}

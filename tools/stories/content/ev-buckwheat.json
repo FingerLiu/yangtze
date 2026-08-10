@@ -1,0 +1,105 @@
+{
+ "eventId": "buckwheat",
+ "story": [
+  {
+   "zh": "荞麦的老家在这里，遗传学说得很清楚；难办的是它几乎不留痕迹。籽粒小，脱壳后更小，山地土壤又酸，能落进火塘烧成炭、日后又被浮选捞起来的，屈指可数。云南迪庆出土的一批荞麦籽粒做过碳十四测年，距今三千至两千七百年；下游剑川海门口的青铜时代地层里也有荞麦，年代相近。两处互相印证。",
+   "en": "Genetics is clear that this is buckwheat’s homeland. The trouble is that buckwheat leaves almost nothing behind. The grain is small, smaller once hulled, and mountain soils are acid; only the seeds that fell into a hearth, burned to charcoal and were lifted out centuries later by flotation survive at all. A batch of grains from Diqing in Yunnan has been radiocarbon dated to between 3,000 and 2,700 years ago. Downstream at Haimenkou in Jianchuan, buckwheat appears in Bronze Age levels of much the same date. Between them they sketch, roughly, the moment buckwheat reached the table.",
+   "ja": "ソバの故郷がここであることを、遺伝学ははっきり示しています。厄介なのは、この作物がほとんど痕跡を残さないことです。実は小さく、殻を取ればさらに小さい。山地の土は酸性で、炉に落ちて炭となり、のちに浮遊選別で拾い上げられたものだけが残ります。雲南・迪慶で出土した一群のソバの実は、放射性炭素年代で三千〜二千七百年前。下流の剣川・海門口遺跡でも、ほぼ同じころの青銅器時代の層からソバが見つかっています。二つの地点が互いを裏づけ、ソバが食卓に上がったおおよその時刻を描き出します。"
+  },
+  {
+   "zh": "但这些数字说的是「荞麦何时上了这里人家的火塘」，不是「荞麦何时被驯化」。驯化更早，早多少无人能答。更别扭的是，中国境内经直接测年的最老荞麦籽粒不在西南，而在甘肃民乐，距今三千六百至三千四百六十年。作物的族谱指向西南，最早的实物却出在北方——这个错位至今没有解释，也是这段历史最诚实的部分。",
+   "en": "But those numbers say when buckwheat reached the hearths of this valley, not when it was domesticated. Domestication came earlier; how much earlier, nobody can say. More awkwardly still, the oldest directly dated buckwheat grains in China lie not in the south-west but at Minle in Gansu, 3,610 to 3,458 years old. The pedigree points south-west while the hard evidence sits in the north. The mismatch has never been explained, and it is the most honest part of the story.",
+   "ja": "ただし、これらの数字が語るのは、ソバがいつこの谷の炉端に届いたかであって、いつ栽培化されたかではありません。栽培化はもっと早い。どれだけ早いかは、誰にも言えないのです。さらに厄介なことに、中国で直接年代測定された最古のソバの実は西南ではなく、甘粛省民楽のもので、三千六百〜三千四百六十年前。系譜は西南を指すのに、確かな物証は北にある。この食い違いは今も説明がつかず、そしてそれこそが、この歴史のいちばん正直な部分です。"
+  },
+  {
+   "zh": "荞麦耐瘠耐寒、生育期短——稻与麦上不去的海拔，它上得去。后来它成为彝人的主粮：苦荞粑粑既是日常，也是待客与祭祖的礼。不过甜荞与苦荞并非同乡。2024 年一项覆盖 17 国、567 份材料的基因组研究认为，苦荞出自喜马拉雅，随人群迁徙才来到川滇。两种荞麦从不同的山口进来，在同一片高原碰了头。",
+   "en": "Buckwheat asks little of the soil, tolerates cold and ripens fast — exactly what a high cold mountain requires. It climbs to altitudes where rice and wheat give up. In time it became the staple of the Yi: Tartary-buckwheat cakes are everyday food, and also what is set before guests and offered to ancestors. Yet the two buckwheats are not from the same village. A 2024 genome study of 567 accessions from seventeen countries places Tartary buckwheat’s origin in the Himalaya, reaching Sichuan and Yunnan later, carried south-west by the movement of people. Two crops entered by different passes and met on the same plateau.",
+   "ja": "ソバは痩せ地にも寒さにも強く、生育期間が短い。高く冷たい山には、まさにうってつけでした。稲や麦が音を上げる標高にも、ソバは登っていきます。やがてそれは彝（イ）族の主食となりました。ダッタンソバの粑粑（パーパー）は日々の糧であり、客をもてなし、祖先に供える礼でもあります。ただし二つのソバは同郷ではありません。17 か国 567 系統を調べた 2024 年のゲノム研究は、ダッタンソバの起源をヒマラヤに置き、人の移動とともに南西へ運ばれて四川・雲南に至ったとしています。異なる峠を越えてきた二つの作物が、同じ高原で出会ったのです。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "荞麦：来自中国主要驯化中心之外的作物？（Hunt 等，2018）",
+    "en": "Buckwheat: a crop from outside the major Chinese domestication centres? (Hunt et al., 2018)",
+    "ja": "ソバ——中国の主要な栽培化中心の外から来た作物か？（Hunt ほか、2018）"
+   },
+   "href": {
+    "zh": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6560938/",
+    "en": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6560938/",
+    "ja": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6560938/"
+   },
+   "source": {
+    "zh": "Vegetation History and Archaeobotany",
+    "en": "Vegetation History and Archaeobotany",
+    "ja": "Vegetation History and Archaeobotany"
+   }
+  },
+  {
+   "label": {
+    "zh": "甜荞基因组测序揭示异型花柱的遗传结构与驯化历史（2023）",
+    "en": "Genome sequencing reveals the genetic architecture of heterostyly and domestication history of common buckwheat (2023)",
+    "ja": "ソバのゲノム解読が明かす異型花柱の遺伝構造と栽培化史（2023）"
+   },
+   "href": {
+    "zh": "https://www.nature.com/articles/s41477-023-01474-1",
+    "en": "https://www.nature.com/articles/s41477-023-01474-1",
+    "ja": "https://www.nature.com/articles/s41477-023-01474-1"
+   },
+   "source": {
+    "zh": "Nature Plants",
+    "en": "Nature Plants",
+    "ja": "Nature Plants"
+   }
+  },
+  {
+   "label": {
+    "zh": "苦荞的起源、驯化与传播：基因组学证据（2024）",
+    "en": "Genomic insight into the origin, domestication and dispersal of Tartary buckwheat (2024)",
+    "ja": "ダッタンソバの起源・栽培化・伝播に関するゲノム解析（2024）"
+   },
+   "href": {
+    "zh": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10898187/",
+    "en": "https://link.springer.com/article/10.1186/s13059-024-03203-z",
+    "ja": "https://link.springer.com/article/10.1186/s13059-024-03203-z"
+   },
+   "source": {
+    "zh": "Genome Biology",
+    "en": "Genome Biology",
+    "ja": "Genome Biology"
+   }
+  },
+  {
+   "label": {
+    "zh": "荞麦的起源、进化与传播（魏益民等，2025）",
+    "en": "Origin, Evolution and Spread of Crop Buckwheat (Wei et al., 2025)",
+    "ja": "ソバの起源・進化・伝播（魏益民ほか、2025）"
+   },
+   "href": {
+    "zh": "https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2025.21.001",
+    "en": "https://www.sciopen.com/article/10.3864/j.issn.0578-1752.2025.21.001",
+    "ja": "https://www.sciopen.com/article/10.3864/j.issn.0578-1752.2025.21.001"
+   },
+   "source": {
+    "zh": "中国农业科学",
+    "en": "Scientia Agricultura Sinica",
+    "ja": "中国農業科学"
+   }
+  }
+ ],
+ "sources": [
+  "https://www.nature.com/articles/s41477-023-01474-1",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC6560938/",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC10898187/",
+  "https://link.springer.com/article/10.1186/s13059-024-03203-z",
+  "https://www.sciopen.com/local/article_pdf/10.3864/j.issn.0578-1752.2025.21.001.pdf",
+  "https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2025.21.001",
+  "https://zh.wikipedia.org/zh-hans/%E8%8D%9E%E9%BA%A6%E5%B1%9E",
+  "https://www.zwyczy.cn/zwyczyxb/article/abstract/20181210001?st=article_issue",
+  "https://www.iplant.cn/info/Fagopyrum%20dibotrys",
+  "https://ics.caas.cn/xwdt/kyjz/271065.htm",
+  "https://plantae.org/genetic-architecture-of-heterostyly-and-domestication-history-of-common-buckwheat/",
+  "http://m.yizuren.com/literature/sw/42955.html",
+  "https://zh.wikipedia.org/zh-hans/%E6%B5%B7%E9%97%A8%E5%8F%A3%E9%81%97%E5%9D%80"
+ ]
+}

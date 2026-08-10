@@ -1,0 +1,60 @@
+{
+ "eventId": "dujiangyan",
+ "story": [
+  {
+   "zh": "秦昭王时，蜀郡守李冰父子主持开这项工程，年代大致在公元前256至前251年之间——也有学者认为古蜀开明王朝已有其前身。最难的是宝瓶口：玉垒山是坚岩，没有火药，工匠以柴火烧、以冷水浇，让岩石在骤冷中崩裂，前后八年，才凿出二十米宽的一道口子。",
+   "en": "Li Bing, governor of Shu under King Zhao of Qin, directed the work somewhere between 256 and 251 BC — though some scholars argue for an earlier ancestor built under the Kaiming kings of ancient Shu. The hardest part was the Bottle Neck. Mount Yulei is hard rock and there was no gunpowder, so the crews heated the stone with fires and doused it with cold water until it split. Eight years later they had a gap twenty metres wide.",
+   "ja": "秦の昭王のころ、蜀郡守の李冰父子がこの工事を率いた。年代はおおむね紀元前256年から前251年、古蜀・開明王朝に前身を求める説もある。最難関は宝瓶口だった。玉塁山は硬い岩、火薬はない。薪で焼き、冷水を浴びせて急冷で割る——八年をかけて幅二十メートルの切り通しを開いた。"
+  },
+  {
+   "zh": "此后的分水靠地形自己完成。鱼嘴把岷江劈作内外二江，枯水时约六成入内江灌田，洪水时反过来六成排向外江；多余的水与泥沙从飞沙堰二百米宽的缺口自行甩出。秦人要留一条通军船的水道，索性不筑坝——而正是这一点，让它活到了今天。",
+   "en": "After that the terrain does the dividing. The Fish Mouth splits the Min into inner and outer streams: in low water roughly sixty percent runs inward to the fields, in flood the proportion reverses. Surplus water and silt fling themselves out through the two-hundred-metre opening of the Flying Sand Weir. Qin wanted the channel navigable for troop boats, so no dam was built — and that is precisely why it is still alive.",
+   "ja": "あとは地形が水を分ける。魚嘴が岷江を内外二江に裂き、渇水期は六割が内江へ入って田を潤し、洪水時には比が逆になる。あふれた水と土砂は幅二百メートルの飛沙堰から自ら外へ躍り出る。秦は軍船の通る水路を残したかった。だからダムを築かなかった——それこそが今日まで生き延びた理由である。"
+  },
+  {
+   "zh": "灌区一直在长：1937年二百六十余万亩，1980年代初八百五十余万亩，今天超过一千万亩。2000年，都江堰与青城山同列世界文化遗产。2008年汶川地震，鱼嘴出现裂缝、二王庙古建筑群尽毁，而渠首主体仍在分水。",
+   "en": "The command area keeps growing: some 2.6 million mu in 1937, over 8.5 million by the early 1980s, more than ten million today. In 2000 Dujiangyan and Mount Qingcheng were inscribed together on the World Heritage list. When the Wenchuan earthquake of 2008 cracked the Fish Mouth and brought down the halls of the Erwang Temple, the headworks went on dividing water.",
+   "ja": "灌漑区は伸び続けた。1937年に二百六十余万畝、1980年代初めに八百五十余万畝、今は一千万畝を超える。2000年、都江堰は青城山とともに世界文化遺産に登録された。2008年の汶川地震で魚嘴には亀裂が入り、二王廟の古建築群は倒壊したが、渠首は水を分け続けた。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "都江堰",
+    "en": "Dujiangyan",
+    "ja": "都江堰"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/都江堰",
+    "en": "https://en.wikipedia.org/wiki/Dujiangyan",
+    "ja": "https://ja.wikipedia.org/wiki/都江堰"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "李冰",
+    "en": "Li Bing",
+    "ja": "李冰"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/李冰"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/都江堰",
+  "https://en.wikipedia.org/wiki/Dujiangyan",
+  "https://ja.wikipedia.org/wiki/都江堰",
+  "https://zh.wikipedia.org/wiki/李冰"
+ ]
+}

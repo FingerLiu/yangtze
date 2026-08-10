@@ -1,0 +1,85 @@
+{
+ "locationId": "baihetan",
+ "facets": {
+  "nature": {
+   "story": [
+    {
+     "zh": "白鹤滩坝址在云南巧家县与四川宁南县之间的金沙江上。坝体是混凝土双曲拱坝，最大坝高二百八十九米，坝顶高程八百三十四米，底部厚七十二米，到坝顶收成十三米——靠拱的形状，把江水的推力交给两岸山体。",
+     "en": "Baihetan sits on the Jinsha where it divides Qiaojia county in Yunnan from Ningnan in Sichuan. The wall is a double-curvature concrete arch: 289 metres at its highest, its crest 834 metres above sea level, seventy-two metres thick at the foot and tapering to thirteen at the top. The curve is the point — it hands the river's push sideways into the mountains.",
+     "ja": "白鶴灘のダムサイトは、雲南省巧家県と四川省寧南県のあいだを流れる金沙江にあります。堤体はコンクリート二重曲面アーチダム。最大堤高289メートル、堤頂の標高は834メートル、底部の厚さ72メートルが頂部では13メートルまで絞られます。アーチという形が、水の押す力を両岸の岩盤へ受け流すのです。"
+    },
+    {
+     "zh": "水库总库容一百七十九亿立方米。左右两岸的地下厂房各装八台机组，单机容量一百万千瓦，是世界上第一批百万千瓦级水轮发电机组；总装机一千六百万千瓦，仅次于三峡，多年平均发电量六百四十一亿千瓦时。",
+     "en": "The reservoir holds 17.9 billion cubic metres. Eight generating units are buried in the rock of each bank, sixteen in all, each rated at a full gigawatt — the first gigawatt-class hydro turbines anywhere in the world. Together they come to 16,000 megawatts, second only to the Three Gorges, and average 64.1 terawatt-hours a year.",
+     "ja": "貯水池の総容量は179億立方メートル。左右両岸の地下発電所に8基ずつ、計16基の発電機が据えられ、1基あたりの出力は100万キロワット——世界で初めての百万キロワット級水車発電機です。総出力1600万キロワットは三峡に次ぐ規模で、年平均発電量は641億キロワット時にのぼります。"
+    },
+    {
+     "zh": "代价同样具体：三十二个村庄、五万零一百七十八人为这座水库搬迁。2008年动工，2021年6月28日首批机组投产，2022年12月20日全部投产。十余年间，一段峡谷被换成了一座水库和一堵墙。",
+     "en": "The price is equally exact: thirty-two villages and 50,178 people moved to make room for the water. Ground was broken in 2008; the first units went live on 28 June 2021 and the last on 20 December 2022. In a little over a decade, a length of gorge became a reservoir and a wall.",
+     "ja": "代償もまた具体的です。32の村、50,178人が水のために移りました。2008年に着工、2021年6月28日に最初の機組が発電を開始し、2022年12月20日に全機が稼働。十数年で、ひと続きの峡谷が貯水池と一枚の壁に置き換わりました。"
+    }
+   ]
+  },
+  "history": {
+   "story": [
+    {
+     "zh": "更靠下游，云南永善县与四川雷波县之间的溪洛渡峡谷里，还站着另一座双曲拱坝：最大坝高285.5米，坝顶长七百米。2005年12月26日开工，2013年7月15日首台机组发电，2014年6月30日十八台机组全部投产，总装机一千三百八十六万千瓦。",
+     "en": "Further downstream, in the Xiluodu gorge between Yongshan county in Yunnan and Leibo in Sichuan, a second double-curvature arch dam rises 285.5 metres with a crest seven hundred metres long. Work began on 26 December 2005; the first generator turned on 15 July 2013 and the eighteenth on 30 June 2014, for a combined 13,860 megawatts.",
+     "ja": "さらに下流、雲南省永善県と四川省雷波県にはさまれた渓洛渡峡谷にも、もう一基の二重曲面アーチダムが立っています。最大堤高285.5メートル、堤頂長700メートル。2005年12月26日に着工し、2013年7月15日に初号機、2014年6月30日に18号機が運転を開始、総出力は1386万キロワットです。"
+    },
+    {
+     "zh": "溪洛渡不只发电。126.7亿立方米的库容还承担防洪与拦沙，并改善下游航运条件。乌东德、白鹤滩、溪洛渡、向家坝，四座巨型电站在金沙江下游连成阶梯，与三峡一道被称作世界最大的清洁能源走廊。",
+     "en": "Xiluodu was never only about electricity. Its 12.67 billion cubic metres of storage also catch floods, trap sediment and steady the channel for boats below. Wudongde, Baihetan, Xiluodu, Xiangjiaba: four giants stepping down the lower Jinsha, and together with the Three Gorges they are called the world's largest clean-energy corridor.",
+     "ja": "渓洛渡の役目は発電だけではありません。126.7億立方メートルの貯水は洪水を受け止め、土砂を捉え、下流の航行条件を整えます。烏東徳・白鶴灘・渓洛渡・向家壩——金沙江下流に連なる四基の巨大発電所は、三峡とともに世界最大級のクリーンエネルギー回廊と呼ばれています。"
+    },
+    {
+     "zh": "从都江堰到这里，隔着两千两百多年。李冰不筑坝，把岷江交给鱼嘴和飞沙堰去分；这里则把整条金沙江拦下来，再一格一格放走。同一个问题——人可以向一条河借多少——给出的是两种截然不同的答案。",
+     "en": "Twenty-two centuries separate this place from Dujiangyan. Li Bing refused to build a dam and let the Fish Mouth and the Flying Sand Weir divide the Min for him. Here the whole Jinsha is stopped, then released one step at a time. The same question — how much of a river may we borrow — answered in two entirely different tempers.",
+     "ja": "都江堰からここまで、二千二百年あまり。李冰はダムを築かず、岷江の分配を魚嘴と飛沙堰に委ねました。ここでは金沙江を丸ごとせき止め、段ごとに放ちます。「人は川からどれだけ借りてよいのか」という同じ問いに、まるで気質の違う二つの答えが出されたのです。"
+    }
+   ]
+  }
+ },
+ "links": [
+  {
+   "label": {
+    "zh": "白鹤滩水电站",
+    "en": "Baihetan Dam",
+    "ja": "白鶴灘水力発電所"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/白鹤滩水电站",
+    "en": "https://en.wikipedia.org/wiki/Baihetan_Dam"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "溪洛渡水电站",
+    "en": "Xiluodu Dam",
+    "ja": "渓洛渡ダム"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/溪洛渡水电站",
+    "en": "https://en.wikipedia.org/wiki/Xiluodu_Dam",
+    "ja": "https://ja.wikipedia.org/wiki/渓洛渡ダム"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Baihetan_Dam",
+  "https://zh.wikipedia.org/wiki/白鹤滩水电站",
+  "https://en.wikipedia.org/wiki/Xiluodu_Dam",
+  "https://zh.wikipedia.org/wiki/溪洛渡水电站",
+  "https://ja.wikipedia.org/wiki/渓洛渡ダム"
+ ]
+}

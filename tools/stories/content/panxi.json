@@ -1,0 +1,103 @@
+{
+ "locationId": "panxi",
+ "facets": {
+  "nature": {
+   "story": [
+    {
+     "zh": "干热河谷是横断山区海拔一千五百米以下的一类特殊河谷。深切的峡谷让气流下沉增温，形成显著的焚风效应；封闭的谷地又把热量攒住散不掉。于是在同一条长江的流域里，出现了年均气温十八至二十摄氏度、终年少雨的一块。",
+     "en": "A dry-hot valley is a particular kind of gorge floor, below 1,500 metres, in the Hengduan mountains. Deep incision makes descending air warm as it falls — a pronounced foehn effect — and the enclosed valley then hoards the heat it cannot shed. So inside the single basin of the Yangtze there appears a pocket averaging 18 to 20°C the year round, and rarely raining.",
+     "ja": "乾熱河谷とは、横断山地の標高1500メートル以下に現れる特殊な谷である。深く刻まれた峡谷では下降気流が圧縮されて温まり、著しいフェーン現象を生む。閉ざされた谷は、その熱を逃がさず溜め込む。こうして同じ長江の流域のなかに、年平均気温一八〜二〇度、雨のめったに降らない一角が生まれた。"
+    },
+    {
+     "zh": "年降水量六百至八百毫米，其中八成九到九成五集中在五至十月；而年蒸发量是降水的三到六倍。植被于是长成稀树灌草丛：两到五米的散生乔木、半米到两米的灌丛，叶小、多毛、带刺——全都是省水的写法。",
+     "en": "Rain falls at 600 to 800 millimetres a year, and 89 to 95 per cent of it arrives between May and October; evaporation runs three to six times higher. The vegetation answers with sparse tree-and-shrub grassland: scattered trees two to five metres tall, shrubs half a metre to two, small-leaved, densely haired, thorned — every one of them a way of spelling thrift with water.",
+     "ja": "年降水量は600〜800ミリ、そのうち八九〜九五パーセントが五月から一〇月に集中する。いっぽう年蒸発量は降水量の三〜六倍にのぼる。植生はそれに応えて疎林低木草原となった。二〜五メートルの散在する高木、〇・五〜二メートルの低木。葉は小さく、毛が密で、棘をもつ。どれも水を節約するための書き方である。"
+    },
+    {
+     "zh": "金沙江干热河谷占全国干热河谷面积的五成八，也是长江宜昌以上泥沙的重要来源——约四成五的输沙量出自这里。阳光过剩、雨水不足、土壤易失，这里的绿色始终是借来的，还得年年续借。",
+     "en": "The Jinsha's dry-hot valleys account for 58 per cent of all such terrain in China, and are a major source of the Yangtze's sediment: about 45 per cent of the load measured above Yichang originates here. Too much sun, too little rain, soil that will not stay — the green in this valley is always borrowed, and the loan has to be renewed every year.",
+     "ja": "金沙江の乾熱河谷は、中国の乾熱河谷面積の五八パーセントを占める。同時に長江の宜昌より上流における土砂の主要な供給源でもあり、輸砂量のおよそ四五パーセントがここから出る。日射は過剰、雨は不足、土は留まらない。この谷の緑はつねに借り物であり、毎年借り換えねばならない。"
+    }
+   ]
+  },
+  "culture": {
+   "story": [
+    {
+     "zh": "凉山彝族自治州六万零二百六十一平方公里，人口四百八十六万，彝族约占五成二，是诺苏彝语的核心地带。地势从谷底三百零五米一直抬到木里境内最高的五千九百五十八米——五千六百米的高差里，装着从干热河谷到雪线的所有活法。",
+     "en": "Liangshan Yi Autonomous Prefecture covers 60,261 square kilometres and holds 4.86 million people, about 52 per cent of them Yi; this is the heartland of Nuosu. The land climbs from 305 metres on the valley floor to 5,958 at the highest summit in Muli — five and a half kilometres of relief holding every way of life from dry-hot gorge to snowline.",
+     "ja": "涼山イ族自治州は六万〇二六一平方キロ、人口四八六万。うち約五二パーセントがイ族で、ここはノス（諾蘇）方言の中心地である。土地は谷底の305メートルから、木里の最高峰5958メートルまで駆け上がる。5600メートルの高低差のなかに、乾熱河谷から雪線までのあらゆる暮らしが収まっている。"
+    },
+    {
+     "zh": "彝文在这里与汉文同为官方文字。火把节在农历六月二十四、二十五日前后举行，彝、白、纳西、基诺、拉祜诸族共有；2006年由川、滇、黔三省联合申报，列入首批国家级非物质文化遗产。夜里满山的火把，是这片山地最亮的一次自我确认。",
+     "en": "Here the Yi script stands alongside Chinese as an official written language. The Torch Festival falls around the 24th and 25th of the sixth lunar month and is shared by the Yi, Bai, Naxi, Jino and Lahu; in 2006 Sichuan, Yunnan and Guizhou jointly entered it on the first national list of intangible cultural heritage. On that night the hillsides fill with fire — the loudest thing these mountains ever say about themselves.",
+     "ja": "ここではイ文字が漢字とならぶ公式の文字である。松明祭（火把節）は旧暦六月二四〜二五日ごろに行われ、イ族・ペー族・ナシ族・ジノー族・ラフ族に共通する祭りだ。2006年、四川・雲南・貴州の三省が共同で申請し、第一次の国家級無形文化遺産に登録された。夜、山という山が松明で埋まる。この山地が自らについて語る、いちばん明るい言葉である。"
+    },
+    {
+     "zh": "1965年三月四日，攀枝花因三线建设立市，最初叫渡口市，1987年才改今名。它靠钒钛磁铁矿立足：钒储量占全国六成二，钛资源居世界第一；北面的西昌则有卫星发射中心。而干热河谷每年两千三百至两千七百小时的日照，如今又养出反季节的蔬菜与水果。",
+     "en": "Panzhihua was founded as a city on 4 March 1965 under the Third Front programme, first named Dukou and only renamed in 1987. It stands on vanadium-titanium magnetite — 62 per cent of China's vanadium reserves, the world's largest titanium resource — while Xichang to the north hosts a satellite launch centre. And the same valley sun, 2,300 to 2,700 hours a year, now ripens vegetables and fruit out of season.",
+     "ja": "1965年三月四日、攀枝花は三線建設のもとで市として発足した。当初の名は渡口市、現在の名になったのは1987年である。町を支えるのはバナジウム・チタン磁鉄鉱で、バナジウム埋蔵量は全国の六二パーセント、チタン資源は世界一を誇る。北の西昌には衛星発射センターがある。そして年2300〜2700時間というこの谷の日射は、いまでは季節はずれの野菜と果実を実らせている。"
+    }
+   ]
+  }
+ },
+ "links": [
+  {
+   "label": {
+    "zh": "凉山彝族自治州",
+    "en": "Liangshan Yi Autonomous Prefecture",
+    "ja": "涼山イ族自治州"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/凉山彝族自治州",
+    "en": "https://en.wikipedia.org/wiki/Liangshan_Yi_Autonomous_Prefecture",
+    "ja": "https://ja.wikipedia.org/wiki/涼山イ族自治州"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "攀枝花市",
+    "en": "Panzhihua",
+    "ja": "攀枝花市"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/攀枝花市",
+    "en": "https://en.wikipedia.org/wiki/Panzhihua",
+    "ja": "https://ja.wikipedia.org/wiki/攀枝花市"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "火把节",
+    "en": "Torch Festival",
+    "ja": "松明祭（火把節）"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/火把节",
+    "en": "https://en.wikipedia.org/wiki/Torch_Festival"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://www.ecologica.cn/html/2023/14/stxb202207131998.htm",
+  "https://zh.wikipedia.org/wiki/攀枝花市",
+  "https://zh.wikipedia.org/wiki/凉山彝族自治州",
+  "https://zh.wikipedia.org/wiki/火把节",
+  "https://zh.wikipedia.org/wiki/雅砻江",
+  "https://zh.wikipedia.org/wiki/攀西地区"
+ ]
+}

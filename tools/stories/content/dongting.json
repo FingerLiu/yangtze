@@ -1,0 +1,103 @@
+{
+ "locationId": "dongting",
+ "facets": {
+  "nature": {
+   "story": [
+    {
+     "zh": "洞庭湖与其说是一个湖，不如说是一套吞吐系统。南面纳湘、资、沅、澧四水，北面由松滋、太平、藕池三口分入荆江的洪水；蓄满之后，再从东端城陵矶一条长约十四公里、平均宽一公里的水道，把水还给长江。",
+     "en": "Dongting is less a lake than a set of lungs. From the south it takes in the Xiang, Zi, Yuan and Li; from the north, three breaches on the Jingjiang bank — Songzi, Taiping and Ouchi — push the river's floodwater in. When it has drunk its fill it hands the water back through a single channel at Chenglingji, some fourteen kilometres long and on average a kilometre wide.",
+     "ja": "洞庭湖はひとつの湖というより、ひと組の肺である。南からは湘・資・沅・澧の四水を吸い込み、北からは松滋・太平・藕池の三口を通って荊江の洪水が流れ込む。飲みきったあとは、東端の城陵磯にある長さ約十四キロ、幅平均一キロの水路から、水を長江へ返す。"
+    },
+    {
+     "zh": "「八百里洞庭」并非虚辞：清顺治至道光年间，汛期湖面曾达约六千平方公里。此后泥沙淤积与围湖造田不断削减它——1896年四千三百五十平方公里，1949年三千九百一十五，1983年只剩两千六百二十五，湖体也被切成东、南、西三片。",
+     "en": "\"Eight hundred li of Dongting\" was no poet's exaggeration: between the Shunzhi and Daoguang reigns of the Qing the flood-season surface reached some 6,000 square kilometres. Silt and the steady conversion of water into paddy then ate it away — 4,350 km² in 1896, 3,915 in 1949, only 2,625 by 1983 — and the body itself was cut into an eastern, a southern and a western lake.",
+     "ja": "「八百里洞庭」は誇張ではなかった。清の順治から道光にかけて、増水期の湖面は約六千平方キロに達したという。その後、土砂の堆積と囲湖造田が湖を削っていく。1896年に4350平方キロ、1949年に3915、1983年には2625。湖体そのものも東・南・西の三つに裂かれた。"
+    },
+    {
+     "zh": "1998年长江大水之后，「退田还湖」重新给湖让路，目标是把高洪水位时的湖面恢复到四千三百五十平方公里。今天天然湖面约两千八百二十平方公里，连同还湖的堤垸共约三千九百六十八。湖退一步，冬天的洲滩就多一片候鸟落脚的地方。",
+     "en": "After the great flood of 1998 the polders began to be handed back: the stated goal was to restore 4,350 square kilometres at high water. Today the natural lake covers about 2,820 km², rising to roughly 3,968 once the returned embankments are counted. Every step the farmland retreats is another sandbar for the geese to stand on in winter.",
+     "ja": "1998年の大洪水ののち、「退田還湖」——田を退けて湖に返す政策がはじまる。高水位時に4350平方キロを取り戻すのが目標だった。現在の天然湖面は約2820平方キロ、還湖分を合わせて約3968。田が一歩退くごとに、冬の渡り鳥が降り立つ干潟がひとつ増える。"
+    }
+   ]
+  },
+  "history": {
+   "story": [
+    {
+     "zh": "建安十三年（208年）冬，曹操号称八十万众南下，周瑜估其实数不过二十余万，而孙刘联军约五万。黄盖诈降，载薪的船队顺风撞入连环战舰，火起，北军溃。此后曹操再无力越江，三分之势由此定形。",
+     "en": "In the winter of 208 Cao Cao came south with a host he called eight hundred thousand; Zhou Yu reckoned the true number nearer two hundred thousand, against some fifty thousand allied troops. Huang Gai sent a letter offering surrender, then sailed a squadron packed with kindling downwind into Cao's chained fleet, fired it and slipped away. The north never crossed the river again, and the Three Kingdoms took their shape.",
+     "ja": "建安十三年（208年）の冬、曹操は八十万と号する軍を率いて南下した。周瑜の見立てでは実数二十数万、対する孫劉連合軍は約五万。黄蓋は偽りの降伏状を送り、薪を積んだ船団を風に乗せて連環の艦隊へ突入させ、火を放って離脱する。北軍は崩れ、以後曹操が江を越えることはなかった。"
+    },
+    {
+     "zh": "赤壁究竟在哪里，争了一千三百多年。今湖北赤壁市原名蒲圻，1998年才改用这个名字；嘉鱼、武昌一带亦各有其说，战场的确切位置至今没有定论。被后世记住的从来不是坐标，而是那一夜的火。",
+     "en": "Where exactly the Red Cliffs stood has been argued for more than thirteen centuries. The city that carries the name today was plain Puqi until 1998; Jiayu and Wuhan press rival claims, and the site has never been conclusively settled. What survived was never a set of coordinates. It was a fire on the water, one night.",
+     "ja": "赤壁がどこであったかは、千三百年以上争われてきた。いま「赤壁市」を名のる街は1998年まで蒲圻といい、嘉魚にも武漢にも別の説がある。座標はついに定まらない。後世が記憶したのは場所ではなく、あの一夜の火だった。"
+    },
+    {
+     "zh": "同一年，东吴鲁肃在洞庭湖畔的城头筑起阅军楼，用以检阅水军，那便是岳阳楼的前身。1046年，从未登临此楼的范仲淹为它写下「先天下之忧而忧，后天下之乐而乐」。今天所见的楼，是清光绪六年（1880年）重建的。",
+     "en": "That same year, on the wall above Dongting, the Wu general Lu Su raised a platform for reviewing his navy — the ancestor of Yueyang Tower. In 1046 Fan Zhongyan, who had never once climbed it, wrote for it the line that became a credo: worry before the world worries, take pleasure after the world takes pleasure. The tower you climb today was rebuilt in 1880.",
+     "ja": "同じ年、呉の魯粛は洞庭湖を見下ろす城壁の上に、水軍を閲するための楼を築いた。岳陽楼の前身である。1046年、一度も登ったことのない范仲淹がこの楼のために「天下の憂いに先んじて憂い、天下の楽しみに後れて楽しむ」と書いた。いま建つ楼は清の光緒六年（1880年）の再建である。"
+    }
+   ]
+  }
+ },
+ "links": [
+  {
+   "label": {
+    "zh": "洞庭湖",
+    "en": "Dongting Lake",
+    "ja": "洞庭湖"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/洞庭湖",
+    "en": "https://en.wikipedia.org/wiki/Dongting_Lake",
+    "ja": "https://ja.wikipedia.org/wiki/洞庭湖"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "赤壁之战",
+    "en": "Battle of Red Cliffs",
+    "ja": "赤壁の戦い"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/赤壁之战",
+    "en": "https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs",
+    "ja": "https://ja.wikipedia.org/wiki/赤壁の戦い"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "岳阳楼",
+    "en": "Yueyang Tower",
+    "ja": "岳陽楼"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/岳阳楼",
+    "en": "https://en.wikipedia.org/wiki/Yueyang_Tower",
+    "ja": "https://ja.wikipedia.org/wiki/岳陽楼"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Dongting_Lake",
+  "https://zh.wikipedia.org/wiki/洞庭湖",
+  "https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs",
+  "https://zh.wikipedia.org/wiki/赤壁市",
+  "https://en.wikipedia.org/wiki/Yueyang_Tower"
+ ]
+}

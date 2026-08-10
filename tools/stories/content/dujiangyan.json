@@ -1,0 +1,50 @@
+{
+  "locationId": "dujiangyan",
+  "facets": {
+    "history": {
+      "story": [
+        {
+          "zh": "秦国蜀郡守李冰约在公元前256年至前251年间主持始建。玉垒山横在岷江东岸，没有火药可用，工匠便在岩壁上堆柴纵火，烧透后再泼冷水，让岩石在骤冷中开裂，一层层剥下来。凿通后的宝瓶口，进水处宽七十米，出水处收到四五十米。",
+          "en": "Li Bing, governor of Shu for the state of Qin, began the works around 256–251 BCE. Mount Yulei stood in the way on the Min River's eastern bank, and there was no gunpowder. So the crews stacked brushwood against the cliff, set it alight, then doused the glowing rock with cold water until it split and could be prised away in layers. The channel they finally cut takes water in seventy metres wide and lets it out at forty to fifty.",
+          "ja": "秦の蜀郡守・李冰が、紀元前256年から前251年ごろにかけて築き始めました。岷江の東岸には玉塁山が立ちはだかり、火薬はまだありません。そこで職人たちは岩壁に薪を積んで火を放ち、焼けきったところへ冷水を浴びせ、急冷で割れた岩を層ごとに剥がしていきました。こうして開いた宝瓶口は、入口が幅70メートル、出口は40〜50メートルに絞られています。"
+        },
+        {
+          "zh": "三个部件其实只在做算术。鱼嘴按季节分水：春旱时六成入内江灌田，洪期六成推向外江。飞沙堰更巧，内江流量一过每秒一千立方米，约四成洪水与九成八的泥沙就被甩回外江。不设坝、不设闸，让河自己完成筛选。",
+          "en": "The three parts are really doing arithmetic. The Fish Mouth divides by season: in the dry spring six parts in ten go inward to the fields, in flood six parts are pushed back out to the outer river. The Flying Sand Weir is subtler still — once the inner flow passes a thousand cubic metres a second, roughly forty per cent of the flood and ninety-eight per cent of the silt is flung back out. No dam, no gate: the river sorts itself.",
+          "ja": "三つの仕掛けは、要するに算術をしています。魚嘴は季節で水を分け、春の渇水期は六割を内江へ、洪水期は六割を外江へ送ります。飛沙堰はさらに巧妙で、内江の流量が毎秒1000立方メートルを超えると、洪水の約四割と土砂の九割八分が外江へ弾き返されます。ダムも水門も置かず、川自身に選り分けさせるのです。"
+        },
+        {
+          "zh": "它一直在长大。1937年统计灌田二百六十三万余亩，如今超过一千万亩。1974年，外江河床里挖出一尊李冰石像，落款是东汉建宁元年（168年）——离他去世已近四百年，人们还在为他立像。2000年，都江堰与青城山一同列入世界遗产。",
+          "en": "It has never stopped growing. In 1937 it watered some 2.64 million mu; today more than ten million. In 1974 a stone statue of Li Bing was lifted out of the outer riverbed, its inscription dated to 168 CE — four centuries after his death, people were still carving him. In 2000 Dujiangyan and Mount Qingcheng entered the World Heritage list together.",
+          "ja": "この水利は育ち続けました。1937年の灌漑面積は263万余畝、いまは一千万畝を超えます。1974年には外江の川床から李冰の石像が現れました。銘は後漢・建寧元年（168年）。没後四百年近く経ってなお、人々は像を刻んでいたのです。2000年、都江堰は青城山とともに世界遺産に登録されました。"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "label": { "zh": "都江堰", "en": "Dujiangyan", "ja": "都江堰" },
+      "href": {
+        "zh": "https://zh.wikipedia.org/wiki/都江堰",
+        "en": "https://en.wikipedia.org/wiki/Dujiangyan",
+        "ja": "https://ja.wikipedia.org/wiki/都江堰"
+      },
+      "source": { "zh": "维基百科", "en": "Wikipedia", "ja": "ウィキペディア" }
+    },
+    {
+      "label": {
+        "zh": "世界遗产：青城山与都江堰",
+        "en": "UNESCO: Mount Qingcheng and the Dujiangyan Irrigation System",
+        "ja": "世界遺産：青城山と都江堰"
+      },
+      "href": { "en": "https://whc.unesco.org/en/list/1001" },
+      "source": { "zh": "联合国教科文组织", "en": "UNESCO", "ja": "ユネスコ" }
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dujiangyan",
+    "https://zh.wikipedia.org/wiki/都江堰",
+    "https://ja.wikipedia.org/wiki/都江堰",
+    "https://whc.unesco.org/en/list/1001"
+  ]
+}

@@ -32,6 +32,23 @@ const baseEvents: RiverEvent[] = [
     ),
   },
   {
+    id: 'buckwheat',
+    year: -1050,
+    endYear: -750,
+    title: l(
+      '迪庆的炭化荞麦',
+      'Charred Buckwheat at Diqing',
+      '迪慶の炭化ソバ',
+    ),
+    locationId: 'jinshajiang',
+    category: '文明史',
+    description: l(
+      '三千年前落进火里的几粒荞麦，烧成炭留了下来——上游山地最早有测年的荞麦实物。',
+      'A few grains that fell into a fire three thousand years ago and survived as charcoal — the earliest dated buckwheat in the upper river’s mountains.',
+      '三千年前、火に落ちて炭となり残った数粒のソバ。上流の山地で年代の得られた最古のソバの実物です。',
+    ),
+  },
+  {
     id: 'jinancheng',
     year: -689,
     endYear: -278,

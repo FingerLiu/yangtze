@@ -1,0 +1,61 @@
+{
+ "eventId": "liangzhu",
+ "story": [
+  {
+   "zh": "1936年，施昕更在杭州余杭的黑陶碎片里认出了故乡的史前。此后八十余年，考古学家把一座城从稻田下剥了出来：内城约三百公顷，城墙宽二十到六十米；城心的莫角山夯土台东西六百七十米、南北四百五十米，高出地面九至十五米——全是一筐一筐挑上去的。",
+   "en": "In 1936 a young surveyor named Shi Xingeng recognised his hometown's prehistory in a scatter of black pottery near Hangzhou. Eight decades of digging have since peeled a city out of the rice paddies: an inner enclosure of some 300 hectares, walls twenty to sixty metres thick, and at its heart the Mojiaoshan platform — 670 metres by 450, raised nine to fifteen metres above the plain, one carrying-basket at a time.",
+   "ja": "1936年、施昕更は杭州郊外の黒陶の破片に故郷の先史を見た。以来八十余年の発掘が、水田の下から都市を掘り出していく。内城はおよそ三百ヘクタール、城壁の幅は二十から六十メートル。中心の莫角山は東西六百七十メートル、南北四百五十メートル、地面より九〜十五メートル高い人工の台地である。"
+  },
+  {
+   "zh": "更惊人的在城外。良渚人在西北山谷间筑起十一条坝体，分作山前长堤、谷口高坝与平原低坝，总土方量约二百八十八万立方米，是目前已知世界上最早的拦洪水坝系统。碳十四测年在距今约四千七百至五千一百年之间。它们蓄水、通航，把沼泽变成可耕可行舟的家园。",
+   "en": "The greater wonder lies outside the walls. Eleven dams — a long dyke along the hills, high dams across valley mouths, low dams linking the islets of the plain — moved some 2.88 million cubic metres of earth, the oldest flood-blocking dam system yet known anywhere. Radiocarbon puts them between roughly 5,100 and 4,700 years ago. They held back floods, stored water and floated boats, turning marsh into a country that could be farmed and sailed.",
+   "ja": "驚くべきはむしろ城の外だ。山際の長堤、谷口の高いダム、平野の低いダム——十一の堤体が動かした土量は約二百八十八万立方メートル。現在知られるかぎり世界最古の防洪ダム群であり、炭素十四年代は約五千百年前から四千七百年前のあいだに収まる。洪水を止め、水を蓄え、舟を通し、湿地を耕せる土地に変えた。"
+  },
+  {
+   "zh": "城里出土的玉琮与玉璧，占了这一时期同类玉器的绝大多数；纹样一丝不苟，却没有留下可读的文字。约四千三百年前，一场持续数十年的降水骤增淹没了低地，良渚人弃城而去。2019年七月六日，这座城被列入世界遗产名录。",
+   "en": "The jade found here — cong tubes, bi discs — accounts for the overwhelming majority of such pieces surviving from the period, cut with exacting care yet leaving behind no readable script. Around 4,300 years ago decades of surging rainfall drowned the lowlands and the Liangzhu people walked away from their capital. On 6 July 2019 the ruins entered the World Heritage list.",
+   "ja": "ここから出た玉琮や玉璧は、同時代の同種の玉器の圧倒的多数を占める。文様は精緻をきわめるのに、読める文字は一つも残さなかった。約四千三百年前、数十年続いた降水の激増が低地を沈め、人々は都を捨てる。2019年七月六日、遺跡は世界遺産に登録された。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "良渚古城遗址",
+    "en": "Liangzhu Culture",
+    "ja": "良渚文化"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/良渚古城遗址",
+    "en": "https://en.wikipedia.org/wiki/Liangzhu_culture",
+    "ja": "https://ja.wikipedia.org/wiki/良渚文化"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "良渚古城外围水利工程遗址",
+    "en": "Liangzhu Peripheral Water Conservancy System",
+    "ja": "良渚古城外郭水利システム遺跡"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/良渚古城外围水利工程遗址"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/良渚古城遗址",
+  "https://en.wikipedia.org/wiki/Liangzhu_culture",
+  "https://zh.wikipedia.org/wiki/良渚古城外围水利工程遗址",
+  "https://z.hangzhou.com.cn/2019/lzgcyzsycg/content/content_7219915.html",
+  "https://www.lzmuseum.cn/QiTa1/2025344760349.html"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "eventId": "wuhan-bridge",
+ "story": [
+  {
+   "zh": "1955年9月1日开工，1957年10月15日通车，只用了两年零一个半月。正桥一千一百五十六米，连引桥全长一千六百七十米；八墩九孔，每孔跨度一百二十八米。上层是双向四车道公路带人行道，下层是京广铁路复线——一座桥同时担两条路。",
+   "en": "Work began on 1 September 1955 and the bridge opened on 15 October 1957 — two years and six weeks. The main span structure runs 1,156 metres, 1,670 metres with the approaches: eight piers, nine openings, each 128 metres clear. A four-lane road with footways rides on top, a double-track line of the Beijing–Guangzhou railway below. One bridge carrying two roads at once.",
+   "ja": "1955年九月一日に着工し、五七年十月十五日に開通。わずか二年と六週間である。正橋は千百五十六メートル、取付部を含めて千六百七十メートル。橋脚八基、九径間、各径間は百二十八メートル。上層は片側二車線の道路と歩道、下層は京広鉄道の複線——一つの橋が二本の道を同時に背負う。"
+  },
+  {
+   "zh": "难在江底。传统的气压沉箱法要工人在高压下深水作业，既伤身体，又受汛期限制；苏联专家西林力主改用管柱钻孔法，把管柱打入岩层再钻孔灌注。二十八人的专家组驻在工地上，桥本身的造价最终为六千五百八十一万元。",
+   "en": "The difficulty lay on the riverbed. Compressed-air caissons meant men working deep under pressure, damaging to health and hostage to the flood season; the Soviet consultant Konstantin Silin argued instead for sinking large tubular piles and drilling through them into rock. A team of twenty-eight Soviet engineers lived on the site. The bridge itself finally cost 65.81 million yuan.",
+   "ja": "難所は川底にあった。従来の圧気ケーソン工法は高圧下での深水作業を強い、身体を損ない、増水期にも縛られる。ソ連の技師シーリンは、大口径の管柱を打ち込んで岩盤まで削孔する新工法を強く勧めた。二十八人の専門家団が現場に住み込み、橋そのものの工費は最終的に六千五百八十一万元となった。"
+  },
+  {
+   "zh": "通车之前，火车过江要拆成车厢由轮渡驳运；通车之后，京汉、粤汉两线在此接轨，京广铁路从北京直达广州。毛泽东写下「一桥飞架南北，天堑变通途」——那不是修辞，是一天之内发生的事实。",
+   "en": "Before it opened, trains crossed the Yangtze in pieces, shunted onto ferries. After it opened, the Beijing–Hankou and Canton–Hankou lines met here and the Beijing–Guangzhou railway ran unbroken from the capital to the south coast. Mao's line — \"a bridge flies north to south, the moat of heaven becomes a road\" — was not a figure of speech but a fact that happened in a single day.",
+   "ja": "開通前、列車は車両ごとに切り離され、渡し船で川を渡された。開通後、京漢線と粤漢線がここで接続し、京広鉄道は北京から広州まで一本につながる。毛沢東の「一橋飛んで南北を架し、天塹は通途と変ず」は修辞ではなく、たった一日で起きた事実だった。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "武汉长江大桥",
+    "en": "Wuhan Yangtze River Bridge",
+    "ja": "武漢長江大橋"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/武汉长江大桥",
+    "en": "https://en.wikipedia.org/wiki/Wuhan_Yangtze_River_Bridge",
+    "ja": "https://ja.wikipedia.org/wiki/武漢長江大橋"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/武汉长江大桥",
+  "https://en.wikipedia.org/wiki/Wuhan_Yangtze_River_Bridge"
+ ]
+}

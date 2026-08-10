@@ -1,0 +1,103 @@
+{
+ "locationId": "tuotuohe",
+ "facets": {
+  "nature": {
+   "story": [
+    {
+     "zh": "长江的第一滴水落在唐古拉山各拉丹冬峰的西南坡。这座海拔六千六百二十一米的雪峰身披四十条冰川，冰盖约六百七十平方公里，雪线高踞五千八百米。冰舌融水自姜根迪如冰川渗出，向北汇成沱沱河——万里大江的旅程，就从这一线融水开始。",
+     "en": "The Yangtze's first water falls on the south-western flank of Geladandong, a 6,621-metre peak in the Tanggula range. Forty glaciers hang from its shoulders — some 670 square kilometres of ice, the snowline held at 5,800 metres. Meltwater seeps out of the Jianggendiru glacier and gathers northward into the Tuotuo. A journey of six thousand kilometres begins as a thread of thaw.",
+     "ja": "長江の最初の一滴は、唐古拉（タングラ）山脈の主峰・各拉丹冬、標高6621メートルの南西斜面に落ちる。四十条の氷河がその肩に垂れ、氷の広がりはおよそ670平方キロ、雪線は5800メートルの高みにある。姜根迪如氷河からしみ出した融け水が北へ集まり、沱沱河となる。六千キロの旅は、一筋の雪解け水から始まる。"
+    },
+    {
+     "zh": "沱沱河全长三百五十八公里，流域一万七千平方公里，年均流量却只有每秒三十二立方米，比江南一条不起眼的溪流大不了多少。它也不肯走一条道，而是在开阔的滩地上散成无数股辫状水道，随季节改换河床，像还没想好去哪儿。",
+     "en": "The Tuotuo runs 358 kilometres and drains 17,000 square kilometres, yet carries a mean flow of only 32 cubic metres a second — no more than a modest creek anywhere else in China. Nor does it keep to one channel. Across the open flats it splits into countless braided strands and shifts its bed with the season, like a river that has not yet decided where it is going.",
+     "ja": "沱沱河は全長358キロ、流域面積一万七〇〇〇平方キロ。それでいて年平均流量は毎秒三二立方メートルにすぎず、江南のありふれた小川とさして変わらない。一本の流路を守ることもない。開けた河原で無数の辮状流路に分かれ、季節ごとに川床を変える。行く先をまだ決めかねているかのように。"
+    },
+    {
+     "zh": "源头不止一处。沱沱河是传统认定的西源，东南方的当曲水量却是它的五六倍，流域面积近两倍，今日多被视作正源。二者同属三江源——这片2021年设立的国家公园面积十九万平方公里，平均海拔四千七百米以上，五千余平方公里冰川蓄水约四千亿立方米，人称中华水塔。",
+     "en": "There is more than one source. The Tuotuo is the traditional western headstream, but the Dangqu to its south-east carries five or six times the flow and drains nearly twice the area; many surveys now name it the true one. Both lie inside Sanjiangyuan, the national park declared in 2021 across 190,000 square kilometres at an average altitude above 4,700 metres, where more than 5,000 square kilometres of glacier hold some 400 billion cubic metres of water. China calls it the Water Tower.",
+     "ja": "源流は一つではない。沱沱河は伝統的な西源だが、南東の当曲は水量がその五、六倍、流域面積は二倍近くあり、今日では正源とみなす調査も多い。いずれも三江源のうちにある。2021年に設立されたこの国立公園は面積一九万平方キロ、平均標高4700メートル超。5000平方キロを超える氷河がおよそ4000億立方メートルの水を蓄える。人はここを「中華水塔」と呼ぶ。"
+    }
+   ]
+  },
+  "culture": {
+   "story": [
+    {
+     "zh": "玉树藏族自治州占地二十万四千余平方公里，人口却只有四十二万，其中藏族占九成五。平均海拔四千二百米以上，青稞难以成熟，牛羊尚能存活：这里是青海最重要的牧业基地，畜产品约占全省四分之一。人跟着草走，草跟着水走。",
+     "en": "Yushu Tibetan Autonomous Prefecture covers more than 204,000 square kilometres and holds only 425,000 people, ninety-five per cent of them Tibetan. Above an average altitude of 4,200 metres barley struggles to ripen, but yak and sheep endure: this is Qinghai's foremost pastoral base, supplying about a quarter of the province's animal produce. People follow the grass, and the grass follows the water.",
+     "ja": "玉樹チベット族自治州は二〇万四〇〇〇平方キロを超える広さを持ちながら、人口はわずか四二万、その九五パーセントがチベット族である。平均標高4200メートル以上では青稞（ハダカムギ）も実りにくいが、ヤクや羊は生きられる。ここは青海省随一の牧畜基地であり、省全体の畜産物のおよそ四分の一を産する。人は草を追い、草は水を追う。"
+    },
+    {
+     "zh": "州府结古自古是唐蕃古道上的重镇。这条三千余公里的通道东起长安、西至逻些，634年至850年间，蕃使至唐一百二十五次，唐使入蕃六十五次，平均一年半便有一趟往还。641年文成公主西行入蕃，正是由此渡通天河，再翻唐古拉山口。",
+     "en": "Jiegu, the prefectural seat, has long been a way-station on the Tang–Tibet road, a corridor of more than 3,000 kilometres from Chang'an to Lhasa. Between 634 and 850 Tibetan envoys reached the Tang court 125 times and Tang envoys went to Tibet 65 times — a mission each way roughly every eighteen months. In 641 Princess Wencheng travelled it westward, fording the Tongtian here before crossing the Tanggula pass.",
+     "ja": "州都・結古は古くから唐蕃古道の要衝だった。長安から逻些（ラサ）まで3000キロを超えるこの道を、634年から850年のあいだに吐蕃の使節は125回唐へ、唐の使節は六五回吐蕃へと往来した。平均すれば一年半に一度の行き来である。641年、文成公主が西へ向かったのもこの道で、ここで通天河を渡り、唐古拉峠を越えていった。"
+    },
+    {
+     "zh": "2010年四月十四日，7.1级地震袭击玉树，结古镇九成以上房屋倒塌，遇难者数以千计。重建后的新城沿巴塘河谷展开，帐篷与楼房并置，寺院照旧诵经。高原上的生活从不轻易，人们仍旧把家安在离水最近的地方。",
+     "en": "On 14 April 2010 a magnitude 7.1 earthquake struck Yushu; more than ninety per cent of the houses in Jiegu came down and the dead were counted in thousands. The rebuilt town now spreads along the Batang valley, tents standing beside apartment blocks, the monasteries chanting as before. Life up here has never been easy, and still people set their homes as close to the water as they can.",
+     "ja": "2010年四月一四日、マグニチュード七・一の地震が玉樹を襲い、結古鎮の家屋の九割以上が倒れ、犠牲者は数千人に及んだ。再建された町はいま巴塘河の谷に沿って広がり、テントと集合住宅が並び立ち、僧院ではかわらず読経が続く。高原の暮らしは決して楽ではない。それでも人は、水にいちばん近いところに家を建てる。"
+    }
+   ]
+  }
+ },
+ "links": [
+  {
+   "label": {
+    "zh": "沱沱河",
+    "en": "Tuotuo River",
+    "ja": "沱沱河"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/沱沱河",
+    "en": "https://en.wikipedia.org/wiki/Tuotuo_River"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "三江源国家公园",
+    "en": "Sanjiangyuan National Park",
+    "ja": "三江源国家公園"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/三江源国家公园",
+    "en": "https://en.wikipedia.org/wiki/Sanjiangyuan"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  },
+  {
+   "label": {
+    "zh": "玉树藏族自治州",
+    "en": "Yushu Tibetan Autonomous Prefecture",
+    "ja": "玉樹チベット族自治州"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/玉树藏族自治州",
+    "en": "https://en.wikipedia.org/wiki/Yushu_Tibetan_Autonomous_Prefecture",
+    "ja": "https://ja.wikipedia.org/wiki/玉樹チベット族自治州"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/沱沱河",
+  "https://zh.wikipedia.org/wiki/长江源",
+  "https://zh.wikipedia.org/wiki/各拉丹冬峰",
+  "https://zh.wikipedia.org/wiki/三江源国家公园",
+  "https://zh.wikipedia.org/wiki/玉树藏族自治州",
+  "https://zh.wikipedia.org/wiki/可可西里",
+  "https://www.neac.gov.cn/seac/c103391/202212/1159838.shtml"
+ ]
+}

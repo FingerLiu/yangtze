@@ -1,0 +1,43 @@
+{
+ "eventId": "xiluodu",
+ "story": [
+  {
+   "zh": "坝址在云南永善与四川雷波交界的溪洛渡峡谷，两岸壁立，江面窄得像被夹住。2005年12月26日动工，2007年11月8日截流，2013年7月15日首台机组正式发电，2014年6月30日十八台机组全部投产。",
+   "en": "The site is the Xiluodu gorge on the border of Yongshan in Yunnan and Leibo in Sichuan, where the cliffs stand sheer and the river is squeezed narrow. Construction began on 26 December 2005, the river was closed on 8 November 2007, the first unit generated on 15 July 2013, and all eighteen were running by 30 June 2014.",
+   "ja": "堤址は雲南省永善県と四川省雷波県の境、渓洛渡峡谷にある。両岸は屏風のように切り立ち、川幅は挟まれたように細い。2005年十二月二十六日着工、〇七年十一月八日締切、一三年七月十五日に初号機が発電を開始し、一四年六月三十日に十八台すべてが動き出した。"
+  },
+  {
+   "zh": "混凝土双曲拱坝高285.5米，把江水锁进峡口，力沿着弧面传给两岸的岩壁。峡谷太窄，厂房无处安放，只能挖进山里：左右岸各九台七十七万千瓦机组，构成世界最大的地下厂房洞室群。总装机一千三百八十六万千瓦，水库总库容126.7亿立方米。",
+   "en": "A concrete double-curvature arch dam 285.5 metres high plugs the gorge, passing its load along the curve into the rock of both banks. The gorge was too narrow for a powerhouse, so the powerhouse went into the mountain: nine 770 MW units on each side, the largest underground cavern complex of its kind in the world. Installed capacity 13,860 MW; reservoir volume 12.67 billion cubic metres.",
+   "ja": "コンクリート二重アーチダムは高さ二百八十五・五メートル。水を峡谷の口に封じ、力を弧面づたいに両岸の岩へ逃がす。谷が狭すぎて発電所を置く場所がなく、山を掘って中に入れた。左右両岸に七十七万キロワット機を九台ずつ、世界最大級の地下空洞群である。総出力千三百八十六万キロワット、貯水容量百二十六・七億立方メートル。"
+  },
+  {
+   "zh": "它不是孤立的一座坝，而是金沙江下游梯级中的一级——上游还有更高的坝，下游连着三峡。整条长江上游的落差，被一级一级切开、再一级一级换成电，溪洛渡是其中最陡的那一段。",
+   "en": "It does not stand alone: it is one step of the lower-Jinsha cascade, with higher dams above it and the Three Gorges below. The whole fall of the upper Yangtze is being cut into steps and traded, step by step, for electricity — and Xiluodu holds one of the steepest of them.",
+   "ja": "これは孤立した一基のダムではない。金沙江下流の階段式開発の一段であり、上流にはさらに高い堤が、下流には三峡が控える。長江上流の落差は一段ずつ切り分けられ、一段ずつ電気に換えられてゆく。渓洛渡はその中でも、もっとも急な一段だ。"
+  }
+ ],
+ "links": [
+  {
+   "label": {
+    "zh": "溪洛渡水电站",
+    "en": "Xiluodu Dam",
+    "ja": "渓洛渡ダム"
+   },
+   "href": {
+    "zh": "https://zh.wikipedia.org/wiki/溪洛渡水电站",
+    "en": "https://en.wikipedia.org/wiki/Xiluodu_Dam",
+    "ja": "https://ja.wikipedia.org/wiki/溪洛渡ダム"
+   },
+   "source": {
+    "zh": "维基百科",
+    "en": "Wikipedia",
+    "ja": "ウィキペディア"
+   }
+  }
+ ],
+ "sources": [
+  "https://zh.wikipedia.org/wiki/溪洛渡水电站",
+  "https://en.wikipedia.org/wiki/Xiluodu_Dam"
+ ]
+}
